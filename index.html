@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Socorro Capiberibe</title>
+  <link rel="stylesheet" href="style.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Lora:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet" />
+</head>
+<body>
+
+  <!-- NAVBAR -->
+  <header class="navbar">
+    <div class="navbar-brand">
+      <img src="imagens/imagem_navbar.jpeg" alt="Socorro Capiberibe" class="navbar-avatar" />
+      <span class="navbar-name">Socorro Capiberibe</span>
+    </div>
+    <button class="menu-toggle" aria-label="Abrir menu" aria-expanded="false">
+      <span></span><span></span><span></span>
+    </button>
+    <nav class="navbar-links" id="main-nav">
+      <a href="#home" class="nav-link active" data-page="home">Home</a>
+      <a href="#contos" class="nav-link" data-page="contos">Contos e Crônicas</a>
+      <a href="#sobre" class="nav-link" data-page="sobre">Sobre mim</a>
+      <a href="#contato" class="nav-link" data-page="contato">Contato</a>
+    </nav>
+  </header>
+
+  <!-- PÁGINAS -->
+  <main>
+
+    <!-- HOME -->
+    <section class="page active" id="home">
+      <div class="heart heart-left">♥</div>
+      <div class="heart heart-right">♥</div>
+
+      <div class="home-intro">
+        <h1>BEM-VINDO(A)!</h1>
+        <p>Olá, me chamo Maria do Socorro Capiberibe Maia e é um prazer imenso ter você por aqui em meu site!
+          Aqui colocarei algumas curiosidades sobre mim, obras de minha autoria e muito mais!</p>
+      </div>
+
+      <div class="livros-section">
+        <h2>Livros de minha autoria</h2>
+        <div class="busca-livro">
+          <input type="text" id="busca-input" placeholder="Encontre um livro específico pelo título..." />
+        </div>
+        <div class="livros-lista" id="livros-lista">
+          <!-- Preenchido via data.js -->
+        </div>
+      </div>
+    </section>
+
+    <!-- CONTOS E CRÔNICAS -->
+    <section class="page" id="contos">
+      <div class="heart heart-left">♥</div>
+      <div class="heart heart-right">♥</div>
+
+      <div class="page-header">
+        <h1>Entre Linhas e Afetos...</h1>
+        <p class="page-subtitle">
+          Bem-vindo(a) à minha "Sala de Leitura" digital. Aqui, as palavras deixam as páginas dos livros para ganhar
+          o mundo. Este espaço é dedicado aos contos e crônicas que nasceram do olhar atento ao cotidiano, das
+          memórias que guardo e das histórias que valem ser contadas. Sinta-se em casa para ler, refletir e
+          mergulhar em cada narrativa.
+        </p>
+      </div>
+
+      <div class="contos-lista" id="contos-lista">
+        <!-- Preenchido via data.js -->
+      </div>
+    </section>
+
+    <!-- SOBRE MIM -->
+    <section class="page" id="sobre">
+      <div class="bird bird-tl"></div>
+      <div class="bird bird-tr"></div>
+      <div class="bird bird-bl"></div>
+      <div class="bird bird-br"></div>
+
+      <div class="sobre-content">
+        <h1>Um pouco sobre mim:</h1>
+        <div class="sobre-foto-wrap">
+          <img src="assets/foto-sobre.jpg" alt="Socorro Capiberibe" class="sobre-foto" />
+        </div>
+        <div class="sobre-bio" id="sobre-bio">
+          <!-- Preenchido via data.js -->
+        </div>
+
+        <div class="curiosidades-section">
+          <h2>Curiosidades</h2>
+          <div class="curiosidades-lista" id="curiosidades-lista">
+            <!-- Preenchido via data.js -->
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- CONTATO -->
+    <section class="page" id="contato">
+      <div class="heart heart-left">♥</div>
+      <div class="heart heart-right">♥</div>
+
+      <div class="contato-content">
+        <h1>Entre em contato</h1>
+        <p class="page-subtitle">Adoraria ouvir de você! Manda uma mensagem. ✉️</p>
+
+        <form class="contato-form" id="contato-form" onsubmit="handleContato(event)">
+          <div class="form-group">
+            <label for="nome">Nome</label>
+            <input type="text" id="nome" name="nome" placeholder="Seu nome" required />
+          </div>
+          <div class="form-group">
+            <label for="email">E-mail</label>
+            <input type="email" id="email" name="email" placeholder="seu@email.com" required />
+          </div>
+          <div class="form-group">
+            <label for="mensagem">Mensagem</label>
+            <textarea id="mensagem" name="mensagem" rows="5" placeholder="Escreva aqui..." required></textarea>
+          </div>
+          <button type="submit" class="btn-enviar">Enviar mensagem</button>
+        </form>
+
+        <div class="contato-redes">
+          <p>Ou me encontre nas redes sociais:</p>
+          <div class="redes-lista" id="redes-lista">
+            <!-- Preenchido via data.js -->
+          </div>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <footer class="footer">
+    <p>© <span id="ano"></span> Socorro Capiberibe — feito com carinho 💕</p>
+  </footer>
+
+  <script src="data.js"></script>
+  <script src="main.js"></script>
+</body>
+</html>

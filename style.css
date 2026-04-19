@@ -1,0 +1,686 @@
+/* ===========================
+   VARIABLES & RESET
+=========================== */
+:root {
+  --salmon: #fa6a6a;
+  --salmon-light: #FEE2E2;
+  --salmon-dark: #DC2626;
+  --cream: #FFFBF7;
+  --text-dark: #1a1a1a;
+  --text-mid: #444;
+  --text-light: #888;
+  --accent: #C0392B;
+  --border: #e8d8d8;
+  --font-display: 'Playfair Display', Georgia, serif;
+  --font-body: 'Lora', Georgia, serif;
+  --nav-h: 64px;
+}
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+html { scroll-behavior: smooth; }
+
+body {
+  font-family: var(--font-body);
+  background: var(--cream);
+  color: var(--text-dark);
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+
+/* ===========================
+   NAVBAR
+=========================== */
+.navbar {
+  position: fixed;
+  top: 0; left: 0; right: 0;
+  height: var(--nav-h);
+  background: var(--salmon);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 32px;
+  z-index: 100;
+  box-shadow: 0 2px 12px rgba(200,60,60,0.15);
+}
+
+.navbar-brand {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  text-decoration: none;
+}
+
+.navbar-avatar {
+  width: 42px;
+  height: 42px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 2px solid white;
+  /* placeholder se não houver imagem */
+  background: var(--salmon-dark);
+}
+
+.navbar-name {
+  font-family: var(--font-display);
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: white;
+  letter-spacing: 0.01em;
+}
+
+.navbar-links {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.nav-link {
+  font-family: var(--font-body);
+  font-size: 0.88rem;
+  color: rgba(255,255,255,0.85);
+  text-decoration: none;
+  padding: 6px 14px;
+  border-radius: 20px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.nav-link:hover {
+  color: white;
+  background: rgba(255,255,255,0.18);
+}
+
+.nav-link.active {
+  color: var(--salmon-dark);
+  background: white;
+  font-weight: 500;
+}
+
+/* Hamburguer mobile */
+.menu-toggle {
+  display: none;
+  flex-direction: column;
+  gap: 5px;
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 6px;
+}
+.menu-toggle span {
+  display: block;
+  width: 24px;
+  height: 2px;
+  background: white;
+  border-radius: 2px;
+  transition: all 0.25s;
+}
+
+/* ===========================
+   MAIN / PAGES
+=========================== */
+main {
+  padding-top: var(--nav-h);
+  min-height: calc(100vh - var(--nav-h));
+}
+
+.page {
+  display: none;
+  min-height: calc(100vh - var(--nav-h));
+  padding: 56px 48px 80px;
+  position: relative;
+  animation: fadeIn 0.35s ease;
+}
+
+.page.active {
+  display: block;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+/* ===========================
+   CORAÇÃO DECORATIVO
+=========================== */
+.heart {
+  position: absolute;
+  font-size: 4rem;
+  color: var(--salmon);
+  opacity: 0.55;
+  pointer-events: none;
+  user-select: none;
+  line-height: 1;
+}
+.heart-left  { top: 48px; left: 16px; }
+.heart-right { top: 48px; right: 16px; }
+
+/* ===========================
+   HOME
+=========================== */
+.home-intro {
+  max-width: 640px;
+  margin: 0 auto 56px;
+  text-align: center;
+  padding: 0 16px;
+}
+
+.home-intro h1 {
+  font-family: var(--font-display);
+  font-size: clamp(1.6rem, 4vw, 2.4rem);
+  font-weight: 700;
+  color: var(--text-dark);
+  margin-bottom: 18px;
+}
+
+.home-intro p {
+  font-size: 1.05rem;
+  line-height: 1.75;
+  color: var(--text-mid);
+}
+
+/* Livros */
+.livros-section {
+  max-width: 760px;
+  margin: 0 auto;
+}
+
+.livros-section h2 {
+  font-family: var(--font-display);
+  font-size: clamp(1.2rem, 3vw, 1.7rem);
+  text-align: center;
+  margin-bottom: 14px;
+  color: var(--text-dark);
+}
+
+.busca-livro {
+  margin-bottom: 28px;
+  text-align: center;
+}
+
+.busca-livro input {
+  width: 100%;
+  max-width: 420px;
+  padding: 10px 18px;
+  border: 1.5px solid var(--border);
+  border-radius: 24px;
+  font-family: var(--font-body);
+  font-size: 0.92rem;
+  color: var(--text-dark);
+  background: white;
+  outline: none;
+  transition: border-color 0.2s;
+}
+.busca-livro input:focus {
+  border-color: var(--salmon);
+}
+
+.livros-lista {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+}
+
+.livro-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 24px;
+  padding: 20px 0;
+  border-top: 1px solid var(--border);
+  transition: background 0.15s;
+}
+.livro-item:last-child { border-bottom: 1px solid var(--border); }
+
+.livro-titulo {
+  min-width: 180px;
+  font-size: 0.92rem;
+  color: var(--accent);
+  font-style: italic;
+  padding-top: 4px;
+  flex-shrink: 0;
+}
+
+.livro-fotos {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.livro-fotos img {
+  height: 100px;
+  width: auto;
+  border-radius: 4px;
+  object-fit: cover;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+/* Placeholder para livros sem imagem */
+.livro-foto-placeholder {
+  height: 100px;
+  width: 70px;
+  background: var(--salmon-light);
+  border-radius: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.7rem;
+  color: var(--salmon-dark);
+  text-align: center;
+  padding: 8px;
+}
+
+/* ===========================
+   CONTOS E CRÔNICAS
+=========================== */
+.page-header {
+  max-width: 680px;
+  margin: 0 auto 52px;
+  text-align: center;
+  padding: 0 16px;
+}
+
+.page-header h1 {
+  font-family: var(--font-display);
+  font-size: clamp(1.5rem, 4vw, 2.2rem);
+  font-weight: 700;
+  margin-bottom: 20px;
+  color: var(--text-dark);
+}
+
+.page-subtitle {
+  font-size: 1rem;
+  line-height: 1.8;
+  color: var(--text-mid);
+  font-style: italic;
+}
+
+.contos-lista {
+  max-width: 720px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 36px;
+}
+
+.conto-card {
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 2px 16px rgba(0,0,0,0.06);
+  padding: 32px 36px;
+  border-left: 4px solid var(--salmon);
+  transition: box-shadow 0.2s, transform 0.2s;
+}
+.conto-card:hover {
+  box-shadow: 0 6px 28px rgba(0,0,0,0.1);
+  transform: translateY(-2px);
+}
+
+.conto-card h3 {
+  font-family: var(--font-display);
+  font-size: 1.25rem;
+  color: var(--text-dark);
+  margin-bottom: 8px;
+}
+
+.conto-meta {
+  font-size: 0.8rem;
+  color: var(--text-light);
+  margin-bottom: 14px;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+}
+
+.conto-trecho {
+  font-size: 0.97rem;
+  line-height: 1.75;
+  color: var(--text-mid);
+}
+
+.conto-ler-mais {
+  display: inline-block;
+  margin-top: 14px;
+  font-size: 0.88rem;
+  color: var(--accent);
+  text-decoration: none;
+  border-bottom: 1px solid var(--salmon);
+  cursor: pointer;
+  background: none;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  padding: 0;
+  font-family: var(--font-body);
+  transition: color 0.15s;
+}
+.conto-ler-mais:hover { color: var(--salmon-dark); }
+
+/* Modal de conto completo */
+.modal-overlay {
+  display: none;
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,0.45);
+  z-index: 200;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}
+.modal-overlay.open { display: flex; }
+
+.modal-box {
+  background: var(--cream);
+  border-radius: 16px;
+  max-width: 680px;
+  width: 100%;
+  max-height: 85vh;
+  overflow-y: auto;
+  padding: 40px 44px;
+  position: relative;
+  box-shadow: 0 20px 60px rgba(0,0,0,0.2);
+  animation: fadeIn 0.25s ease;
+}
+
+.modal-close {
+  position: absolute;
+  top: 16px; right: 20px;
+  background: none;
+  border: none;
+  font-size: 1.5rem;
+  cursor: pointer;
+  color: var(--text-light);
+  line-height: 1;
+}
+.modal-close:hover { color: var(--text-dark); }
+
+.modal-box h2 {
+  font-family: var(--font-display);
+  font-size: 1.5rem;
+  margin-bottom: 6px;
+}
+.modal-box .modal-meta {
+  font-size: 0.8rem;
+  color: var(--text-light);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  margin-bottom: 22px;
+}
+.modal-body {
+  font-size: 1rem;
+  line-height: 1.9;
+  color: var(--text-mid);
+  white-space: pre-wrap;
+}
+
+/* ===========================
+   SOBRE MIM
+=========================== */
+/* Pombinhas decorativas */
+.bird {
+  position: absolute;
+  width: 64px;
+  height: 64px;
+  opacity: 0.55;
+  pointer-events: none;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Cellipse cx='32' cy='42' rx='14' ry='10' fill='%23f5e6c0'/%3E%3Cellipse cx='20' cy='38' rx='12' ry='7' fill='%23f5e6c0' transform='rotate(-20 20 38)'/%3E%3Ccircle cx='36' cy='30' r='8' fill='%23f5e6c0'/%3E%3Ccircle cx='40' cy='28' r='2' fill='%23222'/%3E%3Cpath d='M43 26 Q48 22 50 25' stroke='%23f5a623' fill='none' stroke-width='2'/%3E%3Cpath d='M22 42 Q18 50 14 48' stroke='%23f5a623' fill='none' stroke-width='1.5'/%3E%3Cpath d='M28 36 Q24 30 20 32' fill='%23f5e6c0' stroke='none'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.bird-tl { top: 80px; left: 20px; }
+.bird-tr { top: 80px; right: 20px; transform: scaleX(-1); }
+.bird-bl { top: 160px; left: 30px; transform: scale(0.75); }
+.bird-br { top: 160px; right: 30px; transform: scaleX(-1) scale(0.75); }
+
+.sobre-content {
+  max-width: 620px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.sobre-content h1 {
+  font-family: var(--font-display);
+  font-size: clamp(1.5rem, 4vw, 2.1rem);
+  font-weight: 700;
+  margin-bottom: 30px;
+}
+
+.sobre-foto-wrap {
+  margin: 0 auto 32px;
+  display: inline-block;
+}
+
+.sobre-foto {
+  width: 240px;
+  height: 240px;
+  object-fit: cover;
+  border-radius: 12px;
+  box-shadow: 0 8px 32px rgba(0,0,0,0.12);
+}
+
+.sobre-bio {
+  font-size: 1.04rem;
+  line-height: 1.85;
+  color: var(--text-mid);
+  text-align: left;
+  margin-bottom: 52px;
+}
+
+.curiosidades-section {
+  text-align: left;
+}
+
+.curiosidades-section h2 {
+  font-family: var(--font-display);
+  font-size: 1.4rem;
+  margin-bottom: 20px;
+  color: var(--text-dark);
+}
+
+.curiosidades-lista {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+.curiosidade-item {
+  display: flex;
+  gap: 14px;
+  align-items: flex-start;
+  background: white;
+  border-radius: 10px;
+  padding: 16px 18px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+}
+
+.curiosidade-icon {
+  font-size: 1.4rem;
+  flex-shrink: 0;
+  line-height: 1.3;
+}
+
+.curiosidade-texto {
+  font-size: 0.97rem;
+  line-height: 1.65;
+  color: var(--text-mid);
+}
+
+/* ===========================
+   CONTATO
+=========================== */
+.contato-content {
+  max-width: 560px;
+  margin: 0 auto;
+}
+
+.contato-content h1 {
+  font-family: var(--font-display);
+  font-size: clamp(1.5rem, 4vw, 2.1rem);
+  font-weight: 700;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.contato-content .page-subtitle {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.contato-form {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.form-group {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.form-group label {
+  font-size: 0.88rem;
+  font-weight: 500;
+  color: var(--text-mid);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.form-group input,
+.form-group textarea {
+  padding: 12px 16px;
+  border: 1.5px solid var(--border);
+  border-radius: 8px;
+  font-family: var(--font-body);
+  font-size: 1rem;
+  color: var(--text-dark);
+  background: white;
+  outline: none;
+  transition: border-color 0.2s, box-shadow 0.2s;
+  resize: vertical;
+}
+
+.form-group input:focus,
+.form-group textarea:focus {
+  border-color: var(--salmon);
+  box-shadow: 0 0 0 3px rgba(248,113,113,0.15);
+}
+
+.btn-enviar {
+  background: var(--salmon);
+  color: white;
+  border: none;
+  border-radius: 8px;
+  padding: 14px 28px;
+  font-family: var(--font-body);
+  font-size: 1rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: background 0.2s, transform 0.15s;
+  align-self: flex-start;
+}
+.btn-enviar:hover {
+  background: var(--salmon-dark);
+  transform: translateY(-1px);
+}
+
+.contato-redes {
+  margin-top: 44px;
+  text-align: center;
+}
+.contato-redes > p {
+  font-size: 0.95rem;
+  color: var(--text-light);
+  margin-bottom: 16px;
+}
+
+.redes-lista {
+  display: flex;
+  gap: 14px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.rede-link {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 10px 20px;
+  border-radius: 8px;
+  border: 1.5px solid var(--border);
+  text-decoration: none;
+  color: var(--text-mid);
+  font-size: 0.9rem;
+  background: white;
+  transition: border-color 0.2s, color 0.2s, box-shadow 0.2s;
+}
+.rede-link:hover {
+  border-color: var(--salmon);
+  color: var(--accent);
+  box-shadow: 0 2px 10px rgba(248,113,113,0.15);
+}
+.rede-icon { font-size: 1.2rem; }
+
+/* ===========================
+   FOOTER
+=========================== */
+.footer {
+  text-align: center;
+  padding: 24px;
+  font-size: 0.85rem;
+  color: var(--text-light);
+  border-top: 1px solid var(--border);
+  background: white;
+}
+
+/* ===========================
+   MOBILE RESPONSIVE
+=========================== */
+@media (max-width: 680px) {
+
+  .navbar { padding: 0 18px; }
+
+  .navbar-links {
+    display: none;
+    flex-direction: column;
+    position: absolute;
+    top: var(--nav-h);
+    left: 0; right: 0;
+    background: var(--salmon);
+    padding: 16px 24px 20px;
+    gap: 4px;
+    box-shadow: 0 6px 20px rgba(0,0,0,0.15);
+  }
+  .navbar-links.open { display: flex; }
+
+  .nav-link { padding: 10px 14px; font-size: 1rem; }
+
+  .menu-toggle { display: flex; }
+
+  .page { padding: 36px 20px 60px; }
+
+  .heart { font-size: 2.5rem; }
+  .heart-left  { top: 28px; left: 6px; }
+  .heart-right { top: 28px; right: 6px; }
+
+  .livro-item { flex-direction: column; gap: 10px; }
+  .livro-titulo { min-width: unset; }
+
+  .modal-box { padding: 28px 22px; }
+
+  .sobre-foto { width: 180px; height: 180px; }
+
+  .conto-card { padding: 24px 20px; }
+
+  .bird-tl, .bird-tr, .bird-bl, .bird-br { display: none; }
+}
+
+/* ===========================
+   MENSAGEM DE SUCESSO CONTATO
+=========================== */
+.form-sucesso {
+  text-align: center;
+  padding: 36px 20px;
+  font-size: 1.05rem;
+  color: var(--text-mid);
+}
+.form-sucesso .check { font-size: 3rem; margin-bottom: 12px; }
