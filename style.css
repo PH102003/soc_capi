@@ -44,6 +44,8 @@ body {
   box-shadow: 0 2px 12px rgba(200,60,60,0.15);
 }
 
+
+
 .navbar-brand {
   display: flex;
   align-items: center;
@@ -144,17 +146,25 @@ main {
 /* ===========================
    CORAÇÃO DECORATIVO
 =========================== */
-.heart {
+.heartbar {
   position: absolute;
   font-size: 4rem;
-  color: var(--salmon);
-  opacity: 0.55;
+  color: var(--salmon); /* Cor clara (#fa6a6a) */
+  opacity: 0.55;        /* Isso deixa qualquer coisa dentro "transparente" */
   pointer-events: none;
   user-select: none;
   line-height: 1;
 }
-.heart-left  { top: 48px; left: 16px; }
-.heart-right { top: 48px; right: 16px; }
+
+/* Adicione isso para os novos corações SVG na Home */
+.heart-left svg, 
+.heart-right svg {
+  opacity: 1 !important; /* Força a opacidade total */
+  display: block;
+}
+
+.heart-left  { top: 48px; left: 16px; position: absolute; }
+.heart-right { top: 48px; right: 16px; position: absolute; }
 
 /* ===========================
    HOME
