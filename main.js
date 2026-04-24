@@ -178,7 +178,7 @@ function renderLivros(lista) {
       // ela está prestes a aparecer na tela — melhora muito a velocidade
       // da página quando há muitas imagens.
       fotosHTML = livro.fotos.map(f =>
-        `<img src="assets/${f}" alt="Capa: ${livro.titulo}" loading="lazy" />`
+        `<img src="${f}" alt="Capa: ${livro.titulo}" loading="lazy" />`
       ).join(''); // join('') une todas as strings sem nenhum separador
 
     } else {
