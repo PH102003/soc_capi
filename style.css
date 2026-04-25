@@ -713,9 +713,9 @@ main {
 
   .page { padding: 36px 20px 60px; }
 
-  .heart { font-size: 2.5rem; }
-  .heart-left  { top: 28px; left: 6px; }
-  .heart-right { top: 28px; right: 6px; }
+  .heart { font-size: 1.4rem; opacity: 0.35; }
+  .heart-left  { top: 20px; left: 8px; }
+  .heart-right { top: 20px; right: 8px; }
 
   .livro-item {
     grid-template-columns: 1fr;
