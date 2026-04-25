@@ -690,10 +690,9 @@ main {
 /* ===========================
    MOBILE RESPONSIVE
 =========================== */
+/* CORRECT: */
 @media (max-width: 680px) {
-
   .navbar { padding: 0 18px; }
-
   .navbar-links {
     display: none;
     flex-direction: column;
@@ -706,17 +705,10 @@ main {
     box-shadow: 0 6px 20px rgba(0,0,0,0.15);
   }
   .navbar-links.open { display: flex; }
-
   .nav-link { padding: 10px 14px; font-size: 1rem; }
-
   .menu-toggle { display: flex; }
-
   .page { padding: 36px 20px 60px; }
-
-  .heart { display: none; } }
-  .heart-left  { top: 28px; left: 6px; }
-  .heart-right { top: 28px; right: 6px; }
-
+  .heart { display: none; }
   .livro-item {
     grid-template-columns: 1fr;
     gap: 16px;
@@ -724,15 +716,11 @@ main {
   .livro-fotos {
     justify-content: flex-start;
   }
-
   .modal-box { padding: 28px 22px; }
-
   .sobre-foto { width: 180px; height: 180px; }
-
   .conto-card { padding: 24px 20px; }
-
   .bird-tl, .bird-tr, .bird-bl, .bird-br { display: none; }
-
+}
 
 /* ===========================
    MENSAGEM DE SUCESSO CONTATO
