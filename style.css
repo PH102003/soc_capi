@@ -290,7 +290,7 @@ main {
 }
 
 .livro-fotos img {
-  height: 110px;
+  height: 260px;
   width: auto;
   border-radius: 5px;
   object-fit: cover;
@@ -744,3 +744,26 @@ main {
   color: var(--text-mid);
 }
 .form-sucesso .check { font-size: 3rem; margin-bottom: 12px; }
+
+/* LIGHTBOX */
+.lightbox {
+  display: none;
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,0.85);
+  z-index: 300;
+  align-items: center;
+  justify-content: center;
+  cursor: zoom-out;
+}
+.lightbox.open {
+  display: flex;
+}
+.lightbox img {
+  max-width: 90vw;
+  max-height: 88vh;
+  border-radius: 6px;
+  box-shadow: 0 8px 40px rgba(0,0,0,0.5);
+  animation: fadeIn 0.2s ease;
+  cursor: default;
+}

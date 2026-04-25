@@ -31,7 +31,7 @@ const biograifa = `Nascida em João Pessoa, Paraíba no dia 8 de março de 1955,
 const curiosidades = [
   {
     icone: "📚",
-    texto: "Já publiquei mais de 13 livros ao longo da minha vida."
+    texto: "Já publiquei mais de 10 livros ao longo da minha vida."
   },
   {
     icone: "🎵",
@@ -43,7 +43,7 @@ const curiosidades = [
   },
   {
     icone: "✍️",
-    texto: "Meu primeiro livro, 'Estórias que a Vida Escreveu', foi publicado em 1999."
+    texto: "Meu primeiro livro escrito, 'PRIMAVERA NO CAMPO', foi feito por mim aos meus 15 anos."
   },
   {
     icone: "💕",

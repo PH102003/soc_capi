@@ -178,7 +178,7 @@ function renderLivros(lista) {
       // ela está prestes a aparecer na tela — melhora muito a velocidade
       // da página quando há muitas imagens.
       fotosHTML = livro.fotos.map(f =>
-        `<img src="${f}" alt="Capa: ${livro.titulo}" loading="lazy" />`
+        `<img src="${f}" alt="Capa: ${livro.titulo}" loading="lazy" style="cursor:zoom-in" onclick="abrirLightbox('${f}', 'Capa: ${livro.titulo}')" />`
       ).join(''); // join('') une todas as strings sem nenhum separador
 
     } else {
@@ -370,6 +370,31 @@ function criarModal() {
   });
 }
 
+// LIGHTBOX — click on a book cover to enlarge it
+function criarLightbox() {
+  const lb = document.createElement('div');
+  lb.className = 'lightbox';
+  lb.id = 'lightbox';
+  lb.innerHTML = `<img id="lightbox-img" src="" alt="" />`;
+  document.body.appendChild(lb);
+
+  // click outside the image closes it
+  lb.addEventListener('click', e => {
+    if (e.target === lb) lb.classList.remove('open');
+  });
+
+  // Escape key also closes
+  document.addEventListener('keydown', e => {
+    if (e.key === 'Escape') lb.classList.remove('open');
+  });
+}
+
+function abrirLightbox(src, alt) {
+  document.getElementById('lightbox-img').src = src;
+  document.getElementById('lightbox-img').alt = alt;
+  document.getElementById('lightbox').classList.add('open');
+}
+
 function abrirModal(conto) {
 
   // Preenche os elementos do modal com os dados do conto escolhido.
@@ -559,3 +584,4 @@ renderContos();        // Desenha os cards de contos e crônicas
 criarModal();          // Cria a janela de leitura (antes dos botões de "ler mais" serem usados)
 renderSobre();         // Preenche a biografia e as curiosidades
 renderRedes();         // Cria os botões de redes sociais na página de contato
+criarLightbox(); // Criando 'lightbox' para ampliar fotos dos livros
