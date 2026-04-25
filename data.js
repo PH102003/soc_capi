@@ -242,17 +242,18 @@ Hoje eu ouço as canções que você fez pra mim e lembro com saudade das jovens
 const redesSociais = [
   {
     nome: "Instagram",
-    icone: "📸",
-    url: "https://instagram.com/socorrocapiberibe"
+    icone: `<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+      <rect x="2" y="2" width="20" height="20" rx="5" ry="5"/>
+      <circle cx="12" cy="12" r="4"/>
+      <circle cx="17.5" cy="6.5" r="1" fill="currentColor" stroke="none"/>
+    </svg>`,
+    url: "https://instagram.com/msocorrocapiberibemaia"
   },
   {
     nome: "Facebook",
-    icone: "📘",
+    icone: `<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"/>
+    </svg>`,
     url: "https://facebook.com/socorrocapiberibe"
-  },
-  {
-    nome: "WhatsApp",
-    icone: "💬",
-    url: "https://wa.me/5581900000000"
   }
 ];
