@@ -174,7 +174,17 @@ main {
   text-align: center;
   padding: 0 16px;
 }
-
+.home-foto-wrap {
+  margin: 0 auto 32px;
+  display: inline-block;
+}
+.home-foto{
+  width: 270px;
+  height: 270px;
+  object-fit: cover;
+  border-radius: 12px;
+  box-shadow: 0 8px 32px rgba(0,0,0,0.12);
+}
 .home-intro h1 {
   font-family: var(--font-display);
   font-size: clamp(1.6rem, 4vw, 2.4rem);
@@ -505,8 +515,8 @@ main {
 }
 
 .sobre-foto {
-  width: 240px;
-  height: 240px;
+  width: 270px;
+  height: 270px;
   object-fit: cover;
   border-radius: 12px;
   box-shadow: 0 8px 32px rgba(0,0,0,0.12);
