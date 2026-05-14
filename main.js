@@ -6,6 +6,7 @@
    do data.js, busca de livros, modal de contos e formulário.
 
    Estrutura geral:
+    (0. Sanitizando)
     1. Navegação entre páginas
     2. Renderizar livros
     3. Busca de livros
@@ -17,7 +18,15 @@
     9. Ano no rodapé
    10. Inicialização (chamada de tudo)
 ============================================================ */
-
+// Remove caracteres que não fazem sentido num nome/mensagem de contato.
+// Não bloqueia palavras, só caracteres de controle HTML e quebras maliciosas.
+function sanitizar(texto) {
+  return texto
+    .replace(/</g, '')   // remove <  (início de tag HTML)
+    .replace(/>/g, '')   // remove >  (fim de tag HTML)
+    .trim()
+    .slice(0, 1000);     // limita o tamanho máximo da mensagem
+}
 
 /* ============================================================
    1. NAVEGAÇÃO ENTRE PÁGINAS
@@ -518,11 +527,10 @@ function handleContato(e) {
   e.preventDefault();
 
   const form = e.target; // referência ao elemento <form> que foi enviado
-  const nome = form.nome.value;
-
-  // ⚠️ IMPORTANTE: Troque pelo email real da Socorro antes de publicar!
-  const emailDestino = 'socorrocapiberibe@email.com';
-  const mensagem = form.mensagem.value;
+  const nome = sanitizar(form.nome.value);
+  // separando destino do email em blocos para prevenir varredura automática por bots, técnica simples de ofuscação.
+  const emailDestino = ['maria','do','socorro','capiberibe','@','gmail.com'].join('');
+  const mensagem = sanitizar(form.mensagem.value);
 
   // encodeURIComponent() converte caracteres especiais para o formato
   // seguro de URL. Ex: "olá, tudo bem?" vira "ol%C3%A1%2C%20tudo%20bem%3F"
