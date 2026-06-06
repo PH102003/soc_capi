@@ -9,7 +9,7 @@
     (0. Sanitizando)
     1. Navegação entre páginas
     2. Renderizar livros
-    3. Busca de livros
+    3. Busca de livrosf
     4. Renderizar contos e crônicas
     5. Modal (janela de leitura completa)
     6. Renderizar página "Sobre mim"
@@ -350,13 +350,14 @@ function criarModal() {
   // role="dialog" e aria-modal="true" são atributos de acessibilidade
   // que informam leitores de tela que isto é uma janela de diálogo.
   modalOverlay.innerHTML = `
-    <div class="modal-box" role="dialog" aria-modal="true">
-      <button class="modal-close" aria-label="Fechar">✕</button>
-      <h2 id="modal-titulo"></h2>
-      <div class="modal-meta" id="modal-meta"></div>
-      <div class="modal-body" id="modal-body"></div>
-    </div>
-  `;
+  <div class="modal-box" role="dialog" aria-modal="true">
+    <button class="modal-close" aria-label="Fechar">✕</button>
+    <h2 id="modal-titulo"></h2>
+    <div class="modal-meta" id="modal-meta"></div>
+    <div id="modal-imagem" style="display:none"></div>
+    <div class="modal-body" id="modal-body"></div>
+  </div>
+`;
 
   // Adiciona o modal ao <body> do documento — agora existe no HTML,
   // mas ainda está invisível (display:none definido no CSS).
@@ -413,6 +414,18 @@ function abrirModal(conto) {
   document.getElementById('modal-titulo').textContent = conto.titulo;
   document.getElementById('modal-meta').textContent =
     `${conto.tipo}${conto.data ? ' · ' + conto.data : ''}`;
+  
+  // Imagem opcional — aparece entre o título e o texto
+  const modalImgContainer = document.getElementById('modal-imagem');
+  if (conto.imagem) {
+    modalImgContainer.innerHTML =
+      `<img src="${conto.imagem}" alt="${conto.titulo}" />`;
+    modalImgContainer.style.display = 'block';
+  } else {
+    modalImgContainer.innerHTML = '';
+    modalImgContainer.style.display = 'none';
+  }
+
   document.getElementById('modal-body').textContent = conto.texto;
 
   // Adiciona "open" ao overlay — no CSS isso muda display:none para flex,

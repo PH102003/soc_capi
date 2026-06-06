@@ -159,6 +159,96 @@ const livros = [
 ------------------------------------------------------- */
 const contos = [
   {
+    titulo:" Para os amantes da leitura: Deixando um pouquinho de mim..." ,
+    tipo:"Crônica" ,
+    trecho:"A crônica a seguir, faz menção a esses meus 'Dois Amores': Minha mãe Maria Ruth e minha filha Mariana Capiberibe Maia... ",
+    imagem:"imagens/foto_nana.jpg",
+    imagem:"imagens/socorro_e_ruth.jpg",
+    texto:`(Hoje, especificamente, lembrei-me com profunda saudade e ternura, de minha mãe — "minha sombra amiga" e, mais fielmente falando: "minha melhor amiga". Não que eu não lembre dela com frequência, aliás lembro dela sempre... mas, hoje, de forma especial, ela está ainda mais presente nas minhas lembranças, talvez pelo fato de nessa data, há 49 anos atrás, eu ter me tornado "mãe", como ela. Em 03 de Março de 1976, Deus me agraciou com o dom da maternidade. E naquele 03 de Março, no amanhecer de uma Quarta-feira de cinzas, quando as orquestras entoavam suas últimas marchinhas de Carnaval, nasceu minha filha primogênita: "Mariana", fazendo transbordar o nosso coração de alegria).
+
+A crônica a seguir, faz menção a esses meus "Dois Amores": Minha mãe "Maria Ruth" e minha filha Mariana Capiberibe Maia...
+
+✦ Por Socorro Capiberibe
+
+A citação a seguir talvez não tenha se dado exatamente como a transcrevi, nem com as mesmas palavras e nem na mesma ordem, mas penso que consegui captar o seu verdadeiro sentido e busquei transcrevê-la da forma mais fiel como a escutei e como consegui traduzi-la.
+
+"Quando na vida precisamos acompanhar uma pessoa mais lenta, temos que diminuir a nossa pressa, do contrário nunca a teremos conosco e perdemos a oportunidade de usufruir de sua companhia e compartilhar momentos inesquecíveis..." (Pe. Fábio de Melo / Na CANÇÃO NOVA / Programa DIREÇÃO ESPIRITUAL / em 25 de Maio de 2011).
+
+Refleti muito sobre isso e pensei "nos passos lentos" da minha mãe — impostos pelo cansaço dos seus 82 anos e pelas limitações provocadas por um "AVC"... E também nas pessoas que são "lentas por natureza"... (eu tenho uma filha assim).
+
+Lembrei ainda com muita ternura que sempre que caminho com mamãe me vem na mente aquele trecho da música de Roberto Carlos: "Esses passos lentos de agora / caminhando sempre comigo / já correram tanto na vida / meu querido, meu velho, meu amigo..." (Lindo e verdadeiro).
+
+Postei a citação de Pe. Fábio de Melo no "Facebook" e comentei sobre a minha interpretação...
+
+Cada pessoa tem o seu próprio ritmo. Cada pessoa é única. Entretanto, todas são igualmente importantes, necessárias e capazes. É preciso respeitar as diferenças. As pessoas não precisam mudar seu perfil para serem AMADAS... E, se nós as queremos em nossas vidas, nós podemos "desacelerar" o passo e continuar a AMÁ-LAS tal qual elas são...
+
+Foi interessante. A partir daí começaram a surgir comentários que complementavam a minha reflexão...
+
+Minha sobrinha escreveu-me assim:
+— Exatamente tia. Cada um tem seu ritmo e nós aprendemos a andar nesse ritmo só pelo grande prazer dos momentos que relógio nenhum conseguiria marcar.
+
+Maravilhoso. Pensei. E senti que deveria dar continuidade àquela reflexão e deixar-me ajudar com os comentários de outros amigos e familiares que se interessaram pelo tema.
+
+A minha cunhada, então, acrescentou:
+— Verdade Socorrinho, antes de terminar de ler também eu já pensei em Dona Ruth — ainda se referindo à minha mãe — ela é uma pessoa fantástica, um exemplo de vida que nos faz ter vontade de caminhar lentamente só pelo prazer de sua companhia, só para ouvir com atenção seus grandes ensinamentos...
+
+Outro comentário foi postado por um amigo de minha filha, e ele dizia assim:
+— Tia... Um verdadeiro aprendizado o que Padre Fábio nos ensina. Sou fã de suas palestras... Certo dia ele contou que devemos sempre entender o tempo do outro... Citou o exemplo da mãe dele... Disse que algumas vezes ela fazia coisas que ele não concordava, não admitia; mas que precisava entender que aquele era o tempo (mental) dela. O mesmo acontece com as pessoas que convivemos diariamente. Não podemos exigir que as pessoas pensem iguais a nós e levem a vida como nós levamos. Cada um tem o seu tempo. É preciso entender e respeitar o limite de cada um.
+
+Fiquei feliz. Meu texto ganhou vida. Minha reflexão se aprofundou.
+
+Concluí que há pessoas lentas pela sua própria natureza e outras que se tornaram lentas pelas imposições da vida. Algumas cumprem sua jornada de trabalho em 6 horas sem dificuldades, enquanto outras precisam de mais tempo para realizar as mesmas atividades e prolongam o seu expediente por mais duas ou três horas excedentes... — Eu tenho uma filha assim... — Umas não são melhores do que outras... Ambas dão o melhor de si e cumprem suas tarefas com dedicação e responsabilidade. Cada uma no seu ritmo. Cada uma com o seu tempo.
+
+De uma forma ou de outra, se nós as amamos e desejamos tê-las conosco, nós temos que "esquecer nossa pressa" ou "desacelerar nosso passo" para que possamos caminhar juntas... É a única forma de compartilhar da sua companhia e crescer com a sua sabedoria — ou corremos o risco de "perdê-las em vida".
+
+Em outra ocasião, ainda sobre o assunto em pauta, escutei do palestrante — o Psicólogo e Escritor Luiz Schettini Filho — algo muito interessante, sobre os pais que em meio à "Pressa dos dias atuais" não tinham tempo para escutar os filhos e perdiam a chance de ouvir histórias fascinantes e significativas da vida deles, deixando-os frustrados, com suas "histórias interrompidas" e jamais concluídas...
+
+Isso vem reforçar um pensamento antigo que cultivo e no qual acredito:
+
+"É preciso ter tempo para cada pessoa que nos seja importante enquanto é tempo... Porque pode chegar o tempo que se queira ter tempo e não haja mais tempo... ou porque a pessoa se foi... ou porque o tempo passou."
+
+✦ Do livro: SOCORROCAPIBERIBE.COM.VOCÊ
+À venda na AMPARE: 81-3104.7617 e 9.9504.0782
+
+Canal do YouTube: SOCORRO CAPIBERIBE`
+},
+{
+    titulo:"SALA DE LEITURA // HORA DO CONTO // SOCORRO CAPIBERIBE // 'O PESO DE UMA PALAVRA...'" ,
+    tipo:"Conto" ,
+    trecho:"Palavras tem força. Peso. Poder. Levantam ou derrubam. Acalmam ou revoltam. Acariciam ou ferem. Podem levar ao céu mas podem impelir ao abismo. Palavras tem ressonâncias eternas. Podem promover a cura, mas podem provocar prejuízos irreparáveis.",
+    imagem:"imagens/walter_capiberibe.jpg",
+    texto:`Tomaram café normalmente, como todos os dias a quarenta anos... Conversaram sobre os filhos, comentaram sobre os netos, procuraram no jornal as ofertas do dia nos supermercados e saíram para as compras e passeios, como era de costume.
+
+Estavam casados há todos esses anos... Era uma longa caminhada... Uma união muito sólida... Um carinho muito grande... Um laço muito forte.
+
+Saíam sempre juntos... Onde um estivesse, o outro também estava. Eram companheiros inseparáveis... Na saúde e na doença; na alegria e na tristeza; na briga e na paz... - sim, porque casal de meia-idade sente prazer em implicar por qualquer bobagem... É o cigarro escondido, que faz mal à saúde; o doce escondido, porque vai engordar; a batata frita salgada, por causa da pressão ou a coxinha de galinha, para não aumentar o colesterol... - mas, ai de quem se metesse na discussão dos dois... - "não fale assim com sua mãe, olhe o respeito... veja o jeito como fala com seu pai, ele não tem a sua idade..." - e os dois faziam as pazes, ficavam mais unidos do que antes e ainda ralhavam com quem tomasse partido. Fora assim, a vida inteira. Não iriam mudar.
+
+Os anos passam rapidamente e não pedem licença... Um belo dia a gente se olha no espelho e fica surpresa... - é uma ruga aqui, outra ali... Um cabelo branco na fronte que não tinha na véspera... E num piscar de olhos o tempo passou.
+
+E, aquele casal outrora tão jovem, que há quarenta anos atrás iniciou uma vida... Criou oito filhos, ganhou muitos netos e agora idoso, seguia na lida.
+
+O tempo passou e eles ficaram mais unidos; e as sementes plantadas germinaram em bom terreno. Estavam mais velhos... Cabelo embranquecido, andar mais pausado... Porém, mais vividos.
+
+Naquele dia, durante o passeio, Coronel Capiberibe — Militar reformado — sempre cauteloso, sempre educado, dirigia seu carro cuidadosamente, com a esposa do lado... Talvez mais lento que o habitual, talvez na mesma velocidade com que sempre dirigia, quando um outro motorista mais jovem, impaciente e mal-educado, buzinou irado, emparelhou o carro e sem o menor respeito gritou: "sai da frente velho decrépito... um velho da sua idade não era para estar mais dirigindo..." – e, arrancou na maior velocidade.
+
+Coronel Capiberibe assustou-se; quase bate com o carro; ficou vermelho da contrariedade... Tentou revidar, mas o rapaz já ia longe e ele tremendo, com os olhos cheios d'água, apenas desabafou sentido... "Os jovens não têm mais respeito pelos mais velhos!" Dona Ruth percebeu a humilhação no desabafo do marido e solidária confortou: "não ligue, Walter, esse rapaz com certeza não deve mais ter pai nem mãe, do contrário saberia respeitar."
+
+Voltaram para casa aborrecidos. A contrariedade tinha sido muito forte. Tem dias na vida em que se está mais sensível, que o peso dos anos incomoda mais, que a saudade do passado se faz mais presente ou que a proximidade do fim tem uma conotação maior. Talvez aquele, fosse um desses dias para o velho Coronel, porque, virava e mexia e ele voltava a falar no assunto. Dona Ruth desconversava, falava outra coisa, comentava a novela... - todas as noites eles assistiam a televisão de mãos dadas e acompanhavam todas as novelas... - mas, não tinha jeito... Mais adiante ele falava outra vez.
+
+As pessoas, muitas vezes, desconhecem o poder da palavra... Não pensam que a dor moral pode ser bem mais forte do que uma dor física. Xingar um jovem de "esclerosado" não ofende... Uma jovem magra de "baleia", também não... Porém, se a gente xinga um deficiente físico de "coxo", ou um idoso, de "velho decrépito..." aí a gente humilha... E pancadas dadas e palavras ditas não se retira... - diz um velho ditado... Foi o que aconteceu com o Coronel Capiberibe. Aquele insulto do rapaz doeu tanto ou até mais do que uma bofetada. Se as pessoas pensassem mais antes de falar, cometeriam menos grosserias e fariam sofrer bem menos pessoas. A velhice, a obesidade, a deficiência física ou, seja o que for, não são defeitos; são contingências da vida... Merecem respeito e não depreciação.
+
+Coronel Capiberibe não viveu muito tempo. Claro que não foi por isso... Não teve nada a ver. Morreu porque chegou o dia... Todos temos um tempo a cumprir... Mas essa mágoa poderia lhe ter sido subtraída, se houvesse mais sensibilidade e respeito entre os homens.
+
+Dois dias depois faleceu o bom Coronel... Ainda triste com a grosseria recebida... Ele, que na vida, procurou dar o melhor exemplo de homem de bem e de chefe de família.
+
+✦ Em memória do meu pai: Walter Freire Capiberibe — Exemplo de Dignidade e Integridade Moral.
+(Baseado em fatos reais.)
+
+Do livro da autora: A ARTE DE CONTAR HISTÓRIAS (Contos & Crônicas)
+
+✦ Todos os livros de Socorro Capiberibe encontram-se à venda na AMPARE: 81-3104.7617 e 9.9504.0782`
+},
+{
     titulo: "A ESTRELINHA QUE FICOU – ( DO LIVRO CONTOS & LENDAS ORIENTAIS DE MALBA TAHAN)",
     tipo: "Conto",
     data: "Abril de 2026",
@@ -224,8 +314,8 @@ const contos = [
     data: "Janeiro de 2026",
     trecho: "A vida é e sempre será a nossa riqueza de maior valor.",
     texto: `A vida é e sempre será a nossa riqueza de maior valor. Viva hoje. Viva agora. Não deixe nada para depois.
-O futuro não é garantido a ninguém. 
-Só temos de certo o momento presente e a certeza de que a qualquer momento a música da vida vai terminar.
+    O futuro não é garantido a ninguém. 
+    Só temos de certo o momento presente e a certeza de que a qualquer momento a música da vida vai terminar.
 Então, dancemos felizes ao som dessa orquestra Divina, até o último acorde dessa maravilhosa canção!
 
 Com carinho,
@@ -299,7 +389,57 @@ Do Livro: UMA LIÇÃO DE AMOR (Romance)
 *Socorro Capiberibe `
 
 
-}
+},
+{
+    titulo:"SOCORRO CAPIBERIBE COM VOCÊ / DEIXANDO UM POUQUINHO DE MIM..." ,
+    tipo:"Crônica" ,
+    data:"Maio de 2019",
+    trecho:"E SE TU NÃO EXISTISSES, DIZE-ME POR QUE EU EXISTIRIA?",
+    imagem:"imagens/praia_socorro.jpg",
+    texto:`Escutei pela primeira vez num comercial de televisão, no horário nobre da novela das Oito... Era linda... Muito linda... Tocou minha alma profundamente e eu me apaixonei.
+
+— Pelas sandálias ou pela música?
+
+Ah, esqueci de dizer: Era um comercial de uma sandália nova chamada "FRANCESINHA"... Sim, mas como eu ia dizendo, foi "Amor à primeira vista ou à primeira escuta" — como o leitor preferir — porque o fato é que me apaixonei perdidamente pelas duas: a música e a sandália, exatamente nessa ordem.
+
+Esperei ansiosamente pelo dia seguinte, e no mesmo horário lá estava ele: o comercial da música e da sandália apaixonantes...
+
+Pronto. Agora tínhamos encontro marcado todos os dias: o comercial e eu.
+
+Já dá para imaginar que esse era o momento mais esperado por mim...
+
+Devo dizer que tenho paixão por música e um coração loucamente romântico... E embora nunca tenha estudado Francês e não entendesse nada daquela letra, podia sentir que ela falava de um grande amor... Amo músicas e histórias que falam de um grande amor.
+
+Devo ainda dizer que também tenho paixão por sandálias, e aquelas FRANCESINHAS ficariam maravilhosas nos meus pés...
+
+Bem, as sandálias não seriam problema, toda sapataria teria... Mas, e a música?
+
+Sem o nome e nem o cantor da música, ficava difícil procurar nas lojas de discos... Eu até tentei mas não consegui.
+
+Chegaram as férias de Julho... Fomos com as crianças para o apartamento de meu irmão em João Pessoa, na praia de Tambaú...
+
+Na primeira manhã da nossa estadia, meu marido levantou mais cedo, foi para a salinha de música e colocou um longplay na vitrola...
+
+Ah, antes que você se pergunte que tempo era esse — de Longplays e Vitrolas — eu digo: era a década de 80... mas, incrível mesmo foi a primeira música que tocou...
+
+Abri os olhos, concentrei os ouvidos e pulei da cama cheia de emoção... Era ela... A minha paixão do momento... a música apaixonante, da sandália apaixonante, do comercial apaixonante, que eu ansiosamente esperava todas as noites para assistir...
+
+Essas férias foram inesquecíveis! Durante trinta dias eu ouvi a minha música preferida:
+
+"ET SI TU N'EXISTAIS PAS"
+
+— Se eu fiquei com o LP do meu irmão?
+— Não. Eu não faria isso... Mas comprei outro exatamente igual.
+
+Ah, e as sandálias FRANCESINHAS também!
+
+E foi assim que ela entrou em minha vida!
+
+✦ Férias de Julho de 1986 — Não foi em Paris, mas foi igualmente feliz!
+
+Socorro Capiberibe
+Dedico essa crônica ao meu irmão Luis Filipe Marinho Capiberibe`
+},
 ];
 
 
