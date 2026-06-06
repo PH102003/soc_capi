@@ -770,16 +770,20 @@ main {
   cursor: default;
 }
 
-/* Imagem opcional dentro do modal de conto */
+/* Imagens opcionais dentro do modal de conto */
 #modal-imagem {
+  display: none;
+  flex-wrap: wrap;
+  gap: 12px;
+  justify-content: center;
   margin: 20px 0 28px;
-  text-align: center;
 }
 
 #modal-imagem img {
+  max-height: 320px;
   max-width: 100%;
-  max-height: 380px;
-  object-fit: cover;
+  width: auto;
   border-radius: 10px;
   box-shadow: 0 4px 20px rgba(0,0,0,0.12);
+  object-fit: cover;
 }

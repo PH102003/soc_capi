@@ -415,16 +415,19 @@ function abrirModal(conto) {
   document.getElementById('modal-meta').textContent =
     `${conto.tipo}${conto.data ? ' · ' + conto.data : ''}`;
   
-  // Imagem opcional — aparece entre o título e o texto
-  const modalImgContainer = document.getElementById('modal-imagem');
-  if (conto.imagem) {
-    modalImgContainer.innerHTML =
-      `<img src="${conto.imagem}" alt="${conto.titulo}" />`;
-    modalImgContainer.style.display = 'block';
-  } else {
-    modalImgContainer.innerHTML = '';
-    modalImgContainer.style.display = 'none';
-  }
+  // Imagens opcionais — aceita zero, uma ou várias
+const modalImgContainer = document.getElementById('modal-imagem');
+const imagens = conto.imagens;
+
+if (imagens && imagens.length > 0) {
+  modalImgContainer.innerHTML = imagens.map(src =>
+    `<img src="${src}" alt="${conto.titulo}" />`
+  ).join('');
+  modalImgContainer.style.display = 'flex';
+} else {
+  modalImgContainer.innerHTML = '';
+  modalImgContainer.style.display = 'none';
+}
 
   document.getElementById('modal-body').textContent = conto.texto;
 
