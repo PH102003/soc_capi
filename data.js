@@ -265,7 +265,7 @@ Dedico essa crônica ao meu irmão Luis Filipe Marinho Capiberibe`
   titulo:"SALA DE LEITURA // HORA DO CONTO // SOCORRO CAPIBERIBE // 'O PESO DE UMA PALAVRA...'" ,
     tipo:"Conto" ,
     trecho:"Palavras tem força. Peso. Poder. Levantam ou derrubam. Acalmam ou revoltam. Acariciam ou ferem. Podem levar ao céu mas podem impelir ao abismo. Palavras tem ressonâncias eternas. Podem promover a cura, mas podem provocar prejuízos irreparáveis.",
-    imagem:"imagens/walter_capiberibe.jpg",
+    imagens:["imagens/walter_capiberibe.jpg"],
     texto:`Tomaram café normalmente, como todos os dias a quarenta anos... Conversaram sobre os filhos, comentaram sobre os netos, procuraram no jornal as ofertas do dia nos supermercados e saíram para as compras e passeios, como era de costume.
 
 Estavam casados há todos esses anos... Era uma longa caminhada... Uma união muito sólida... Um carinho muito grande... Um laço muito forte.
