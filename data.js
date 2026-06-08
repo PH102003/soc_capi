@@ -164,12 +164,12 @@ const contos = [
     trecho:"A crônica a seguir, faz menção a esses meus 'Dois Amores': Minha mãe Maria Ruth e minha filha Mariana Capiberibe Maia... ",
     imagens: ["imagens/foto_nana.jpg", "imagens/socorro_e_ruth.jpg"],
     texto:`(Hoje, especificamente, lembrei-me com profunda saudade e ternura, de minha mãe — "minha sombra amiga" e, mais fielmente falando: "minha melhor amiga". Não que eu não lembre dela com frequência, aliás lembro dela sempre... mas, hoje, de forma especial, ela está ainda mais presente nas minhas lembranças, talvez pelo fato de nessa data, há 49 anos atrás, eu ter me tornado "mãe", como ela. Em 03 de Março de 1976, Deus me agraciou com o dom da maternidade. E naquele 03 de Março, no amanhecer de uma Quarta-feira de cinzas, quando as orquestras entoavam suas últimas marchinhas de Carnaval, nasceu minha filha primogênita: "Mariana", fazendo transbordar o nosso coração de alegria).
-
-A crônica a seguir, faz menção a esses meus "Dois Amores": Minha mãe "Maria Ruth" e minha filha Mariana Capiberibe Maia...
-
-✦ Por Socorro Capiberibe
-
-A citação a seguir talvez não tenha se dado exatamente como a transcrevi, nem com as mesmas palavras e nem na mesma ordem, mas penso que consegui captar o seu verdadeiro sentido e busquei transcrevê-la da forma mais fiel como a escutei e como consegui traduzi-la.
+    
+    A crônica a seguir, faz menção a esses meus "Dois Amores": Minha mãe "Maria Ruth" e minha filha Mariana Capiberibe Maia...
+    
+    ✦ Por Socorro Capiberibe
+    
+    A citação a seguir talvez não tenha se dado exatamente como a transcrevi, nem com as mesmas palavras e nem na mesma ordem, mas penso que consegui captar o seu verdadeiro sentido e busquei transcrevê-la da forma mais fiel como a escutei e como consegui traduzi-la.
 
 "Quando na vida precisamos acompanhar uma pessoa mais lenta, temos que diminuir a nossa pressa, do contrário nunca a teremos conosco e perdemos a oportunidade de usufruir de sua companhia e compartilhar momentos inesquecíveis..." (Pe. Fábio de Melo / Na CANÇÃO NOVA / Programa DIREÇÃO ESPIRITUAL / em 25 de Maio de 2011).
 
@@ -212,7 +212,57 @@ Isso vem reforçar um pensamento antigo que cultivo e no qual acredito:
 Canal do YouTube: SOCORRO CAPIBERIBE`
 },
 {
-    titulo:"SALA DE LEITURA // HORA DO CONTO // SOCORRO CAPIBERIBE // 'O PESO DE UMA PALAVRA...'" ,
+    titulo:"SOCORRO CAPIBERIBE COM VOCÊ / DEIXANDO UM POUQUINHO DE MIM..." ,
+    tipo:"Crônica" ,
+    data:"Maio de 2019",
+    trecho:"E SE TU NÃO EXISTISSES, DIZE-ME POR QUE EU EXISTIRIA?",
+    imagens:["imagens/praia_socorro.jpg", "imagens/foto_luis.jpg"],
+    texto:`Escutei pela primeira vez num comercial de televisão, no horário nobre da novela das Oito... Era linda... Muito linda... Tocou minha alma profundamente e eu me apaixonei.
+
+— Pelas sandálias ou pela música?
+
+Ah, esqueci de dizer: Era um comercial de uma sandália nova chamada "FRANCESINHA"... Sim, mas como eu ia dizendo, foi "Amor à primeira vista ou à primeira escuta" — como o leitor preferir — porque o fato é que me apaixonei perdidamente pelas duas: a música e a sandália, exatamente nessa ordem.
+
+Esperei ansiosamente pelo dia seguinte, e no mesmo horário lá estava ele: o comercial da música e da sandália apaixonantes...
+
+Pronto. Agora tínhamos encontro marcado todos os dias: o comercial e eu.
+
+Já dá para imaginar que esse era o momento mais esperado por mim...
+
+Devo dizer que tenho paixão por música e um coração loucamente romântico... E embora nunca tenha estudado Francês e não entendesse nada daquela letra, podia sentir que ela falava de um grande amor... Amo músicas e histórias que falam de um grande amor.
+
+Devo ainda dizer que também tenho paixão por sandálias, e aquelas FRANCESINHAS ficariam maravilhosas nos meus pés...
+
+Bem, as sandálias não seriam problema, toda sapataria teria... Mas, e a música?
+
+Sem o nome e nem o cantor da música, ficava difícil procurar nas lojas de discos... Eu até tentei mas não consegui.
+
+Chegaram as férias de Julho... Fomos com as crianças para o apartamento de meu irmão em João Pessoa, na praia de Tambaú...
+
+Na primeira manhã da nossa estadia, meu marido levantou mais cedo, foi para a salinha de música e colocou um longplay na vitrola...
+
+Ah, antes que você se pergunte que tempo era esse — de Longplays e Vitrolas — eu digo: era a década de 80... mas, incrível mesmo foi a primeira música que tocou...
+
+Abri os olhos, concentrei os ouvidos e pulei da cama cheia de emoção... Era ela... A minha paixão do momento... a música apaixonante, da sandália apaixonante, do comercial apaixonante, que eu ansiosamente esperava todas as noites para assistir...
+
+Essas férias foram inesquecíveis! Durante trinta dias eu ouvi a minha música preferida:
+
+"ET SI TU N'EXISTAIS PAS"
+
+— Se eu fiquei com o LP do meu irmão?
+— Não. Eu não faria isso... Mas comprei outro exatamente igual.
+
+Ah, e as sandálias FRANCESINHAS também!
+
+E foi assim que ela entrou em minha vida!
+
+✦ Férias de Julho de 1986 — Não foi em Paris, mas foi igualmente feliz!
+
+Socorro Capiberibe
+Dedico essa crônica ao meu irmão Luis Filipe Marinho Capiberibe`
+},
+{
+  titulo:"SALA DE LEITURA // HORA DO CONTO // SOCORRO CAPIBERIBE // 'O PESO DE UMA PALAVRA...'" ,
     tipo:"Conto" ,
     trecho:"Palavras tem força. Peso. Poder. Levantam ou derrubam. Acalmam ou revoltam. Acariciam ou ferem. Podem levar ao céu mas podem impelir ao abismo. Palavras tem ressonâncias eternas. Podem promover a cura, mas podem provocar prejuízos irreparáveis.",
     imagem:"imagens/walter_capiberibe.jpg",
@@ -388,56 +438,6 @@ Do Livro: UMA LIÇÃO DE AMOR (Romance)
 *Socorro Capiberibe `
 
 
-},
-{
-    titulo:"SOCORRO CAPIBERIBE COM VOCÊ / DEIXANDO UM POUQUINHO DE MIM..." ,
-    tipo:"Crônica" ,
-    data:"Maio de 2019",
-    trecho:"E SE TU NÃO EXISTISSES, DIZE-ME POR QUE EU EXISTIRIA?",
-    imagem:"imagens/praia_socorro.jpg",
-    texto:`Escutei pela primeira vez num comercial de televisão, no horário nobre da novela das Oito... Era linda... Muito linda... Tocou minha alma profundamente e eu me apaixonei.
-
-— Pelas sandálias ou pela música?
-
-Ah, esqueci de dizer: Era um comercial de uma sandália nova chamada "FRANCESINHA"... Sim, mas como eu ia dizendo, foi "Amor à primeira vista ou à primeira escuta" — como o leitor preferir — porque o fato é que me apaixonei perdidamente pelas duas: a música e a sandália, exatamente nessa ordem.
-
-Esperei ansiosamente pelo dia seguinte, e no mesmo horário lá estava ele: o comercial da música e da sandália apaixonantes...
-
-Pronto. Agora tínhamos encontro marcado todos os dias: o comercial e eu.
-
-Já dá para imaginar que esse era o momento mais esperado por mim...
-
-Devo dizer que tenho paixão por música e um coração loucamente romântico... E embora nunca tenha estudado Francês e não entendesse nada daquela letra, podia sentir que ela falava de um grande amor... Amo músicas e histórias que falam de um grande amor.
-
-Devo ainda dizer que também tenho paixão por sandálias, e aquelas FRANCESINHAS ficariam maravilhosas nos meus pés...
-
-Bem, as sandálias não seriam problema, toda sapataria teria... Mas, e a música?
-
-Sem o nome e nem o cantor da música, ficava difícil procurar nas lojas de discos... Eu até tentei mas não consegui.
-
-Chegaram as férias de Julho... Fomos com as crianças para o apartamento de meu irmão em João Pessoa, na praia de Tambaú...
-
-Na primeira manhã da nossa estadia, meu marido levantou mais cedo, foi para a salinha de música e colocou um longplay na vitrola...
-
-Ah, antes que você se pergunte que tempo era esse — de Longplays e Vitrolas — eu digo: era a década de 80... mas, incrível mesmo foi a primeira música que tocou...
-
-Abri os olhos, concentrei os ouvidos e pulei da cama cheia de emoção... Era ela... A minha paixão do momento... a música apaixonante, da sandália apaixonante, do comercial apaixonante, que eu ansiosamente esperava todas as noites para assistir...
-
-Essas férias foram inesquecíveis! Durante trinta dias eu ouvi a minha música preferida:
-
-"ET SI TU N'EXISTAIS PAS"
-
-— Se eu fiquei com o LP do meu irmão?
-— Não. Eu não faria isso... Mas comprei outro exatamente igual.
-
-Ah, e as sandálias FRANCESINHAS também!
-
-E foi assim que ela entrou em minha vida!
-
-✦ Férias de Julho de 1986 — Não foi em Paris, mas foi igualmente feliz!
-
-Socorro Capiberibe
-Dedico essa crônica ao meu irmão Luis Filipe Marinho Capiberibe`
 },
 ];
 
