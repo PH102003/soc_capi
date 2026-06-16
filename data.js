@@ -329,7 +329,7 @@ Do livro da autora: A ARTE DE CONTAR HISTÓRIAS (Contos & Crônicas)
     tipo: "Colagem literária",
     data: "Março de 2026",
     trecho: "AS CANÇÕES QUE VOCÊ FEZ PRA MIM, NAS JOVENS TARDES DE DOMINGO... (Para os Jovens de 70... Como EU... Quem viveu essa época vai lembrar.)",
-    imagens: [imagens/jovens_tardes_de_domingo.jpeg],
+    imagens: ["imagens/jovens_tardes_de_domingo.jpeg"],
     texto: `"AS CANÇÕES QUE VOCÊ FEZ PRA MIM, NAS JOVENS TARDES DE DOMINGO... (Para os Jovens de 70... Como EU... Quem viveu essa época vai lembrar.)
   "Hoje eu acordei com saudade de você / beijei aquela foto que você me ofertou / sentei naquele banco da pracinha só por que/foi lá que começou o nosso amor... "
   "Lembrei-me com saudade da escolinha / que viu um dia o nosso amor nascer / e foi como se visse a menininha / de olhos verdes lindos de morrer / aquele bilhetinho hoje me faz / lembrar um tempo que não volta mais / dizia mesmo assim / te contarei depois / mamãe sabe de tudo entre nós dois... "
@@ -386,7 +386,7 @@ Socorro Capiberibe`
     tipo: "Reflexão",
     data: "Dezembro de 2025",
     trecho: "'Deixar ir'... também é uma forma de amar...",
-    imagens: [imagens/deixar_ir.jpeg],
+    imagens: ["imagens/deixar_ir.jpeg"],
     texto: `"DEIXAR IR"... TAMBÉM É UMA FORMA DE AMAR... GUARDAR COM CARINHO E RESPEITO, 
 OS BONS MOMENTOS VIVIDOS COM OS QUE DECIDIRAM SEGUIR, É ENTENDER QUE O CAMINHO COMPARTILHADO VALEU!*
 
