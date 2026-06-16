@@ -388,14 +388,61 @@ function criarLightbox() {
   lb.innerHTML = `<img id="lightbox-img" src="" alt="" />`;
   document.body.appendChild(lb);
 
-  // click outside the image closes it
-  lb.addEventListener('click', e => {
-    if (e.target === lb) lb.classList.remove('open');
+  const img = lb.querySelector('#lightbox-img');
+
+  // Controle de zoom
+  let escala = 1;
+  const ESCALA_MIN = 1;
+  const ESCALA_MAX = 4;  // zoom máximo — aumente se quiser mais
+
+  function aplicarZoom(novaEscala, origemX, origemY) {
+    escala = Math.min(Math.max(novaEscala, ESCALA_MIN), ESCALA_MAX);
+    img.style.transformOrigin = `${origemX}px ${origemY}px`;
+    img.style.transform = `scale(${escala})`;
+    img.classList.toggle('zoomed', escala > 1);
+  }
+
+  function resetarZoom() {
+    escala = 1;
+    img.style.transform = 'scale(1)';
+    img.style.transformOrigin = 'center center';
+    img.classList.remove('zoomed');
+  }
+
+  // Zoom com scroll do mouse
+  img.addEventListener('wheel', e => {
+    e.preventDefault();
+    const rect = img.getBoundingClientRect();
+    const origemX = e.clientX - rect.left;
+    const origemY = e.clientY - rect.top;
+    const delta = e.deltaY > 0 ? -0.2 : 0.2;  // scroll pra baixo = zoom out
+    aplicarZoom(escala + delta, origemX, origemY);
+  }, { passive: false });
+
+  // único clique: alterna entre zoom 2x e normal
+  img.addEventListener('click', e => {
+    if (escala > 1) {
+      resetarZoom();
+    } else {
+      const rect = img.getBoundingClientRect();
+      aplicarZoom(2, e.clientX - rect.left, e.clientY - rect.top);
+    }
   });
 
-  // Escape key also closes
+  // Clica no fundo escuro (fora da imagem) — fecha o lightbox
+  lb.addEventListener('click', e => {
+    if (e.target === lb) {
+      lb.classList.remove('open');
+      resetarZoom();
+    }
+  });
+
+  // Escape fecha e reseta zoom
   document.addEventListener('keydown', e => {
-    if (e.key === 'Escape') lb.classList.remove('open');
+    if (e.key === 'Escape') {
+      lb.classList.remove('open');
+      resetarZoom();
+    }
   });
 }
 

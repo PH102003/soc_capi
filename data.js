@@ -67,6 +67,11 @@ const curiosidades = [
 ------------------------------------------------------- */
 const livros = [
   {
+    titulo: "Uma Lição de Amor ",
+    descricao: "Um singelo romance que retrata a vida de um casal que em meio aos estresses do dia-a-dia busca a continuação do casamento e a preservação da família.",
+    fotos: ["imagens/livros/uma-licao-de-amor-capa.jpeg","imagens/livros/uma-licao-de-amor-verso.jpeg"]
+  },
+  {
     titulo: "A Vida Através dos Contos",
     descricao: " 'Ser jovem, mesmo aos oitenta, Sentir que pode sonhar... Não se deixar vencer pelo cansaço...'",
     ano: "",
@@ -302,6 +307,7 @@ Do livro da autora: A ARTE DE CONTAR HISTÓRIAS (Contos & Crônicas)
     tipo: "Conto",
     data: "Abril de 2026",
     trecho: "Era uma tarde de abril quando as primeiras gotas tocaram o telhado de zinco. Aquele barulho sempre me levou de volta à infância, ao quintal da minha avó...",
+    imagens: ["imagens/estrelinha.jpeg"],
     texto: `O caso que vou narrar, meu amigo, aconteceu há muitos e muitos anos. As estrelinhas do céu resolveram, certa vez, deixar as alturas em que vivem. 
     Deixariam o céu e viriam todas a Terra. “Vamos para a Terra! Vamos para a Terra!" – gritavam com alegria as estrelinhas do céu. 
     – Na Terra há mares, há rios e há florestas! Na terra há frutos, há flores e há perfumes. 
@@ -313,7 +319,10 @@ Do livro da autora: A ARTE DE CONTAR HISTÓRIAS (Contos & Crônicas)
     Deus, O Senhor do Mundo, sorriu bondoso e respondeu: Ora, tudo é muito simples. 
     Eu permitirei que as estrelinhas desçam do céu e passem a viver na Terra.
     Sim, irão para a Terra. Mas elas descerão e permanecerão, assim pequeninas, como aparecem lá nas alturas; pequeninas e bem pequeninas.
-    E sempre pequeninas e brilhantes permanecerão na Terra. Houve, neste dia, ao cair da noite, uma chuva maravilhosa de estrelas. No céu ficaram o sol, a lua e um cometa rabugento, de cauda comprida, que não quis descer. Mas as estrelas desceram. Desceram e encheram a Terra. Espalharam –se por toda parte . pelos campos, pelas praias, pelas estradas e pelos jardins. Havia estrelinhas brancas, azuis, verdes, roxas, amarelas. Havia até (vejam só!) uma estrela furta-cor! Que beleza ! Algumas ficaram bem quietinhas, a cintilar, no alto das torres; vieram outras pousar nas fontes, nos repuxos, ou saltitar entre as flores e iluminar os bosques. As mais pequeninas, brincalhonas, apostavam corrida com os vaga-lumes: outras iam devagarzinho assustar os sapos que cochilavam tranqüilos entre as pedras junto das lagoas. Que alegria para as crianças! Que alegria! Mas no fim de poucos dias as estrelinhas começaram a fugir da Terra, aos grupos, aos bandos. Deixaram a Terra e voltavam para o céu. Voltavam a brilhar lá em cima, para além das nuvens, para além da Lua. O anjo da Serena Compaixão ao observar que as estrelinhas voltavam, interrogou-as: “Por que vocês voltaram?” A primeira estrela respondeu: Vi tanta maldade na terra que fiquei triste, muito triste, e resolvi voltar para o céu. Outra estrela, sendo interrogada, disse ao Anjo: Na Terra senhor vi egoísmo, vi ingratidão e perfídias! Vi filhos falando grosseiramente com seus pais! Vi fracos perseguidos e espancados pelos fortes. Meu coração ficou abalado. E por isso, e só por isso, resolvi voltar para o céu. E assim todas as estrelinhas, por terem visto maldades na Terra, voltaram ao céu. E cada uma, ao chegar, ia muito quietinha, retomar o seu antigo lugar no meio das constelações. O anjo contou-as uma a uma e percebeu que vinte mil e seis estrelinhas tinham voltado. Estranhou o anjo a conta pois faltava uma estrela para completar o número das que tinham descido a Terra. E as estrelas lhe contaram que a estrelinha verde da esperança, boa e velha companheira, não havia voltado. A estrela verde da Esperança! É por isso, meu amigo, que os homens, todos os homens, nos momentos mais tristes da vida, nos momentos de perigo, de dor ou de aflição, nunca perdem a esperança... É que a estrelinha da esperança, nossa boa amiga, deixou o céu e veio (diz a lenda) viver na Terra. Foi a única que ficou e vive, para sempre, no coração dos Homens.`
+    E sempre pequeninas e brilhantes permanecerão na Terra. Houve, neste dia, ao cair da noite, uma chuva maravilhosa de estrelas. No céu ficaram o sol, a lua e um cometa rabugento, de cauda comprida, que não quis descer. Mas as estrelas desceram. Desceram e encheram a Terra. Espalharam –se por toda parte . pelos campos, pelas praias, pelas estradas e pelos jardins. Havia estrelinhas brancas, azuis, verdes, roxas, amarelas. Havia até (vejam só!) uma estrela furta-cor! Que beleza ! Algumas ficaram bem quietinhas, a cintilar, no alto das torres; vieram outras pousar nas fontes, nos repuxos, ou saltitar entre as flores e iluminar os bosques. As mais pequeninas, brincalhonas, apostavam corrida com os vaga-lumes: outras iam devagarzinho assustar os sapos que cochilavam tranqüilos entre as pedras junto das lagoas. Que alegria para as crianças! Que alegria! Mas no fim de poucos dias as estrelinhas começaram a fugir da Terra, aos grupos, aos bandos. Deixaram a Terra e voltavam para o céu. Voltavam a brilhar lá em cima, para além das nuvens, para além da Lua. O anjo da Serena Compaixão ao observar que as estrelinhas voltavam, interrogou-as: “Por que vocês voltaram?” A primeira estrela respondeu: Vi tanta maldade na terra que fiquei triste, muito triste, e resolvi voltar para o céu. Outra estrela, sendo interrogada, disse ao Anjo: Na Terra senhor vi egoísmo, vi ingratidão e perfídias! Vi filhos falando grosseiramente com seus pais! Vi fracos perseguidos e espancados pelos fortes. Meu coração ficou abalado. E por isso, e só por isso, resolvi voltar para o céu. E assim todas as estrelinhas, por terem visto maldades na Terra, voltaram ao céu. E cada uma, ao chegar, ia muito quietinha, retomar o seu antigo lugar no meio das constelações. O anjo contou-as uma a uma e percebeu que vinte mil e seis estrelinhas tinham voltado. Estranhou o anjo a conta pois faltava uma estrela para completar o número das que tinham descido a Terra. E as estrelas lhe contaram que a estrelinha verde da esperança, boa e velha companheira, não havia voltado. A estrela verde da Esperança! É por isso, meu amigo, que os homens, todos os homens, nos momentos mais tristes da vida, nos momentos de perigo, de dor ou de aflição, nunca perdem a esperança... É que a estrelinha da esperança, nossa boa amiga, deixou o céu e veio (diz a lenda) viver na Terra. Foi a única que ficou e vive, para sempre, no coração dos Homens.
+    
+    Fonte (imagem): Internet`
+    
   },
   {
     titulo: "SALA DE LEITURA // DE VOLTA NO TEMPO... // SOCORRO CAPIBERIBE COM VOCÊ: ",
@@ -362,6 +371,7 @@ Do livro da autora: A ARTE DE CONTAR HISTÓRIAS (Contos & Crônicas)
     tipo: "Reflexão",
     data: "Janeiro de 2026",
     trecho: "A vida é e sempre será a nossa riqueza de maior valor.",
+    imagens:["imagens/dancemos.jpeg"],
     texto: `A vida é e sempre será a nossa riqueza de maior valor. Viva hoje. Viva agora. Não deixe nada para depois.
     O futuro não é garantido a ninguém. 
     Só temos de certo o momento presente e a certeza de que a qualquer momento a música da vida vai terminar.
@@ -406,6 +416,7 @@ Franz Kafka e a Boneca Viajante" // Autor: Jordi Sierra i Fabra)`
   tipo: "Poesia/reflexão",
   data: "Dezembro de 2024",
   trecho: "Os sonhos não morrem jamais!",
+  imagens:["imagens/livros/uma-licao-de-amor-capa.jpeg"],
   texto: `Os sonhos não morrem jamais!"
 Os sonhos não morrem... 
 Tampouco envelhecem...

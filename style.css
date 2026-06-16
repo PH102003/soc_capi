@@ -767,7 +767,18 @@ main {
   border-radius: 6px;
   box-shadow: 0 8px 40px rgba(0,0,0,0.5);
   animation: fadeIn 0.2s ease;
-  cursor: default;
+  cursor: zoom-in;
+  transition: transform 0.2s ease;
+  transform-origin: center center;
+  user-select: none;
+}
+
+/* quando estiver com zoom aplicado, muda cursor para mover */
+.lightbox img.zoomed {
+  cursor: grab;
+}
+.lightbox img.zoomed:active {
+  cursor: grabbing;
 }
 
 /* Imagens opcionais dentro do modal de conto */
