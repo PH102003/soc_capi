@@ -164,10 +164,183 @@ const livros = [
 ------------------------------------------------------- */
 const contos = [
   {
+    titulo: "PARA OS AMANTES DA LEITURA // SALA DE LEITURA ",
+    tipo: "Crônica",
+    trecho: "REFLEXÕES NUM NOVELO DE LÃ OU A MANTA DE TRICÔ AZUL",
+    imagens: ["imagens/compilacao_fotos_sala_de_leitura.png"],
+    texto: `Para os amantes da leitura...
+
+*👆🏻Estou compartilhando com vocês uma crônica do meu mais recente   livro: "SALA DE LEITURA", que gostei muito de ter escrito. Espero que gostem! Um forte abraço carregado de carinho, Socorro Capiberibe. 
+😘🌻
+
+
+*REFLEXÕES NUM NOVELO DE LÃ OU A MANTA DE TRICÔ AZUL*
+
+*Socorro Capiberibe
+
+Era o ano de 2020... Estávamos enfrentando uma Pandemia de "Covid 19" que se alastrou pelo mundo e ceifou muitas vidas...
+
+Tudo começou no primeiro ponto da linha azul, que teceria a manta de tricô que eu estava  fazendo para o meu sobrinho-neto Guilherme, que estava sendo ansiosamente esperado por toda a família, e que iria nascer em Dezembro para alegrar o nosso Natal... 
+
+É impressionante como o pensamento da gente corre solto, as emoções afloram e a inspiração flui,  quando se está fazendo com carinho um trabalho manual que exige toda nossa  concentração... 
+
+Pois é. Foi mesmo assim que ela surgiu: a inspiração.
+
+À medida que os pontos se seguiam e a linha deslizava suavemente  entre meus dedos passando de uma agulha à outra, dando forma à manta,  para agasalhar esse novo membro da família que estava chegando...  Comecei a pensar na relação que havia  entre ambos: a manta que estava sendo tecida pelas minhas mãos e a criança que estava sendo gerada no ventre da minha sobrinha Lara... 
+
+Ambas começaram de um primeiro e  pequenino ponto de linha...
+
+A manta: da linha de um novelo de lã. A criança: da linha do tempo de uma vida.
+
+Ambas cresciam, tomavam forma, ficavam prontas,  cumpriam sua missão... Assim como uma gestação. 
+
+Essa primeira comparação levou-me a uma segunda reflexão, que de uma certa forma tinha a ver com a primeira: A linha do novelo de lã e a linha do tempo da vida. Eu conto para vocês... 
+
+Voltando ao início do texto, eu comecei dizendo como o pensamento voa fácil nas asas da imaginação, quando se está entretido com um trabalho manual que exige concentração, principalmente quando se tem uma alma de escritor... 
+
+Então, no momento eu vinha dedicando boas horas tricotando e viajando no pensamento... 
+
+Acontece que eu também tinha uma mãe velhinha, com 91 anos, e sempre que eu ia visitá -la e fazer-lhe um pouco de  companhia,  levava junto a minha sacola de tricô... 
+
+E, assim, numa dessas visitas,  olhando sua cabeça branquinha e as suas limitações impostas pelo tempo, lembrei-me de um trechinho de um poema do meu avô Severino Cândido Marinho (Pai de mamãe):
+
+"Já sinto o fio dos anos a encurtar os meus dias... Tive poucos desenganos, tive muitas alegrias...  A Vida me deu prazer, e não me deu desenganos. Ah, eu queria viver... Morrer, de velho, aos Cem anos!"
+
+Vocês vão entender essa minha colocação...  
+
+Eu estava tecendo uma manta de tricô para o meu sobrinho-neto Guilherme que iria  nascer... Estava também  acompanhando o envelhecer de minha mãe... 
+
+Muitos de vocês podem achar que estávamos diante do "Início" e do "Fim", pode parecer... mas eu não penso assim. Não penso na Morte como o Fim. E essa foi justamente a minha segunda reflexão: 
+
+Acredito que existam "Duas Vidas" e consequentemente "Dois Nascimentos": A VIDA TERRENA e a VIDA ESPIRITUAL.  
+
+Após Nove meses, ao final da gestação,  quando as Mães  dão a Luz a uma criança... É o nascimento para a vida na Terra. 
+
+Mas, a própria Linha do Tempo da nossa vida terrena, também pode ser vista como uma outra "Gestação", que quando completa o seu ciclo, culmina com o "Parto" onde se nasce para a "VIDA NO CÉU" ou para a "VIDA NA  TERRA DOS QUE VIVEM PARA SEMPRE" - como li numa Novena a Santa Mônica...
+
+E, aqui, eu abro um parêntese para uma  citação de Henry Sobel, num brilhante texto em que compara a morte com "um navio partindo rumo à linha do horizonte: 
+
+"Enquanto os que ficam na praia vendo o navio se distancianciando, pensam saudosos: ELE ESTÁ PARTINDO... Outros, na outra margem, exclamam alegres: ELE ESTÁ CHEGANDO!"
+
+Bem, a MANTA DE TRICÔ AZUL que eu  estava fazendo para o meu sobrinho-neto Guilherme, felizmente ficou pronta a tempo do nascimento dele. 
+
+Não ficou perfeita, mas foi tecida, ponto a ponto, com muito amor e muita alegria na espera da sua chegada. 
+
+No dia 30 de Novembro de 2020, a gestação da minha sobrinha Lara se concluiu e ela deu à luz ao meu sobrinho-neto Guilherme. E a manta de lã azul cumpriu sua missão: agasalhou o soninho de Guilherme por muitas vezes... 
+
+Quando ele crescer e for ler esse texto, ele vai gostar de saber que foi muito amado e ansiosamente  esperado por essa nossa família, para a qual ele foi destinado. 
+
+Em 16 de Maio de 2021 a gestação da vida terrena de minha mãe, agora já com 92 anos, também se concluiu,  e mamãe também nasceu novamente: dessa vez para a VIDA NA TERRA DOS QUE VIVEM PARA SEMPRE! 
+
+*Socorro Capiberibe 
+Recife, 18 de Novembro de 2022
+
+Todos os livros da autora encontram-se à venda na AMPARE: Rua Oswaldo Cruz, 393 / Anexo, Boa Vista, Recife/PE. 
+81-3104.7617 e 9.9504.0782`
+  },
+  {
+    titulo: "PARA OS AMANTES DA LEITURA: DEIXANDO UM POUQINHO DE MIM... // A ARTE DE CONTAR HISTÓRIAS",
+    tipo:"Crônica",
+    trecho: "Um dia olhei-me no espelho e não vi mais a menina que eu via todos os dias...",
+    imagens: ["imagens/compilacao_socorro_capiberibe.jpeg"],
+    texto: `Para os amantes da leitura: Deixando um pouquinho de mim... 
+
+(Hoje, especialmente, quando completo meus "7.0", compartilho com vocês essa crônica que gostei muito de ter escrito. Espero que gostem! Com carinho, Socorrinho)
+
+""REVELAÇÕES DO MEU ESPELHO"" 
+*Socorro Capiberibe
+
+Um dia olhei-me no espelho e não vi mais a menina que eu via todos os dias... E, em vez da menina, eu vi uma jovem bonita, de olhos brilhantes, de corpo gracioso e sedutor com suaves curvas, cabelos longos e sedosos de um castanho claro sem igual.
+
+- Quando foi que eu cresci? Em que momento se deu essa transformação, se ainda ontem eu não era mais do que uma menina?
+Terá sido no dia em que troquei as bonecas pelas fotonovelas e os sapatos baixos pelos saltos altos?
+
+E, nesse dia, o espelho me revelou que a infância se fora... Que a juventude chegara... Era o tempo dos sonhos e da ternura. O tempo da descoberta do amor e do despertar das paixões.
+
+- Que idade tinha eu nesse momento? Talvez 15... A tenra idade desejada por toda moça.
+
+E não faltaram festas. E não faltaram amigos. E não faltaram flertes. E não faltaram fãs.
+
+Vieram o namoro, os desejos, as promessas, os presentes, os planos, a formatura, o casamento e os filhos.
+
+E, eis, que um belo dia, o meu espelho me fez nova revelação... Olhei-me novamente e de repente não vi mais a jovem que eu vira todos os dias até então... E em seu lugar, eu vi refletida a imagem de uma mulher madura, com cabelos levemente prateados, corpo com formas arredondadas, olhar confiante de quem sabe das coisas, sorriso tranqüilo de quem aprendeu com o tempo.
+- Quando foi que amadureci? Em que momento se deu essa transformação, se ainda ontem eu não era mais que uma jovem sonhadora ansiando por viver?
+
+Terá sido no dia que coloquei o anel de formatura na minha primeira filha ou quando vi minha filha mais nova vestida de noiva?
+
+E, nesse dia, o meu espelho me revelou que também a juventude se fora... Que a maturidade chegara... Agora era o tempo das realizações. Da colheita das sementes plantadas. Da mudança de valores, da seleção dos prazeres, da qualidade em vez da quantidade. Era o tempo do equilíbrio dos sentimentos, da estabilidade das relações, do amor duradouro e em paz em vez das paixões desmedidas e transitórias, da razão se sobrepondo ‘a emoção.
+
+- Que idade tinha eu nesse momento? Talvez, Quarenta – que é quando se começa a viver, segundo uns... E como a “Mulher de 40” que Roberto Carlos homenageou em sua música... Ou quem sabe, não foi aos 50, outra idade que todos comemoram e em que toda mulher se declara madura?
+
+Essa revelação do espelho é como uma descoberta ou tomada de consciência e pode ter duas conotações: O início de uma nova etapa tão desejável quanto as que se foram ou o começo do fim... Sim, porque as transformações não se dão apenas no campo físico do corpo, mas também no emocional.
+
+Nesse instante, não é rara a pessoa a desencantar-se com a vida, perder a auto-estima, sentir-se velha, gorda e feia, tornar-se amarga, achar que a vida não tem sentido, descuidar de tudo e entregar-se a uma profunda depressão.
+Há quem relute em aceitar os fios grisalhos e o aumento nas medidas da cintura e quadris ou na perda de firmeza dos seios e entre num processo de completo desespero. Aí começa uma corrida desenfreada contra o tempo, em busca de todos os recursos oferecidos pela modernidade, como: maquiagens, tinturas de cabelo, dietas e exercícios para a modelagem do corpo, cremes de todos os tipos que tiram manchas e retardam o envelhecimento da pele e vendem a falsa ilusão da eterna juventude. Isso poderia até ser saudável quando feito na medida certa, em todas as fases da vida, como uma vaidade benéfica e preventiva, e não como uma obsessão.
+
+Mas, pode também se dar o inverso – sim, porque afinal, o espírito cresce, amadurece, mas não envelhece... E, é aí nesse momento, exatamente nesse momento, que a vida pode ganhar um novo sentido. A gente pode se sentir mais bonita, mais madura, mais experiente, mais desejável e mais interessante.
+
+É quando a gente se dá conta de que o físico é apenas a embalagem e o espírito é o verdadeiro presente.
+
+A embalagem é bonita, mas é provisória e descartável, enquanto o presente é o que fica. A gente descobre que a verdadeira beleza é aquela que o tempo ao invés de destruir, só faz renovar, refinar, lapidar e aprimorar.
+
+É essa beleza que tem o poder de reforçar os laços afetivos que sustentam os relacionamentos. É essa beleza que está além do corpo, que se sobrepõe ao tempo e se eterniza na memória de quem fica, depois que a gente parte.
+
+Aí é o tempo dos netos... Os filhos dos nossos filhos... É a vida que se renova mais uma vez... A nossa própria continuação. E a gente também recomeça... A gente ensina a cuidá-los e eles, tal qual os nossos filhos, também ensinam pra gente... Porque na escola da vida nós somos eternos aprendizes.
+
+Na verdade cada idade tem o seu encanto, a sua graça, o seu brilho, o seu valor. Todas elas são importantes e necessárias... Afinal, uma a uma, elas representam os capítulos da nossa história e todas juntas, compõem o livro da nossa vida.
+
+Se eu viver mais essa etapa da minha vida, estou certa de que o meu espelho ainda me reserva mais uma revelação...
+
+Nesse dia, certamente, eu não verei mais a imagem da mulher madura... Mas serei contemplada com a mais bela imagem da minha vida: Eu verei, refletida no espelho, a imagem de uma simpática senhora que viveu intensamente todas as etapas de sua vida e traz consigo um pouco de cada idade: a alegria da infância, a graça da adolescência, os encantos da juventude, a confiança da maturidade e a sabedoria da velhice. Meus cabelos brancos e as rugas do meu rosto não farão menos feliz o meu sorriso, que nesse instante há de brilhar como o diamante mais puro e bem lapidado.
+
+Cada fio de cabelo branco e cada ruga do meu corpo revelarão uma lição aprendida no decorrer da vida, e quem sabe, também, algumas lições ensinadas.
+
+Nesse dia, quando o meu espelho me disser que também a minha maturidade se fora... É hora de mais uma vez agradecer a Deus, porque eu terei conquistado o meu melhor tempo... O tempo da SABEDORIA, que é o meu passaporte para a imortalidade.
+
+- Que idade eu terei nesse instante da última revelação do meu espelho?
+
+- Talvez, Oitenta... Que é a idade que mais comumente se comemora...
+
+Mas, como amante da vida que sou, eu ouso desejar ir mais além... Como o meu avô que um dia escreveu assim:
+
+“A vida me deu prazer...
+E não me deu desenganos.
+Ah! Eu queria viver...
+Morrer de velho aos Cem anos.”
+
+(Meu avô: Severino Cândido Marinho – quase realizou seu desejo: viveu até os 96 anos)
+
+DO LIVRO DA AUTORA: "A ARTE DE CONTAR HISTÓRIAS / 50 MELHORES CONTOS & CRÔNICAS" - Todos os livros de Socorro Capiberibe encontram-se à venda na AMPARE: 81-3104.7617 e 9.9504.0782`
+  },
+  {
+    titulo:"Para os amantes da leitura // UM OLHAR ESPECIAL QUE EU GUARDEI NA MEMÓRIA... OU TERÁ SIDO NO CORAÇÃO?... ",
+    tipo:"Crônica" ,
+    trecho:"Estávamos já naquela fase em que o passo começa a ficar mais lento, que o peso dos anos começa a se fazer sentir nos ombros, e que as marcas do tempo já não conseguem disfarçar no corpo...",
+    imagens:["imagens/compilacao_socorro_wagner_flavia.jpeg"],
+    texto:`Estávamos já naquela fase em que o passo começa a ficar mais lento, que o peso dos anos começa a se fazer sentir nos ombros, e que as marcas do tempo já não conseguem disfarçar no corpo. Muito cedo iniciamos  a nossa jornada, e muitos amigos acompanharam de perto a nossa trajetória. Era, de fato, uma boa e longa caminhada! 
+É natural que com o passar dos anos e com  a nossa  diminuição da  marcha, as pessoas mais próximas e que nos tem afeição,  sintam-se tocadas na sua sensibilidade, e de um modo especial, demonstrem esse afeto com pequenos gestos de carinho e de cuidado. Criança e idoso, geralmente, parece ganhar um espaço especial no nosso coração. Não que isso seja uma regra e nem que todas as pessoas tenham essa sensibilidade. 
+O fato é, que ao longo do caminho, algumas vezes somos surpreendidos, por pequenos gestos de carinho, que na sua simplicidade denotam uma profunda ternura e tocam fundo nosso coração... 
+Quem lê os meus livros e  conhece os meus textos, já percebeu, que a minha alma de escritora se inspira nas vivências mais simples do meu cotidiano... 
+Nesse texto, por exemplo, iniciei  falando de: *UM OLHAR ESPECIAL, QUE COM MUITO CARINHO GUARDEI NA MEMÓRIA*...
+Pois, muito bem, eu conto para vocês...
+Faz algum tempo, mas não tanto tempo assim, pouco antes da Pandemia...
+Após uma tarde de expediente na AMPARE - e aqui eu abro um espaço para explicar aos que, porventura, ainda não conhecem essa Instituição: *AMPARE (ASSOCIAÇÃO DOS AMIGOS DOS PACIENTES DE PÂNICO EM RECIFE) - Desde 2001 cuidando da SAÚDE MENTAL*...  
+Sim, mas voltando ao texto... A algum tempo atrás, num comecinho de noite, após uma  tarde de expediente na AMPARE, Wagner e eu iríamos chamar um Táxi para nos levar ao Shopping Tacaruna... Uma Psicóloga muito querida, jovem talvez como a nossa filha, ofereceu-nos carinhosamente para nos levar. Ela estava de carro e o caminho que iria fazer passaria na frente do Shopping... 
+Talvez vocês estejam se perguntando o que tem de especial nisso, afinal, nada mais comum do que dar uma carona...  Entretanto eu gostaria de concluir:
+Sim, caro leitor, uma simples  carona talvez não tenha nada de especial que merecesse essa crônica... Mas, devo lembrar, que quando se tem uma alma de escritor e um coração apaixonado pela vida e pelos sentimentos mais puros, até mesmo as coisas mais simples e aparentemente sem importância, adquirem grandes proporções quando tocam na nossa alma... Lembra do "OLHAR ESPECIAL" que falei, e que  guardei na memória? (Ou terá sido no coração?)... 
+Pois é! Vamos a ele...
+A viagem até o shopping foi ótima. A companhia agradável e carinhosa, não poderia ter sido melhor. A nossa jovem motorista Psicóloga - tal qual uma filha dedicada - sempre gentil e cuidadosa, fez questão de nos levar o mais próximo que o carro podia chegar, até bem junto da entrada principal. 
+Descemos, Wagner e eu...  Agradecemos, despedimo-nos e caminhamos lentamente de mãos dadas, pelo restinho do  estacionamento... Ela, o nosso anjo guardador naquele momento, permanecia lá... parada dentro do carro, atenta, zelosa, acompanhando-nos com o olhar, como sentindo na alma uma pontinha de afeto e reconhecimento pelo trabalho que realizamos e pelos jovens que um dia fomos...  
+Lá da porta de entrada do Shopping, olhamos para ela e acenamos... Mas a expressão de ternura, carinho, respeito e cuidado, que vi no seu olhar naquele momento, tocou profundamente a minha alma e ficou registrado para sempre em minha memória.
+À Psicóloga Flávia Rocha, com carinho:
+*SOCORRO CAPIBERIBE 
+03/09/2024`    
+  },
+  {
     titulo:" Para os amantes da leitura: Deixando um pouquinho de mim..." ,
     tipo:"Crônica" ,
     trecho:"A crônica a seguir, faz menção a esses meus 'Dois Amores': Minha mãe Maria Ruth e minha filha Mariana Capiberibe Maia... ",
-    imagens: ["imagens/foto_nana.jpg", "imagens/socorro_e_ruth.jpg"],
+    imagens: ["imagens/compilacao_marian_ruth.jpg"],
     texto:`(Hoje, especificamente, lembrei-me com profunda saudade e ternura, de minha mãe — "minha sombra amiga" e, mais fielmente falando: "minha melhor amiga". Não que eu não lembre dela com frequência, aliás lembro dela sempre... mas, hoje, de forma especial, ela está ainda mais presente nas minhas lembranças, talvez pelo fato de nessa data, há 49 anos atrás, eu ter me tornado "mãe", como ela. Em 03 de Março de 1976, Deus me agraciou com o dom da maternidade. E naquele 03 de Março, no amanhecer de uma Quarta-feira de cinzas, quando as orquestras entoavam suas últimas marchinhas de Carnaval, nasceu minha filha primogênita: "Mariana", fazendo transbordar o nosso coração de alegria).
     
     A crônica a seguir, faz menção a esses meus "Dois Amores": Minha mãe "Maria Ruth" e minha filha Mariana Capiberibe Maia...
@@ -219,7 +392,7 @@ Canal do YouTube: SOCORRO CAPIBERIBE`
 {
     titulo:"SOCORRO CAPIBERIBE COM VOCÊ / DEIXANDO UM POUQUINHO DE MIM..." ,
     tipo:"Crônica" ,
-    data:"Maio de 2019",
+    
     trecho:"E SE TU NÃO EXISTISSES, DIZE-ME POR QUE EU EXISTIRIA?",
     imagens:["imagens/praia_socorro.jpg", "imagens/foto_luis.jpg"],
     texto:`Escutei pela primeira vez num comercial de televisão, no horário nobre da novela das Oito... Era linda... Muito linda... Tocou minha alma profundamente e eu me apaixonei.
@@ -305,7 +478,6 @@ Do livro da autora: A ARTE DE CONTAR HISTÓRIAS (Contos & Crônicas)
 {
     titulo: "A ESTRELINHA QUE FICOU – ( DO LIVRO CONTOS & LENDAS ORIENTAIS DE MALBA TAHAN)",
     tipo: "Conto",
-    data: "Abril de 2026",
     trecho: "Era uma tarde de abril quando as primeiras gotas tocaram o telhado de zinco. Aquele barulho sempre me levou de volta à infância, ao quintal da minha avó...",
     imagens: ["imagens/estrelinha.jpeg"],
     texto: `O caso que vou narrar, meu amigo, aconteceu há muitos e muitos anos. As estrelinhas do céu resolveram, certa vez, deixar as alturas em que vivem. 
@@ -327,7 +499,6 @@ Do livro da autora: A ARTE DE CONTAR HISTÓRIAS (Contos & Crônicas)
   {
     titulo: "SALA DE LEITURA // DE VOLTA NO TEMPO... // SOCORRO CAPIBERIBE COM VOCÊ: ",
     tipo: "Colagem literária",
-    data: "Março de 2026",
     trecho: "AS CANÇÕES QUE VOCÊ FEZ PRA MIM, NAS JOVENS TARDES DE DOMINGO... (Para os Jovens de 70... Como EU... Quem viveu essa época vai lembrar.)",
     texto: `"AS CANÇÕES QUE VOCÊ FEZ PRA MIM, NAS JOVENS TARDES DE DOMINGO... (Para os Jovens de 70... Como EU... Quem viveu essa época vai lembrar.)
   "Hoje eu acordei com saudade de você / beijei aquela foto que você me ofertou / sentei naquele banco da pracinha só por que/foi lá que começou o nosso amor... "
@@ -369,7 +540,6 @@ Do livro da autora: A ARTE DE CONTAR HISTÓRIAS (Contos & Crônicas)
   {
     titulo: "UMA PAUSA PARA A REFLEXÃO // DEIXANDO UM DE MIM...",
     tipo: "Reflexão",
-    data: "Janeiro de 2026",
     trecho: "A vida é e sempre será a nossa riqueza de maior valor.",
     imagens:["imagens/dancemos.jpeg"],
     texto: `A vida é e sempre será a nossa riqueza de maior valor. Viva hoje. Viva agora. Não deixe nada para depois.
@@ -383,7 +553,7 @@ Socorro Capiberibe`
   {
     titulo: "SOCORRO CAPIBERIBE COM VOCÊ  / DEIXANDO UM POUQUINHO DE MIM...",
     tipo: "Reflexão",
-    data: "Dezembro de 2025",
+   
     trecho: "'Deixar ir'... também é uma forma de amar...",
     texto: `"DEIXAR IR"... TAMBÉM É UMA FORMA DE AMAR... GUARDAR COM CARINHO E RESPEITO, 
 OS BONS MOMENTOS VIVIDOS COM OS QUE DECIDIRAM SEGUIR, É ENTENDER QUE O CAMINHO COMPARTILHADO VALEU!*
@@ -394,7 +564,7 @@ OS BONS MOMENTOS VIVIDOS COM OS QUE DECIDIRAM SEGUIR, É ENTENDER QUE O CAMINHO 
   {
     titulo: "Para quem curte uma boa leitura / Excelente texto...",
     tipo: "Reflexão",
-    data: "Janeiro de 2025",
+    
     trecho: "Passeando pelo parque de Steglitz, em Berlim, encontrou uma menina chorando porque havia perdido sua boneca...",
     texto: `Um ano antes de sua morte, Franz Kafka (1883-1924), viveu uma experiência singular. 
 Passeando pelo parque de Steglitz, em Berlim, encontrou uma menina chorando porque havia perdido sua boneca. 
@@ -414,7 +584,7 @@ Franz Kafka e a Boneca Viajante" // Autor: Jordi Sierra i Fabra)`
 {
   titulo: "O DIREITO E A LIBERDADE DE SONHAR // SOCORRO CAPIBERIBE",
   tipo: "Poesia/reflexão",
-  data: "Dezembro de 2024",
+ 
   trecho: "Os sonhos não morrem jamais!",
   imagens:["imagens/livros/uma-licao-de-amor-capa.jpeg"],
   texto: `Os sonhos não morrem jamais!"
