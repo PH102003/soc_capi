@@ -164,6 +164,221 @@ const livros = [
 ------------------------------------------------------- */
 const contos = [
   {
+    titulo:"PARA OS AMANTES DA POESIA... CANTINHO DO POETA // SOCORRO CAPIBERIBE: DEIXANDO UM POUQUINHO DE MIM...",
+    tipo:"Poesia",
+    trecho:"ESSA TAL FELICIDADE...",
+    imagens:["imagens/socorro_restaurante.jpeg"],
+    texto:`"ESSA TAL FELICIDADE"
+
+Encontrei toda brejeira, certo dia, na cidade...
+Uma velha companheira; uma tal "Felicidade".
+Ela estava tão bonita... Com um vestido de cetim.
+Há tanto tempo eu não a via...
+Ela passou perto de mim. 
+Quis sorrir-lhe, foi em vão... Ela fez que não me viu.
+Perdeu-se na multidão... Num instante ela sumiu.
+
+Noutra esquina, toda prosa, caminhando displicente...
+Encontrei "Dona Saudade"... Que me sorriu gentilmente.
+
+Quis fugir-lhe, foi em vão... Ela logo me alcançou.
+Segurou na minha mão... E comigo caminhou.
+Caminhamos, lado a lado, pelas ruas da cidade...
+Procurei por todo canto... Mas não vi "Felicidade". 
+
+Perguntei a tanta gente... Mas ninguém soube informar.
+Eis que surgiu de repente, uma voz a me falar:
+
+- Não procures tanto assim. Ela fugiu com certeza! 
+Também se escondeu de mim... Falou, suspirando, a "Tristeza".
+
+A Tristeza e a Saudade, ao me verem assim tão triste...
+Tentaram até consolar... 
+- Felicidade? Ela não existe.
+
+Sentei-me num banco da praça, remoendo a minha dor.
+Em nada eu achava graça... Até que alguém me falou:
+
+- Não ligues  àquelas duas... O que dizem não é verdade.
+Elas andam pela rua sem ver a felicidade.
+Mas eu posso lhe afirmar: a felicidade existe.
+Você pode acreditar. Não precisa ficar triste. 
+
+Ela está perto da gente... Mas nem sempre a gente a vê.
+Às vezes, a gente a sente... Ou a tem sem perceber.
+Agora, meu bem, sorria. Você é só uma criança!
+E quando me quiser um dia... 
+- Muito prazer! Eu me chamo: "Esperança".
+
+*Socorro Capiberibe 
+______
+Do Livro da autora: DE GERAÇÃO A GERAÇÃO - POESIAS & REFLEXÕES.
+
+Todos os livros de Socorro Capiberibe encontram-se à venda na AMPARE: 
+81-3104.7617 e 9.9504.0782 (WhatsApp)
+
+Canal no YOUTUBE:
+SOCORRO CAPIBERIBE`
+  },
+  {
+    titulo:"PARA OS AMANTES DA POESIA... CANTINHO DO POETA // SOCORRO CAPIBERIBE: DEIXANDO UM POUQUINHO DE MIM... ",
+    tipo:"Poesia",
+    trecho:"Porque Deus é Amor! Porque tudo o que vem de Deus é leve, é simples, é sublime e cheio de Paz!",
+    imagens:["imagens/socorro_cafe.jpeg"],
+    texto:` 
+"Porque Deus é Amor! Porque tudo o que vem de Deus é leve, é simples, é sublime e cheio de Paz!"
+
+O AMOR É O MAIOR DOS SENTIMENTOS
+*Socorro Capiberibe
+
+Estavam os sentimentos em importante reunião...
+Discutiam quem era mais forte, se o Amor ou a Paixão.
+Levantou-se a Alegria, desmanchando-se em sorrisos,
+e falou que era a Paixão... que levava ao Paraíso.
+
+- Pode ser!
+Disse a Tristeza, no seu tom de amargura...
+Mas a Paixão é tempestuosa e também leva à loucura.
+Também não voto no Amor... Ele é pura ilusão...
+Sendo assim, a minha escolha é para a colega Gratidão.
+
+A Gratidão pediu a vez, bem polida e educada...
+
+- Eu discordo de vocês. A Paixão não leva a nada.
+Ela chega como um trovão, mas se vai com a tempestade. Pode ser forte como um furacão.
+Contudo, parte sem deixar Saudade.
+
+- Já que falaram em meu nome... E a Saudade se levantou...
+
+- Eu não quero que me deixem; eu prefiro que me levem... por isso é que voto no Amor. 
+O Amor me torna importante; não me deixa ficar esquecida. Quando alguém que a gente ama está distante... Eu estou presente em sua vida.
+
+- Ora, deixem de tolice! Pra que tanta discussão?
+Afinal, o que importa... se é o Amor ou a Paixão?
+E a Revolta prosseguiu, com toda agressividade...
+- Não voto em nenhum dos dois. Prefiro a Amizade
+
+O Ciúme ironizou:
+- Amizade? Isso é piada! Eu aposto no amor.
+É ele quem me desperta. Sem ele eu não sou nada.
+Vou com ele onde ele for.
+
+Bem maldosa, a Inveja, soltou seu sorriso cruel...
+- Nem Paixão e nem Amor. Nem Gratidão, nem Amizade.
+Se tenho que votar em alguém... eu voto na Vaidade.
+
+- Agradeço a referência... - disse a Vaidade, enfim;
+Mas só me importo com a minha aparência, por isso meu voto é pra mim.
+
+Muito amável, a Amizade, que ainda não tinha falado...
+- Meu voto é para você!... - e tocou no companheiro ao lado.
+
+O Amor, muito vermelho, fechou os olhos de emoção..
+E preferiu ficar calado, para ouvir seu coração.
+
+Nessa pausa que se fez, a Paixão aproveitou:
+- Agora é a minha vez... Também voto no amor.
+
+Todos ficaram perplexos: sem saber o que pensar.
+E, a Paixão continuou:
+
+- Esperem! Eu ainda quero falar...
+Sou muito forte e fugaz; não sirvo pra companheira...
+Quem me tem hoje, amanhã não tem mais. A minha relação é passageira. Eu mexo com os corações, agito as emoções, mas alço vôo em seguida...
+Machuco os meus amantes, porque sou mesmo inconstante... E o Amor é pra toda vida.
+
+A Simpatia levantou o dedo, e cheia de doçura completou:
+
+- Eu concordo com a Paixão. O meu voto também é para o amor.
+
+Faltava ainda a Esperança... Tão confiante e solidária.
+E, num lindo sorriso que lembrava uma criança... Também pediu a palavra:
+
+- O Amor é, sem dúvida alguma, de todos o maior
+sentimento. Semeia a Paz e o Perdão. É bálsamo no sofrimento. É a ponte que liga as pessoas; os Cristãos e os ateus... Amor é vida e verdade. É a eterna aliança com Deus.
+
+O Ódio, contrariado...
+Retirou-se, derrotado...
+cheio de ira e má fé.
+Depois disso ninguém falou mais...
+O ambiente encheu-se de Paz...
+E todos aplaudiram de pé.
+
+YouTube:
+SOCORRO CAPIBERIBE 
+
+Do livro da autora: DE GERAÇÃO A GERAÇÃO (POESIAS & REFLEXÕES)
+
+À venda na AMPARE (Rua  Oswaldo Cruz, 393/Anexo, Boa Vista, Recife/Pe)
+81-3104.7617 e 9.9504.0782 (WhatsApp)
+
+Canal no YOUTUBE:
+SOCORRO CAPIBERIBE`
+  },
+  {
+    titulo:"PARA OS AMANTES DA LEITURA... UMA PAUSA PARA A REFLEXÃO // O PODER DA PALAVRA",
+    tipo:"Crônica",
+    trecho:"Palavras têm força...",
+    imagens:["imagens/socorro_festa.jpeg"],
+    texto:`Para os amantes da leitura...
+
+"As palavras tem um poder assustador..." (Bess Sondel)
+
+Brilhante afirmação de Bess Sondel! É a mais pura verdade.
+Palavras levantam ou derrubam.
+Acalmam ou revoltam.
+Acariciam ou ferem.
+Harmonizam ou destroem.
+Ora são pontes, ora são muralhas...
+Às vezes, unem; outras vezes, separam.
+
+Palavras têm força.
+Peso.
+Poder.
+Podem promover a paz ou podem provocar uma guerra.
+
+Certamente já se ouviu falar de guerras que foram deflagradas, em conseqüência de algo que foi dito num momento impensado.
+
+- Quem nunca experimentou situações de ódio, rancor, indiferença, 
+paixão ou amor, despertadas por palavras proferidas no auge da exaltação?
+
+Palavras têm ressonâncias eternas. 
+Têm conseqüências inesperadas e ás vezes irreparáveis.
+Podem levar ao céu e podem impelir ao abismo.
+
+E, uma vez proferidas, como retirá-las? Como desfazer os estragos por elas provocados?
+
+Há sempre a possibilidade de um pedido de perdão
+ou a tentativa de alguma explicação para minimizar o impacto causado.
+Mas, como colar uma porcelana sem deixar
+as marcas da emenda? Seria o mesmo que tratar das feridas e ignorar as cicatrizes.
+
+Palavras exigem reflexão, cautela, serenidade...
+Jamais a impulsividade.
+
+A reflexão e o cuidado previnem estragos que podem ser evitados.
+A impulsividade gera atritos e desentendimentos.
+
+Palavras podem ser bênçãos ou sentenças...
+
+Que as nossas palavras jamais sejam sentenças.
+Que elas possam sempre ser bênçãos sussurradas por Deus em nossos ouvidos, 
+para que tenham o poder da harmonia,
+da cura, do conforto, da fé, da esperança, do amor e da paz."" 
+_______________
+DO LIVRO DA AUTORA: 
+
+"DE GERAÇÃO A GERAÇÃO
+ - POESIAS & REFLEXÕES" 
+* Socorro Capiberibe
+
+À VENDA NA AMPARE: PRAÇA OSWALDO CRUZ, 393/ANEXO, BOA VISTA, RECIFE/PE -
+(81)3104.7617 / 9.9504.0782 (WhatsApp)
+
+Canal no YOUTUBE:
+SOCORRO CAPIBERIBE`
+  },
+  {
     titulo: "PARA OS AMANTES DA LEITURA // SALA DE LEITURA ",
     tipo: "Crônica",
     trecho: "REFLEXÕES NUM NOVELO DE LÃ OU A MANTA DE TRICÔ AZUL",
