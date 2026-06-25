@@ -157,12 +157,307 @@ const livros = [
    Para adicionar um conto: copie um bloco { ... },
    cole no final da lista e edite.
    - "tipo": pode ser "Conto" ou "Crônica"
-   - "data": data de publicação (pode deixar vazio "")
    - "trecho": primeiras linhas que aparecem no card
    - "texto": texto completo (aparece ao clicar "Ler mais")
      Use \n\n para separar parágrafos.
 ------------------------------------------------------- */
 const contos = [
+  {
+    titulo:"PARA OS AMANTES DA LEITURA... // SALA DE LEITURA // HORA DO CONTO ",
+    tipo:"Conto",
+    trecho:"Alegria de uns, tristeza de outros ou um peixinho brincalhão e um gato muito esperto...",
+    imagens:["imagens/compilcao_socorro_livro.jpg"],
+    texto:`
+"A vida é agora. Viva! O tempo é curto. E a gente nunca sabe quando o nosso relógio vai parar. Ame mais. Abrace mais. Perdoe mais... Porque a vida é breve e nós não sabemos quanto tempo nos resta."
+
+ALEGRIA DE UNS, TRISTEZA DE OUTROS OU UM PEIXINHO BRINCALHÃO E UM GATO MUITO ESPERTO...
+
+O dia nasceu em paz como nascem todos os dias. 
+O sol, majestoso, despontou no horizonte e seus raios dourados desceram do céu e cobriram os montes; atravessaram as folhagens; penetraram nas florestas; iluminaram os campos... Colorindo as flores; aquecendo as águas dos mares, rios e lagos; descortinando a manhã. Ah! E era uma linda manhã! Uma manhã feliz. Uma tranqüila e fresca manhã de Julho. 
+
+Sons maravilhosos enchiam o ar e falavam de vida...
+O galo cantou anunciando a manhã nascida; a galinha cacarejou chamando seus filhotes; os pintinhos se alvoroçaram; os passarinhos entoaram seu canto; os pombos bateram suas asas e partiram em revoada... Ah! Era de fato uma linda manhã! Uma manhã harmoniosa e abençoada... Como harmoniosas e abençoadas são todas as manhãs! Era a natureza toda que despertava para o milagre de um novo dia.
+
+As mesas, arrumadas para o café, espalhavam-se pelo terraço arborizado da fazenda, e um cheiro apetitoso atraía os hóspedes... Tem coisa mais cheirosa que cuscuz no fogo? Bolo no forno? Queijo assando? Café fresquinho? Pois, é. Não dava para ficar na cama. E em pouco tempo as mesas estavam repletas e as famílias comiam e conversavam alegremente.
+
+Ali embaixo da varanda cardumes corriam, brincavam, e por vezes saltavam, compartilhando com os patos a água cintilante e tranqüila de um lago. No extenso gramado que contornava o terraço, os pombos em festa, num alegre bater de asas, disputavam os farelos de pão e bolachas que os hóspedes lhes atiravam, para depois, satisfeitos, realizarem no ar um gracioso balé e retornarem para sua casa cravada no meio do lago.
+
+Por vezes os pedacinhos de pão caíam na água; e os peixes saltitantes - tal qual os pombos no gramado - realizavam a mesma brincadeira e disputavam alegremente os miolinhos molhados. Era um verdadeiro festival de vida e alegria, dos bichos e dos hóspedes.
+
+Indiferente a tudo isso, cauteloso e determinado, um gato muito esperto postou-se numa pedra na beira do lago, e como um pescador ardoroso ou um espectador enciumado, aguardou pacientemente o momento certo para fazer também a sua festa.
+
+E, sem perceber o perigo que corria, nadando ligeiro ao encontro do pãozinho apetitoso... Um peixinho, saltitante de alegria, foi parar na boca de um gato traiçoeiro.
+
+Debatendo-se e implorando pra ser solto, o peixinho foi levado pelo gato impiedoso que vorazmente o comeu, e satisfeito, foi dormir bem feliz dentro do mato.
+
+A platéia, entre espanto e frustração, dividiu-se em acusação e defesa. 
+Houve quem entendesse e justificasse a atitude do gato, como sendo a lei da natureza... 
+Em que todos têm que garantir o seu sustento para a própria sobrevivência. 
+
+Mas, houve também quem com a cena ficou chocado... 
+Vendo o peixinho covardemente arrebatado... 
+Retirado bruscamente do seu habitat natural, quando brincava acompanhado... Desfrutando do prazer de mais um dia, nadando feliz na tranqüilidade do seu lago.
+
+Nunca se sabe o que pode nos acontecer...  No momento seguinte... A cada amanhecer... 
+
+Enquanto uns nascem e festejam a preciosa vida... Outros morrem, inocentemente, sem querer.
+
+E enquanto o gato descansava alimentado e satisfeito; 
+sem nenhuma culpa pelo seu gesto traiçoeiro...
+O dia se fez mais triste para os outros peixes...
+Que no lago sofriam a perda do peixinho companheiro."
+
+(Do Livro da autora: A ARTE DE CONTAR HISTÓRIAS) 
+
+YOUTUBE:
+SOCORRO CAPIBERIBE 
+
+À VENDA NA AMPARE: RUA OSWALDO CRUZ, 393 / ANEXO,  BOA VISTA, RECIFE/PE
+81-3104.7617 e 9.9504.0782
+
+YOUTUBE:
+SOCORRO CAPIBERIBE 
+
+Instagram:
+@msocorrocapiberibemaia`
+  },
+  {
+    titulo:"SALA DE LEITURA // HORA DO CONTO // DEIXANDO UM POUQUINHO DE MIM...",
+    tipo:"Crônica",
+    trecho:"LEMBRANÇAS DA MINHA INFÂNCIA... RETRATOS DA MINHA VIDA.",
+    imagens:["imagens/compilacao_socorro_jovem.jpg"],
+    texto:` 
+
+"Oh, que saudades que eu tenho da aurora da minha vida, da minha infância querida que os anos não trazem mais!" *Casimiro de Abreu 
+
+""LEMBRANÇAS DA MINHA INFÂNCIA... RETRATOS DA MINHA VIDA.""
+*Socorro Capiberibe
+
+Não tem coisa que me dê mais saudade que ver pés de manga, caju e goiaba plantados ao longo de uma estrada, ornamentando os quintais das casas simplesinhas com cadeiras de balanço e rede nos terraços, que se espalham pelos campos beirando as colinas ou margeando rios...
+
+Desde menina percorro com a minha família a estrada que liga João Pessoa a Recife, capitais de estados vizinhos que guardam pedaços da minha infância e juventude até a minha idade atual, compondo assim o retrato da minha vida.
+Tenho uma relação muito forte e estreita com essas duas cidades.
+
+Em João Pessoa eu nasci e vivi a minha infância, ao lado dos meus pais e de meus irmãos, no bem-aventurado convívio com meus avós, tios e primos maternos. 
+
+Era a época dos circos, dos cozinhados no quintal, dos veraneios em Tambaú com pescarias, assustados, serenatas e banhos de mar. Era também a época dos cajus, das goiabas e das mangas tirados por nós das próprias árvores e das castanhas assadas com carvão em fogareiro de barro.
+
+Ah, João Pessoa querida! Cidade pequenina e amada! João Pessoa do meu “Jardim da infância Nossa Senhora de Lourdes no Instituto Dom Adauto”, da minha primeira professora “tia Herundina”, do meu “curso primário” no Colégio de Nossa Senhora das Neves onde eu recitava de Casimiro de Abreu “Meus oito anos”. João Pessoa da “Lagoa”, da “Bica”, do “Cabo Branco” e da “Festa das Neves”... Como foi triste e saudosa a minha despedida de ti.
+
+Chegamos a Recife em fevereiro de 1966, nossos pais, meus irmãos e eu. Recife nos acolheu de braços abertos. Uma nova etapa de nossas vidas iniciava-se ali. 
+
+Foi amor à primeira vista. Apesar da saudade que trazia no peito quando te vi me encantei! Tua alegria me contagiou. Pareceste-me tão grande e tão bela naquela tarde banhada de sol. Havia tanta gente nas ruas, tantos ônibus enormes que eu não conhecia – “os ônibus elétricos” - Recife de mil encantos, foi aí que me apaixonei. Eu estava completando onze anos de idade... Tudo era novo para mim.
+
+Ah, Recife... Recife!
+Recife dos rios e pontes... Do rio Capiberibe como o meu nome - como constava nos livros de geografia daquela época e como pode ser visto ainda hoje nos mapas antigos da cidade expostos no Museu da cidade do Recife no forte das Cinco pontas – posteriormente mudado para rio Capib(a)ribe, nomenclatura que permanece até os dias atuais.
+
+Recife de ruas singelas: da AURORA, do SOL, da AMIZADE, da CONCÓRDIA, da SAUDADE, da UNIÃO... Recife dos cinemas: SÃO LUIS, TRIANON, ART PALÁCIO e MODERNO... Recife da confeitaria CONFIANÇA na Rua da IMPERATRIZ, dos desfiles de sete de setembro na Av. CONDE DA BOA VISTA... Da CASA-NAVIO, do VELEIRO e do CASTELINHO na praia de BOA VIAGEM.
+Recife da minha juventude, do meu curso ginasial no Colégio Nossa Senhora do Carmo, do meu baile de debutantes no clube INTERNACIONAL, do namoro, do casamento, da formatura na Universidade Federal, das minhas filhas e dos meus netos.
+
+Nesse meu meio século de vida, quantas vezes percorri a velha estrada JOÃO PESSOA - RECIFE  / RECIFE – JOÃO PESSOA, em companhia da minha família e em diferentes automóveis: inicialmente ÔNIBUS, depois RURAL, KOMBI, OPALA, MARAJÓ, CHEVETTE, BRASILIA e o saudoso “FUSCA BRANCO de placa BX3535”?
+
+Aprendemos a conhecer cada curva do caminho, cada ponto pitoresco da estrada: OS PÉS DE EUCALÍPTOS rodeando a IGREJINHA da Usina Nossa Senhora das Maravilhas; a parada em GOIANA para comprar frutas e ir ao banheiro; a FAZENDA RECREIO em Mata Redonda que indicava que estávamos bem perto de João Pessoa.
+
+Hoje percorremos a mesma estrada com a família diminuída e ao mesmo tempo aumentada. 
+
+Diminuída pela ausência de nosso pai, da nossa “Mãe de criação” e de dois dos nossos irmãos. Aumentada, porém, com a presença agora de nossos filhos e dos nossos netos. Nossa família de hoje já não cabe mais num carro só.
+
+A estrada de agora está mais larga, mais moderna e mais movimentada, mas ainda conserva um pouco do que compõe as lembranças da nossa infância. 
+
+É comum vermos ao longo da rodovia barracas de frutas coloridas: abacaxis, cajus, goiabas, abacates, bananas, mamões, laranjas, sapotis, cocos... Ainda podemos encontrar pessoas assando castanhas em fogareiros de barro embaixo das árvores e casas com cadeiras no terraço e roupas coloridas penduradas no quintal.
+
+É uma alegria chegar a João Pessoa. É uma felicidade voltar para Recife.
+
+As duas cidades se confundem em nossos corações e se entrelaçam em nossas vidas, escrevendo juntas as nossas histórias... 
+
+E, tal qual os rios Capibaribe – outrora capib(e)ribe – em Pernambuco, e o rio Paraíba, na Paraíba,  deságuam juntos no oceano... Também o sangue Paraibano e o sangue Pernambucano correm juntos em nossas veias e desembocam no oceano da nossa família.
+
+MEUS IRMÃOS E EU
+No inicio éramos sete...
+Oito passamos a ser...
+Até que um nos deixou...
+E éramos sete outra vez.
+Outro também se foi...
+Agora nós somos seis.
+Um dia seremos cinco...
+Seremos quatro...
+Seremos três...
+E quando todos partirmos...
+Seremos oito outra vez.
+
+DEDICATÓRIA:
+
+A meus irmãos: Luis Filipe (Lula) / os gêmeos: José Walter (Vavá) e Fernando Antônio (Tota) - in memóriam - / Maria de Fátima (Fátima) / Maria de Lourdes (Lourdinha) / Isaura Maria aparecida (Amor) e ao caçula Marcos Marcel -(Marquinhos). 
+Com carinho,
+Maria do Socorro Capiberibe Maia (Socorro Capiberibe)
+Recife, 26 de Novembro de 2010.
+
+DO LIVRO: SOCORRO CAPIBERIBE.COM.VOCE // FACE A FACE (MEMÓRIAS)
+
+À VENDA NA  AMPARE (PÇA OSWALDO CRUZ, 393, BOA VISTA, RECIFE/PE)
+81-3104.7617 e 9.9504.0782 (WhatsApp)
+
+socorrocapiberibe.com.br 
+
+YOUTUBE:
+SOCORRO CAPIBERIBE 
+
+Instagram:
+@msocorrocapiberibemaia
+`
+  },
+  {
+    titulo:"SALA DE LEITURA // HORA DO CONTO: A SOMBRA AMIGA -   ACONTECEU COMIGO...",
+    tipo:"Conto",
+    trecho:"Este conto é dedicado à minha mãe: Maria Ruth Marinho Capiberibe - In memorian - ('A MINHA SOMBRA AMIGA') - E A TODAS AS MÃES - QUE COMO A MINHA - DEDICARAM / DEDICAM - TODO SEU AMOR INCONDICIONAL E DESMEDIDO AOS SEUS FILHOS, QUE JAMAIS DEIXARÃO DE SER SUAS CRIANÇAS",
+    imagens:["imagens/ruth_e_socorro.jpeg"],
+    texto:` 
+"ESTE CONTO É DEDICADO À MINHA MÃE: MARIA RUTH MARINHO CAPIBERIBE - In memorian - (A MINHA "SOMBRA AMIGA") - E A TODAS AS MÃES - QUE COMO A MINHA - DEDICARAM / DEDICAM - TODO SEU AMOR INCONDICIONAL E DESMEDIDO AOS SEUS FILHOS, QUE JAMAIS DEIXARÃO DE SER "SUAS CRIANÇAS")
+
+"A SOMBRA AMIGA"
+
+Todas as tardes Socorrinho saía com sua mãe. Estava se recuperando de um problema de saúde que a deixara muito debilitada. Precisava se readaptar a vida normal, das pessoas normais, fora dos limites do seu portão. Durante anos esteve prisioneira de sua própria casa, sua "gaiola dourada"... como costumava chamar, vítima de todos os medos  que a mente humana pode fabricar.
+O mundo lá fora, além dos muros que a protegiam, a assustava. Criara um mundo todo seu, onde se escondia de tudo e de todos que pudessem, de alguma forma, provocar-lhe algum desconforto ou embaraço; qualquer coisa que representasse perigo ou desencadeasse medo. Seus amigos - os únicos que podiam ter acesso a esse mundo tão limitado - restringia-se a sua família.
+Suas atividades: cuidar de plantas, peixes, passarinhos, fazer tricô, ler, ouvir música, assistir novelas. A vida lá de fora chegava até ela através da tela de tv.
+Era dotada de uma sensibilidade extraordinária; amava as artes, estudava a vida dos mestres da pintura e dos compositores clássicos famosos; conhecia toda a obra de Chopin e apreciava a beleza singular da pintura de Renoir.
+Tinha uma paixão especial pelos livros e pela música. Gostava de escrever e tocar violão. Tinha um bom arquivo de poemas e canções de sua autoria; entretanto guardava tudo só para si... Era um patrimônio restrito ao seu mundo particular; abrigado dentro dos limites de sua casa.
+
+- Sempre fora assim?
+- Não.
+- Por que ficou assim?
+- Também não sabia.
+
+Foi uma criança normal igual a todas as crianças da sua idade, com medos e sonhos próprios da infância. Teve uma adolescência saudável, sem desajuste ou rebeldia e foi uma jovem feliz.  Freqüentou colégios e universidade. Teve muitos amigos, fez muitos passeios, foi a muitas festas. Brincou, dançou, namorou; fez tudo que teve direito e que a vida lhe proporcionou, dentro de uma juventude normal e saudável. Casou, teve filhos, constituiu uma família. Teve toda uma estrutura favorável e bem consolidada, que podia proporcionar uma vida harmoniosa e tranqüila.
+
+- Onde estava o erro? O que foi que mudou? Por que a reviravolta em sua vida?...
+- Não tinha resposta.
+
+Nada explicava o medo que de repente se instalara em sua vida...
+
+- Como entender que o mesmo mundo - outrora tão fascinante e sedutor -fosse de um momento para outro o grande monstro, o terrível fantasma, que tanto a assustava e a mantinha cativa do seu próprio lar?
+
+- Como explicar tudo isso, se ela própria não entendia?...
+
+A cabeça humana ainda é a "caixa preta" do avião. Talvez nos compêndios da psicologia e da medicina psiquiátrica, estivesse a resposta.
+Existem coisas que simplesmente acontecem na vida da gente, para as quais não se tem uma explicação. Coisas, que a gente não quer e não pede que aconteçam, mas quando surgem tem que se buscar a solução.
+
+Os únicos passeios de Socorrinho eram sempre feitos de carro... Era como se o automóvel fosse uma extensão de sua casa. Dentro dele e em companhia da família, sentia-se segura; desde que não precisasse saltar em nenhum lugar. Nele, podia ir tomar uma água de coco na praia olhando o mar; parar na sorveteria e tomar um sorvete ou ir a uma lanchonete e comer um sanduíche sem descer do carro.  Era de fato uma vida muito limitada; um mundo muito restrito e particular, o de Socorrinho.
+
+Um dia, Socorrinho resolveu se deixar ajudar. Permitiu ser acompanhada por uma psicóloga. Queria sair da clausura; fazer parte outra vez do mundo dos "normais" e viver novamente a vida com toda intensidade, gozando de toda liberdade que alguém pode ter. Tinha dado o primeiro passo. Os outros passos se dariam naturalmente, lentamente, gradativamente... Afinal, Deus não criou o mundo num dia só... E todo recomeço é difícil; não se faz da noite para o dia. Tudo tem um momento certo para acontecer. E a recuperação de Socorrinho também aconteceria; era só esperar.
+
+Matriculou-se numa aula de hidroginástica junto com as filhas. Tinha medo de ficar só na piscina sem alguém da família e com pessoas estranhas. "E, se passasse mal? Se cansasse muito? E se desmaiasse?..."  - as filhas lhe davam segurança... Cuidavam dela... Ficavam atentas a qualquer expressão de cansaço ou de medo no rosto de sua mãe. Isso a tranqüilizava, mas também a entristecia. Era incrível pensar que ali naquela mesma piscina há anos atrás, era ela Socorrinho, quem entrava com suas filhas ainda criancinhas, carregando-as no colo, para aprenderem a nadar. Agora era o contrário, as filhas já moças, tomavam conta da mãe. A vida tem desses contrastes e ainda bem que podia contar com a ajuda das suas filhas. Os benefícios da água para o corpo são realmente maravilhosos e Socorrinho passou a curtir ao máximo as suas aulas. Começou a sentir-se melhor com ela mesma. Tinha mais disposição durante o dia. Dormia bem à noite e relacionava-se melhor com as pessoas. Fez amizades com todo o grupo, chegava a trocar receitas com as colegas... Começou a curtir o seu bronzeado como nunca e mal conseguia esperar pela hora das aulas, tanto que gostava daquela atividade. Aceitou um desafio com o professor: iniciou uma dieta e se propôs a trabalhar o corpo dentro da água, executando com a maior dedicação todos os exercícios. Começou a perder peso. O professor dava o maior estímulo. Ficava atento a qualquer erro e corrigia no ato. Em pouco tempo Socorrinho dispensou os cuidados das filhas... Elas não tinham mais que continuar freqüentando as aulas se não quisessem e realmente elas não quiseram. Preferiram se matricular numa outra modalidade de ginástica, própria para a idade delas e com uma turma também mais jovem. Socorrinho não se intimidou. Passou a fazer as aulas sozinha. Começava a resgatar sua auto-confiança. Era o tratamento surtindo efeito... O médico e a psicóloga, juntos. Um trabalho paralelo...  Remédio e exercícios lado a lado, dia a dia, sem descanso.
+
+Comprou um teclado e começou também a ter aulas particulares. A música é um estado de espírito, algo Divino e maravilhoso, capaz de harmonizar corpo e alma numa perfeita comunhão...  E ninguém poderia amar mais a música do que Socorrinho. Quando sentava diante do teclado, seus dedos dedilhavam suavemente as melodias enquanto sua mente era toda descontração e paz.
+As vezes, começava um exercício prescrito pela professora, mas bastava um acorde em falso ou uma nota descuidada, que a fizesse lembrar de tal melodia... E lá se ia Socorrinho tentar tirar a tal música... Concentrava-se nas notas, apurava os ouvidos e esquecia da aula... Alguns minutos depois era capaz de tocar a melodia inteira - apenas dedilhando- e corria para copiá-la num papel. Precisava mostrá-la à professora na aula seguinte. A música também passou a ter uma presença maior no seu tratamento.
+
+Outros exercícios foram sendo acrescentados à vida de Socorrinho. Era preciso sair à rua sozinha. Tinha que se libertar da sua gaiola dourada... Tinha que desmanchar os nós que a prendiam em tantos medos. Começou caminhando até a esquina mais próxima, sempre em companhia de alguém. Era difícil; sentia-se insegura; mas insistiu. Dia após dia, o mesmo exercício, até ficar uma coisa normal. Depois, o percurso do passeio foi aumentando até a outra esquina, depois já dobrava a rua e algum tempo depois já caminhava todo o quarteirão. O segundo passo mudou um pouco:  agora, em vez da companhia de uma pessoa, fazia o mesmo passeio seguida pelo seu cachorrinho de estimação. Era incrível como um simples animalzinho conseguia lhe passar segurança e diminuía a sua solidão. Finalmente conseguiu sair sozinha e percebeu que não era tão ruim assim.
+
+Começava a se sentir "normal"... Já experimentava uma agradável sensação de liberdade... E para tornar o seu exercício ainda mais proveitoso, passou a atribuir-lhe alguma finalidade: comprar o pão na padaria da esquina; algumas frutas no mercadinho do bairro; fazer as unhas no salão mais próximo ou uma compra qualquer no comércio local.
+
+Estava redescobrindo a vida. Era maravilhoso viver. Às vezes, em seu passeio pelo bairro, Socorrinho parava diante de um sobrado antigo e punha-se a admirar a  bonita arquitetura da antiga construção, em contraste com a beleza moderna dos novos prédios, que emolduravam as ruas arborizadas de seu bairro. Outras vezes surpreendia-se admirando quadros simples do cotidiano: a senhora grisalha, que vinha com a sacola carregada de verduras do supermercado; o senhor de pijama, lendo o jornal na cadeira de balanço do terraço; o menino entregando jornais; a moça vendendo bilhetes de loteria; o homem com o cachorro passeando na calçada; a babá com a criança tomando banho de sol no portão, pessoas entrando e saindo da igreja, caminhonetes carregadas de deliciosas e coloridas frutas...  Gente, carros, animais, colégios, lojas, bancas de revistas, jogo do bicho... Um movimento intenso; estava sentindo falta de tudo aquilo.
+
+Cada dia era único. Havia sempre algo novo, aos olhos de Socorrinho, em seu passeio. Ela levantava os olhos para o céu muito azul e agradecia a Deus pela vida. Estava viva outra vez. Sentia-se feliz novamente.
+
+De toda sua caminhada, em busca do tempo perdido, na luta pela recuperação... Dentre as lembranças que guardava dos seus exercícios, uma lhe era especial e destacava-se das demais...
+"Certa vez, no início do tratamento, saíra com sua mãe, como fazia todas as tardes, para um passeio de carro pela praia. Desceram do automóvel e sentaram no banco do calçadão para tomar uma água de coco. Depois Socorrinho convidou a mãe para fazerem sua caminhada habitual, pela pista de "Cooper" da avenida; exercício que faziam juntas com freqüência. Sua mãe era sua fortaleza; a sua simples companhia dava a Socorrinho a segurança de que ela necessitava. Naquele dia porém, Dona Ruth se recusou; não iria caminhar com a filha. Já estava na hora de Socorrinho caminhar sozinha... - refletiu - e disse que esperaria sentada no banco.
+
+Socorrinho voltou a se sentar. Não iria sem a sua mãe. Sentiu-se insegura, frágil, pequena. E veio o medo; e veio o sentimento de impotência. E todos os pensamentos mais tolos tomaram conta da cabeça da jovem mulher, que mais parecia naquele instante uma menina assustada... "E se eu passar mal ? E se eu ficar cansada ? E se eu desmaiar? E se isso?  E se aquilo?... Eram sempre os mesmos pensamentos. E Socorrinho não se sentia em condições de caminhar sozinha.
+
+Dona Ruth percebeu a aflição de Socorrinho. Conhecia todos os medos de sua filha e como se pudesse ler o seu pensamento, concluiu:
+- você não vai passar mal, minha filha. Nada vai lhe acontecer. Não existe motivo para se sentir insegura. Eu vou estar aqui lhe esperando e se você ficar cansada, eu vou de carro lhe apanhar na outra barraca de coco... Por quê o medo? Olhe quanta gente caminhando... Você não vai estar sozinha. Você não precisa de bengala, Socorrinho. Já é tempo de caminhar com os próprios pés.
+
+Socorrinho ouviu em silêncio. Ficou triste, mas concordou. Sua mãe estava certa.
+Não era eterna; não poderia estar sempre ao seu lado. Estava na hora de tentar caminhar sozinha.
+
+Levantou-se e com passos incertos começou seu exercício. Não olhou para trás uma única vez. Sabia que sua mãe estaria sentada no banco, olhando de longe... Isso já lhe confortava. Nunca o percurso entre uma barraca de coco e outra lhe pareceu tão comprido... E enquanto caminhava, veio-lhe na mente, a lembrança de uma frase que lera num "outdoor", numa propaganda de sapatos:  "Liberdade é você ir aonde quiser com seus próprios pés..."
+
+De repente percebeu, o quanto era limitada a sua liberdade, naquele momento. Seus pés só conseguiam lhe levar, a distâncias muito pequenas ainda. Seu coração batia forte dentro do peito, de tanta ansiedade. Tentou se distrair para atenuar o medo. Começou a olhar os prédios altos e majestosos da avenida; depois o mar, quebrando em espumas na areia alva; mais adiante um animado jogo de vôlei e ali perto, no banco do calçadão, uma concorrida partida de dominó. Por vezes, diminuía o passo, fitava o céu, respirava fundo e pensava assustada e feliz: "estou conseguindo".  Em determinados pontos do passeio, notou algumas pessoas sorrindo para ela... Socorrinho era uma pessoa simpática e retribuiu o sorriso, mas achou estranho porque, na realidade, não conhecia qualquer uma delas.
+
+Finalmente chegou à outra barraca; ponto final da sua caminhada. Parou; fechou os olhos e suspirou feliz...- "consegui"... - pensou satisfeita. Ia se virando para trás... Queria medir com o olhar a distância percorrida e acenar para sua mãe... Mas esbarrou em alguém. Assustou-se. Ficou muda de espanto. Dona Ruth sorriu. Estava exatamente atrás dela; colada nela. Seguiu os passos da filha o tempo todo; brincando de sombra.
+
+Socorrinho também sorriu, desarmada. Compreendeu naquele instante, o porquê do sorriso das pessoas. Durante todo trajeto, pensou que estava caminhando sozinha e via naquele momento, que sua mãe estivera com ela todo tempo, protegendo-a, guardando-a, impedindo que qualquer mal lhe acontecesse.
+Foi um gesto lindo de sua mãe. Ficou comovida. Enquanto vivesse, lembraria com o maior carinho dessa "sombra amiga" - desse momento ímpar; dessa prova genuína de amor.
+
+Socorrinho se recuperou completamente do mal que a afligia: "A síndrome do pânico". Hoje é uma pessoa normal, saudável, alegre e descontraída. Trabalha, passeia, viaja, diverte-se, dirige seu automóvel, participa intensamente de todo e qualquer evento social - festivo ou solidário; na alegria ou na dor -  profissional, esportivo e religioso, que a vida lhe apresente e que durante dezoito anos de sua vida esteve impossibilitada de realizar.
+
+Contou com a ajuda valiosa de dois profissionais da área de saúde: seu médico, que lhe administrava a medicação para anular os sintomas desagradáveis de uma crise de Pânico, e sua psicóloga, que a acompanhava passo a passo, semana após semana, orientando-lhe nos exercícios diários de readaptação à vida.
+
+Contou ainda com o apoio indispensável de bons amigos e sobretudo, de toda sua família. Sente-se até mais feliz do que antes e bem mais amadurecida, porque afinal o sofrimento amadurece as pessoas e de cada experiência sempre se tira alguma lição. Segundo o seu médico, a doença é uma surra de humanidade...  E se isso faz algum sentido, certamente Socorrinho está agora mais humana e mais solidária para enfrentar a vida e disposta a estender a mão para amparar alguém. Agradece a Deus o presente maior: "O milagre da vida" e atribui à Dona Ruth - ( sua SOMBRA AMIGA), uma grande parcela de colaboração no seu restabelecimento.
+
+*Socorro Capiberibe
+
+Obs.
+O conto A SOMBRA AMIGA – extraído da vida real - é parte integrante do livro "O FANTASMA DO PÂNICO OU O FUNDO DO POÇO: COMO ESQUECER?" (Relato pessoal da Autora sobre o Transtorno do Pânico)
+
+Agradeço a Deus pela minha mãe Maria Ruth Marinho  Capiberibe – a minha sombra amiga - e desejo um FELIZ DIA DAS MÃES a todas as mães, que como ela, são capazes de gestos tão bonitos como este, que traduz o mais genuíno amor)
+
+AGRADECIMENTOS ESPECIAIS:
+
+*Cristina Jatobá - Psicóloga Clínica (minha psicóloga)
+
+*Wilson Alves de Oliveira Jr - Médico Cardiologista (meu médico)
+
+*TODOS OS LIVROS DE SOCORRO CAPIBERIBE ENCONTRAM-SE À VENDA NA AMPARE: 
+
+👉🏻81-3104.7617 e 9.9504.0782 (WhatsApp)
+
+YOUTUBE:
+SOCORRO CAPIBERIBE 
+
+Instagram:
+@msocorrocapiberibemaia`
+  },
+  {
+    titulo:"SALA DE LEITURA COM SOCORRO CAPIBERIBE // DEIXANDO UM POUQUINHO DE MIM...",
+    tipo:"Crônica",
+    trecho:"UM ANJO QUE VIVEU ENTRE NÓS...",
+    imagens:["imagens/maria_evangelina.png"],
+    texto:`
+
+"Mãe não é só aquela que gera o filho em seu ventre... Existem as Mães que geram seus filhos no coração"... (Socorro Capiberibe)
+
+"UM ANJO QUE VIVEU ENTRE NÓS"
+
+Ela um dia apareceu em nossa vida... Não tinha um lar e fez de nós sua família. E como uma verdadeira mãe amou cada criança... E cada um de nós ela amou como seu filho. A sua cama era igual a qualquer cama... Mas nela cabia todos nós bem acolhidos. Cada tristeza ela transformou em alegria... E enxugou nosso pranto com sua bondade. E sorriu com a gente, e chorou com a gente, no dia a dia... E a todos nós dedicou sua mocidade.
+
+De sua boca jamais se ouviu qualquer lamento... As suas mãos nunca deram qualquer palmada. Nossa alegria era a sua e era seu o nosso sofrimento... Não teve filhos, mas como Mãe foi sempre amada.
+
+Deu-nos a mão e ensinou nossos primeiros passos... E,  passo a passo, pela vida caminhou... 
+Segurando sempre firme a nossa mão, como se ainda fôssemos crianças... 
+Enchendo sempre o nosso coração de esperanças... Em cada gesto nos ensinou o seu amor. 
+
+Ela, que adotou tantos filhos durante a vida... Ela, que a tantas crianças ensinou a chamar "Mamãe"... Não conheceu sequer a sua própria mãe.
+
+E hoje eu agradeço com os olhos rasos d'água... Nessas palavras soltas, sem rima, sem nada... 
+Por Deus nos tê-la dado e abençoado sua velhice. 
+
+-Perdão, querida, se algum dia a fiz chorar... Perdão também, também, pelas palavras de amor e gratidão que eu não disse...
+
+E, mesmo agora, que tu vives lá no Céu... Não te esqueças nunca desses filhos que são teus... Nós a amamos muito e sempre a amaremos... Tu tens um pouco de Maria, Mãe de Deus. 
+
+E se um dia apareceste em nossa vida... 
+Se não tinhas lar e fomos nós tua família... A felicidade foi toda nossa, mãe querida... 
+Agradecemos a Deus por tê-la colocado em nossa vida!
+
+Mãe não é só aquela que gera o filho em seu ventre... Existem as Mães que geram seus filhos no coração. 
+
+(Dedico este poema, com o coração carregado de gratidão e da mais profunda saudade, à nossa mãe de criação: Maria Evangelina Guedes de Carvalho (para nós: *"LOU"* - expressão mais pura e mais verdadeira da bondade e do amor).
+
+*SOCORRO CAPIBERIBE 
+Do livro da autora: 
+SALA DE LEITURA / DEIXANDO UM POUQUINHO DE MIM...
+
+AMPARE: 81-3104.7617 e 9.9504.0782 (WhatsApp)
+
+YOUTUBE:
+SOCORRO CAPIBERIBE 
+
+Instagram:
+@msocorrocapibeibemaia
+
+Facebook:
+SOCORRO CAPIBERIBE`
+  },
   {
     titulo:"PARA OS AMANTES DA POESIA... CANTINHO DO POETA // SOCORRO CAPIBERIBE: DEIXANDO UM POUQUINHO DE MIM...",
     tipo:"Poesia",
@@ -555,7 +850,7 @@ Lá da porta de entrada do Shopping, olhamos para ela e acenamos... Mas a expres
     titulo:" Para os amantes da leitura: Deixando um pouquinho de mim..." ,
     tipo:"Crônica" ,
     trecho:"A crônica a seguir, faz menção a esses meus 'Dois Amores': Minha mãe Maria Ruth e minha filha Mariana Capiberibe Maia... ",
-    imagens: ["imagens/compilacao_marian_ruth.jpg"],
+    imagens: ["imagens/mariana.jpg", "imagens/ruth_e_socorro_lancamento_livro.jpg"],
     texto:`(Hoje, especificamente, lembrei-me com profunda saudade e ternura, de minha mãe — "minha sombra amiga" e, mais fielmente falando: "minha melhor amiga". Não que eu não lembre dela com frequência, aliás lembro dela sempre... mas, hoje, de forma especial, ela está ainda mais presente nas minhas lembranças, talvez pelo fato de nessa data, há 49 anos atrás, eu ter me tornado "mãe", como ela. Em 03 de Março de 1976, Deus me agraciou com o dom da maternidade. E naquele 03 de Março, no amanhecer de uma Quarta-feira de cinzas, quando as orquestras entoavam suas últimas marchinhas de Carnaval, nasceu minha filha primogênita: "Mariana", fazendo transbordar o nosso coração de alegria).
     
     A crônica a seguir, faz menção a esses meus "Dois Amores": Minha mãe "Maria Ruth" e minha filha Mariana Capiberibe Maia...
