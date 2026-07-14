@@ -163,6 +163,52 @@ const livros = [
 ------------------------------------------------------- */
 const contos = [
   {
+    titulo:"SALA DE LEITURA  / COM SOCORRO CAPIBERIBE",
+    tipo:"Conto",
+    trecho:"Os sonhos são livres, são jovens, são belos! São vôos diretos em busca de Paz. Alimentam esperanças, desejos secretos... Os sonhos são eternos... Não morrem jamais.",
+    imagens:["imagens/socorro_e_paisagem.jpeg"],
+    texto:`SALA DE LEITURA  / COM SOCORRO CAPIBERIBE
+"Os sonhos são livres, são jovens, são belos! São vôos diretos em busca de Paz. Alimentam esperanças, desejos secretos... Os sonhos são eternos... Não morrem jamais." 
+*Socorro Capiberibe  
+
+COMO SONHA MARICOTA...
+
+Fim de tarde. Brisa morna vinda do mar balança suavemente as folhas de um viçoso jasmineiro perfumando o ar e levando para longe os sonhos de Maricota. Toda tardinha a moça se debruça na janela do sobrado e solta seu pensamento como quem abre a porta de uma gaiola... E como corre o pensamento da crioula! Como sonha Maricota!
+
+Nem bem ela se debruça sobre o jardim florido e lança o seu olhar carregado de saudade ladeira abaixo, por aquela rua estreita com calçamento de pedras, ladeada de antigos sobrados multicoloridos, que vai dar no mar... O seu pensamento tal qual passarinho cativo se desprende dela, ganha asas ligeiras, corre solto no vento e vai muito além do que os olhos de Maricota conseguem chegar.
+
+O pensamento de Maricota corre pras bandas do Norte, pra sua vila esquecida, rua batida de barro, casas de palha e madeira, rio beirando a colina, pés de caju e goiaba, gado solto na rua, meninos de pé no chão, mulheres com trouxas de roupa na cabeça, burros puxando carroça, homens na plantação. Seu Chico cortando fumo na porta do armazém; Severino no pátio da feira contando histórias de assombração. Alzira assando castanha em frente ao coreto da praça, Elvira pintando a unha sentada no batente de casa e sonhando com Sebastião. Bentinho empinando papagaio, mãe preta fazendo tapioca, Mocinha cozinhando milho, Poeta cantando seus versos, Terêncio carregando carvão.
+
+- Que idade teria Maricota? E quem poderia afirmar se mal sabia das letras ou dos números e não tinha certidão de nascimento que pudesse atestar? A mãe era analfabeta, o pai variava com a lua; Alzira, a irmã mais velha, dizia que ela tinha nascido nas chuvas de Janeiro; Elvira, encostada a Alzira, teimava que ela nasceu num susto com uma bomba de São João... A verdade é que Maricota não tinha data de aniversário... Sabia apenas que viera menina, do interior da Paraíba, trazida por uma tia, para trabalhar de babá, na cidade de Olinda em Pernambuco, há quase vinte anos atrás.
+
+Lembrou de quando viu o mar pela primeira vez... Aquela imensidão de água salgada, indo e vindo em ondas azuladas, que se quebravam em espumas na areia. Tirou o sapato, molhou timidamente os pés e bebeu um pouco da água... Queria ver se era mesmo verdade que continha sal... Depois levantou a saia e adentrou no mar... Coração batendo forte de emoção, não sabia se sorria ou se chorava... A água subia pelas pernas e mais água descia dos seus olhos... Maricota jurava que não poderia haver nada mais belo que o mar e prometeu naquele momento que não importava o tempo que passasse, um dia ela traria a sua família para ver o mar... Para morar ali com ela.
+
+Levaria sua mãe para tomar sorvete na sorveteria chique de Olinda, comer tapioca na Sé, tomar banho salgado. Passearia com ela de ônibus pelo Recife, fariam compras no comércio da cidade e sentariam para conversar no Parque 13 de Maio. À noite assistiriam à televisão e sonhariam com o mundo fantástico das novelas. Seus irmãos poderiam estudar e seriam doutores... Suas irmãs se casariam e seriam felizes. E, ela, Maricota, compraria uma casa para morar com a mãe de frente para o mar e com um bonito pé de acácia amarela no jardim.
+
+Passaram vinte Natais e Maricota a sonhar... As crianças que viera cuidar cresceram e casaram... E, a família de Maricota não conhecia o mar!
+
+- Olha o pão, Maricota!
+
+Chegou o entregador da padaria em sua bicicleta e parou diante do portão do sobrado interrompendo os devaneios de Maricota. Ela pegou o dinheiro no bolso do vestido, entregou ao rapaz e pegou o pão ali mesmo pela janela. O rapaz foi embora com o bagageiro carregado de pães; Maricota voltou-se para o interior da casa, arrumou o pão na cestinha sobre a mesa e foi cuidar do jantar. Mais um pouco e o pessoal estaria chegando para ceia.
+
+(INSPIRADO EM TANTAS "MARIAS, JOSEFAS, SEVERINAS, ROSENILDAS... QUE DEIXAM SUAS CIDADES E SUAS FAMILIAS E PARTEM EM BUSCA DE SEUS SONHOS... SONHOS ESSES - QUE COMO OS DE MARICOTA - NEM SEMPRE SE REALIZAM, MAS QUE NEM POR ISSO DEIXAM DE SER LIVRES E BELOS E JOVENS E ETERNOS)
+
+*Do livro da autora: A arte de contar histórias (50 Melhores contos & crônicas)
+
+À venda na AMPARE: Rua Oswaldo Cruz, 393 / Anexo, Boa Vista, Recife/PE.
+
+Fones: 3104.7617 e 9.9504.0782 (Whatsapp)
+
+Acesse o site literário da autora:
+socorrocapiberibe.com.br 
+
+Instagram:
+@msocorrocapiberibemaia 
+
+YOUTUBE:
+Socorro Capiberibe`
+  },
+  {
     titulo:"PARA OS AMANTES DA LEITURA... // SALA DE LEITURA // HORA DO CONTO ",
     tipo:"Conto",
     trecho:"Alegria de uns, tristeza de outros ou um peixinho brincalhão e um gato muito esperto...",
