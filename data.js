@@ -163,6 +163,181 @@ const livros = [
 ------------------------------------------------------- */
 const contos = [
   {
+    titulo:"SALA DE LEITURA //LEMBRANÇAS DE UMA NOITE DE NATAL",
+    tipo:"Conto",
+    trecho:"Era uma tarde luminosa de Dezembro... O vento soprava brando, vindo do mar...",
+    imagens:["imagens/combined-image.png"],
+    texto:`Para os amantes da leitura...
+
+
+''''O ÚLTIMO ESPETÁCULO... OU O COMEÇO DO FIM.""
+
+Era uma tarde luminosa de Dezembro... O vento soprava brando, vindo do mar. A praça principal do lugarejo com a igreja, a Prefeitura, o colégio municipal e um pequeno comércio, pararam para ver a chegada do circo na cidade.
+
+‘BOA TARDE MINHAS SENHORAS, MEUS SENHORES, JOVENS E CRIANÇAS DE SÃO JOSÉ DO PORTO... O GRANDE CIRCO TABAJARA TEM A GRATA SATISFAÇAO DE CONVIDAR A TODOS PARA ESTREIA DE NOSSA TEMPORADA NESTE DOMINGO ÀS DEZESSETE HORAS. NÃO FALTEM. CONTAMOS COM TODOS VOCÊS E LEMBREM-SE:  *ENQUANTO EXISTIR O CIRCO,  O SONHO TAMBÉM VIVERÁ...*
+
+A música soou forte pelo alto-falante, ecoou pela praça, penetrou nas casas, mexeu com os corações e fez surgir pessoas de todos os lugares, de todas as cores, crenças e idades. Era a magia do circo despertando as fantasias e invadindo a alma daquele povo simples do lugar.
+A cidade se encheu de alegria. A meninada era um alvoroço só. Os portões do colégio se abriram e os alunos correram para a rua. Todos queriam ver o desfile da bicharada: elefante, leão, tigre, onça, macaco... SÃO JOSÉ DO PORTO parou para ver o circo chegar.
+
+Canduca largou sua carrocinha de pipoca no meio da praça, e correu desabalado, camisa aberta ao peito e pés descalços, coração explodindo de emoção. Correu, fazendo toda sorte de piruetas e cambalhotas, atrás dos caminhões enfeitados e coloridos do GRANDE CIRCO TABAJARA, que entrava glorioso naquele lugarejo simples, naquele ponto esquecido do mapa, aguçando a curiosidade dos moradores e mexendo com a rotina tão pacata da cidade.
+
+Canduca era um menino sozinho, sem pai nem mãe ou irmãos. Vendia pipoca na praça, na praia, na porta do colégio, na frente da igreja, nas quermesses... Onde houvesse gente, Canduca estava lá. Fora criado pelos padrinhos, um casal pobre e sem filhos, que o adotou ainda criança quando seus pais morreram e lhe deram o ofício de pipoqueiro, para ajudar na despesa da casa. Quando o padrinho morreu, encharcado pela bebida, a madrinha o arrastou para morar com ela num abrigo público, onde tinham um colchão para dormir e um prato de sopa todas as noites. Sobrevivia da carrocinha de pipoca e era conhecido por todos do lugar. Tinha dezesseis anos, o curso primário e a paixão pelo circo. Cada circo que chegava e partia, mexia com a cabeça do rapaz, enchia de esperanças o coração de Canduca.
+
+No último caminhão seguiam os artistas: mágicos, palhaços, trapezistas, malabaristas... O palhaço avistou Canduca atrás da caravana, correndo, gritando, fazendo piruetas, dando  cambalhotas, ao som contagiante da música... Tirou o chapéu, sorriu e acenou para o menino... Canduca ficou emocionado. Fez mais estripulias. Mostrou seu talento. Ganhou aplausos. Sentiu-se um artista. Tocou o coração do palhaço.
+
+O circo fez sua estréia no domingo às dezessete horas, para uma platéia lotada e esfuziante de alegria. Foi um sucesso. O espetáculo foi maravilhoso, todos os bilhetes foram vendidos. 
+
+Lá na frente estava Canduca... Na primeira fila... Feliz... Coração saltando do peito... Olhos brilhando de tanta emoção. Mais uma vez esquecera a carrocinha de pipoca e fora se juntar à platéia, aplaudindo, gritando, se permitindo ser feliz. Naquele instante Canduca era gente simplesmente... Podia viajar nos seus sonhos... Podia mergulhar na ilusão.
+Prestou o máximo de atenção aos mínimos detalhes de cada apresentação, mas foi na vez do palhaço que Canduca ficou mais empolgado. O velho palhaço, o artista mais antigo da Companhia, deu um show de alegria. Fez toda sorte de brincadeiras, contagiou as crianças, levou a platéia ao delírio.
+
+DISTRAÇÃO avistou Canduca, ali juntinho do picadeiro e repetiu o gesto com o qual saudou o garoto do alto do caminhão, quando o circo entrou na cidade... “Tirou o chapéu, sorriu e acenou para ele...” Canduca ficou de pé e aplaudiu, enquanto seus olhos se enevoaram de lágrimas.
+O palhaço estendeu a mão para o rapaz e o convidou a subir ao palco, para participar de uma brincadeira. Distração entregou-lhe um balde cheio de papel celofane transparente picado e segredou-lhe ao ouvido... Canduca soltou uma gargalhada marota, fez uma pirueta e fingiu um tropeço, derrubando o balde em cima da platéia. Foi um rebuliço só... Aquele susto... Um pula-pula sem fim. Todos queriam se livrar do banho. Depois o UUUHHHHHHH!... A risada... O aplauso.
+Canduca foi aplaudido com entusiasmo pela platéia. Curvou-se diante do público, num cumprimento solene, apertou a mão de Distração, o palhaço amigo, e desceu do picadeiro ao som de “vivas, assobios e palmas”. Seu coração parecia querer saltar do peito... Prendeu o choro... Forçou um sorriso... De volta à sua cadeira, Canduca chorou.
+
+O circo demorou-se um mês em São José do Porto.
+A pequena cidade litorânea era simpática e hospitaleira, o clima agradável, o povo acolhedor e amigo. Durante trinta dias a cidade teve sua rotina modificada... A fantasia andava solta... O riso pairava no ar. Existia um clima de festa, o circo estava sempre lotado. Todos se deram o direito de sonhar.
+
+Canduca esteve presente em todos os espetáculos. Tinha lugar marcado na primeira fila. Tornara-se grande amigo do palhaço e ganhara a simpatia de todos do circo.
+O jovem pipoqueiro levou seu amigo a conhecer todos os recantos da pitoresca cidade: O porto, a praia, o abrigo público onde morava com a madrinha, a igreja, o colégio municipal, a praça... Em todos os lugares onde sua carrocinha de pipoca pudesse chegar. Em troca, Distração ensinou ao rapaz muitas brincadeiras, truques e segredos do mundo mágico do circo.
+Canduca escutava atento, maravilhado, boquiaberto, cada vez mais apaixonado pelas aventuras do picadeiro. Assimilava fácil, aprendia rápido, mostrou-se excelente aluno.
+Distração o olhava comovido e orgulhoso... “O  menino tinha talento; tinha futuro; o circo não podia acabar...”
+E ele, Distração, o velho palhaço, o artista mais antigo do circo... – Cinquenta anos de picadeiro - sentiu o peso dos anos pousarem sobre seus ombros. Sentiu-se velho. Sentiu que era chegada a hora de parar, guardar a fantasia, ter um pouso certo. Tinha diante dele Canduca, um jovem de dezesseis anos, cheio de garra, esbanjando talento e se perdendo com uma carrocinha de pipoca, naquele lugarejo tão distante. Canduca tinha um futuro promissor... Tinha um caminho a percorrer...
+Era como uma pedra bruta a ser lapidada. Tinha a esperança a sua frente... Para ele, Distração, existia o passado, as lembranças da juventude, a saudade dos anos de glória, das noites de festas, do circo lotado, do aplauso da platéia, do riso solto da garotada, de todas as cidades que conhecera e de todos os amigos que ganhara, ao longo daqueles Cinqüenta anos de circo. Era uma grande bagagem...  Iria sentir saudade... Mas era hora de parar. Chegara o momento de “passar a faixa” para outro palhaço e Distração viu em Canduca um excelente candidato para substituí-lo.
+
+Veio a noite de Natal...
+Durante a ceia com seus companheiros, Distração falou do seu desejo de preparar o rapaz para ser seu substituto. Todos ficaram perplexos, mas o palhaço disfarçou a emoção e prosseguiu com tranqüilidade e firmeza...
+Estava cansado, não agüentaria por muito tempo as longas viagens de caminhão, por tantas estradas, dormindo em acampamentos. Era chegada a hora de fechar com “chave de ouro” sua carreira. Seria um palhaço aposentado, faria parte de platéia.
+Todos o ouviram em silêncio, pesarosos, solidários. Sabiam que aquele dia chegaria para todos eles. Formavam uma grande família. Houve lágrimas e brindes, mas também houve compreensão. Um artista sempre sabe a hora de: “descer o pano... fechar a cortina... despedir-se do palco”.
+Programaram uma linda despedida para Distração. O espetáculo da passagem do ano seria a última apresentação do palhaço e também a despedida do circo em São José do Porto. Convidariam Canduca para seguir com a companhia e Distração iria se recolher no Retiro dos artistas - “o acampamento sede” - moradia de todos os artistas veteranos que se aposentavam.
+Distração faria parte da platéia e contaria a história do circo a outras gerações. O palhaço, também escutou silencioso, a proposta dos seus companheiros, sorriu com tristeza e ficou pensativo... “Talvez fosse melhor assim...” Agradeceu a todos e saiu.
+
+Aquela noite, depois da ceia, Distração foi com Canduca visitar o abrigo público... Levou sua fantasia de palhaço e fez uma apresentação especial, única, inesquecível, para todas aquelas pessoas: homens, mulheres e crianças, que usavam o abrigo como moradia. Olhou com ternura os diversos rostos à sua volta e ficou comovido.  Lembrou-se de uma frase inscrita no caminhão do circo: “Enquanto existir o circo, o sonho também viverá...”. Aquele povo pobre... Cansado e maltrapilho, que só tinha de certo um colchão para dormir e um prato de sopa para tomar, também guardava dentro de si um resto de esperança, vestígios de alegria, um pouco de criança, o direito de sonhar.
+E Distração esmerou-se. Deu o melhor de si. Fez seu melhor espetáculo. Repetiu com Canduca aquela brincadeira do balde que fizeram na estréia e a cena se repetiu: susto, gargalhada e aplauso. Todos pareciam crianças naquele momento...
+
+O abrigo teve uma noite feliz... Uma noite de festa... Uma noite de paz. Distração compartilhou com eles sua noite de Natal. Um Natal simples e humilde como foi o do Menino Jesus em Belém.
+De volta ao acampamento, diante dos letreiros luminosos do circo, Distração olhou comovido nos olhos do jovem e fez o convite para ele seguir com a caravana e fazer parte da companhia.
+Canduca quase não acreditou...  Abraçou forte o palhaço, recostou a cabeça em seu ombro e chorou. Aquele convite era tudo o que queria na vida. Para Canduca aquele momento representava o começo... Para o palhaço, o começo do fim.
+
+Chegara finalmente o grande dia! O dia da despedida! 
+ 
+Canduca dormia tranqüilo, sorriso nos lábios, sonhando talvez com os aplausos e os fogos do último espetáculo do Circo na passagem do ano... 
+
+Foi um espetáculo emocionante. Maravilhoso. Inesquecível. Era a despedida de Distração do palco, a despedida do circo em São José do Porto, o ingresso de Canduca na Companhia e a passagem do ano. Era muita coisa de uma só vez... Havia um misto de alegria e de saudade.
+Houve uma linda homenagem de todos os  artistas ao companheiro, que após Cinqüenta longos anos dedicados ao circo, fazia sua última apresentação... 
+
+Distração foi aplaudido de pé... Emocionou-se... Emocionou. Falou aos amigos, acenou à platéia, agradeceu a Deus, chorou. 
+
+Houve entrega de presentes, retratos, beijos e abraços... Lá fora o céu estrelado e o espocar dos fogos que saudavam o ano novo.
+
+No “trailer”, Distração contemplou mais uma vez o rapaz adormecido, o novo artista do Grande Circo Tabajara, que sonhava sereno com o futuro que o esperava e sorriu. Tinha sido uma excelente escolha. Canduca seria certamente um grande palhaço e ele, Distração, sentiria saudade. O velho palhaço acariciou de leve os cabelos encaracolados do jovem, depositou um envelope fechado sobre sua mesa, debaixo de uma foto sua e saiu silencioso, com uma mochila na mão, pelo acampamento adormecido.
+
+Tinha outros planos para ele... Passara toda uma vida sendo apenas palhaço... Agora, que já não lhe restava tanto tempo, queria ser simplesmente gente... Aquele espetáculo no abrigo público, na Noite de Natal, mudou seus planos... Antes de se recolher ao “Retiro dos artistas”, ainda queria conhecer um lado da vida que não conhecera. E Distração deixou para trás os companheiros e seguiu pela cidade deserta rumo ao abrigo.
+
+Todos dormiam... Apanhou um colchão enrolado que se encontrava junto de uma carrocinha de pipoca, estendeu no chão e deitou-se. O abrigo ganhou um novo hóspede e no dia seguinte haveria também um novo pipoqueiro na praça.
+
+O grande Circo Tabajara deixou São José do Porto incompleto, faltando um pedaço, triste e saudoso do velho palhaço... Mas respeitaram o desejo do companheiro e sabiam que um dia todos se encontrariam. Na hora em que a caravana partiu, Canduca avistou Distração com a carrocinha de pipoca na porta do Colégio Municipal, cercado de crianças...
+O rapaz fez menção de gritar, de mandar parar a caravana... Mas um nó apertou-lhe a garganta quando o velho amigo tirou o chapéu, sorriu e acenou-lhe, pedindo com a mão para prosseguirem... Canduca silenciou. Permaneceu imóvel, olhando a cidade que ficava para  trás... No caminhão a inscrição: “ENQUANTO EXISTIR O CIRCO, O SONHO TAMBÉM VIVERÁ.”
+______________________________
+
+Do livro da autora:  HISTÓRIAS QUE A VIDA ESCREVEU -  Contos & Crônicas) // À venda na AMPARE (Pça Oswaldo Cruz, 393/Anexo, Boa Vista, Recife/Pe).
+81-3104.7617 e 9.9504.0782
+
+Canal do YouTube: 
+Socorro Capiberibe
+
+Site literário:
+socorrocapiberibe.com.br`
+  },
+  {
+    titulo:"SALA DE LEITURA // HORA DO CONTO // SOCORRO CAPIBERIBE",
+    tipo:"Conto",
+    trecho:"Ela sempre tomava o mesmo ônibus, na mesma hora, no mesmo ponto, cada manhã, durante anos...",
+    imagens:["imagens/combined-image(1).png"],
+    texto:`
+
+""COMPANHEIROS DO ACASO""
+
+"Ela sempre tomava o mesmo ônibus, na mesma hora, no mesmo ponto, cada manhã, durante anos... Sabia exatamente o horário que ele passaria e até os passageiros que frequentemente ele conduzia.
+
+Era como se fossem todos colegas: do mesmo trabalho ou do mesmo colégio. Uma vez ou outra surgia um rosto novo... Por poucos dias, por muitos dias ou por um dia apenas. Cada um com seus compromissos, em cada um deles uma realidade, em todos eles o mesmo desejo: chegar ao seu destino... E eram tantos e tão diferentes esses destinos!
+
+Alguns se cumprimentavam cordialmente com um sorriso e até mantinham alguma conversa com os que sentavam ao lado. Outros apenas balançavam discretamente a cabeça num gesto de reconhecimento; enquanto outros permaneciam totalmente distantes como se cada vez que se vissem fosse a primeira vez.
+
+O motorista e o cobrador, entretanto, eram os mesmos e parecia conhecer a todos.
+
+Interessante como o ser humano consegue se expressar mesmo sem palavras. Os olhos falam, a expressão da boca, as rugas na testa, o sorriso, a postura do corpo, o repouso das mãos ou das pernas, tudo tem a sua própria linguagem... O corpo fala por si, muito embora nem todos consigam decifrar.
+
+Ela observava atentamente do seu assento cada companheiro de viagem e tentava traduzir os seus gestos ou até ler seus pensamentos... Algumas vezes acertava e chegava a sorrir da sua intuição.
+
+Já conhecia bem o jovem casal de namorados que ocupava sempre o primeiro banco e descia junto no cursinho pré-vestibular.
+Sabia quando eles tiravam boas notas e estavam alegres; quando estavam brigados e mal se falavam; quando faziam as pazes e ficavam mais apaixonados e até quando estavam apreensivos e se preparavam para uma nova prova.
+
+Conhecia também o vendedor de enciclopédias, sempre com a sua bolsa carregada de livros e que saía para oferecer nos colégios e repartições. Certa vez sentara ao seu lado e ele tentou lhe vender a versão mais atualizada da BARSA por um preço promocional incrível e em não sei quantas prestações...
+
+Havia ainda a freira – estudante de psicologia – que descia diariamente na porta da Faculdade. Ela sempre estava com um livro sobre o comportamento humano na mão ou com o seu inseparável caderno de várias matérias onde registrava as suas anotações sobre as aulas. Também já tivera oportunidade de sentar junto dela...
+
+E, assim, de uma forma ou de outra, ia mantendo em silêncio essa relação telepática com cada um deles.
+
+Certa manhã ao pegar o ônibus, após fazer as suas constatações habituais, percebeu um novo passageiro e pôs-se a fazer conjecturas sobre o novo colega.
+
+Observou-lhe a fisionomia tranquila e quase feliz... O porte esguio e bem trajado... O modo confiante com que segurava a pasta e a expressão de admiração no olhar para com tudo o que via de passagem.
+
+... Eu acho que ele não é daqui... Talvez esteja chegando ‘a cidade pela primeira vez... O que será que ele faz?...
+
+Sentindo-se observado o jovem olhou-a por alguns instantes, passeou rapidamente os olhos pelos outros passageiros e em seguida voltou-se a contemplar pela janela.
+
+No dia seguinte lá estava ele outra vez...
+Quando ela entrou, ele a cumprimentou com a cabeça e indicou-lhe um assento vazio ‘a sua frente.
+
+Durante aquela semana e na outra semana e em todas as semanas seguintes, quando ela entrava no ônibus o jovem já estava nele.
+
+... De onde ele vinha? Ela não sabia. Para onde ele estava indo... Ela também não sabia, uma vez que sempre descia antes dele...
+
+Algumas vezes sentava ao lado dele quando o assento estava livre. Outras vezes ele lhe cedia o lugar quando o ônibus estava cheio... E na maioria das vezes – sempre que podia – ele dava um jeito de colocar o paletó e a pasta sobre o assento vizinho para guardar o lugar para ela.
+
+Chegavam a conversar sobre coisas corriqueiras: a previsão do tempo, o trânsito, alguma noticia do jornal, alguma reportagem de revista ou algo visto na televisão. Eram companheiros de viagem. Tinham um encontro marcado todos os dias no mesmo ônibus. Formou-se um agradável e cordial elo entre eles... Uma mistura de satisfação, respeito e simpatia. Era quase uma alegria aquele encontro de todo dia.
+
+Veio o fim do ano...
+A freira concluiu o seu curso de Psicologia e despediu-se afetuosamente do cobrador e do motorista. Não precisaria mais vir todas as manhãs para a Faculdade. Sentiria falta deles, mas qualquer dia desses, quem sabe, pegaria o ônibus para revê-los. Outros passageiros precisariam do seu assento.
+
+Chegou também o vestibular...
+A jovem aluna conseguiu entrar para a Faculdade, mas o namorado não foi aprovado no concurso e agora viajava sozinho no ônibus todos os dias para o cursinho.
+
+Novos rostos surgiam entre os passageiros e passavam a integrar aquele coletivo.
+
+Certa manhã ela tomou o ônibus em seu horário habitual e sentou-se ao lado do companheiro que a aguardava com um sorriso e que há um ano guardava o seu lugar...
+
+Falaram sobre a chuva que caiu á noite, sobre a manhã que estava mais fresca, sobre o inverno que se anunciava mais cedo, o frio no sul do país, o filme da véspera na televisão...
+
+Chegou a sua parada. Quando ela levantou-se para descer, ele a acompanhou. Pela primeira vez eles desceram juntos na mesma parada. Surpresa, ela perguntou:
+
+- O que houve? Não vai ao trabalho hoje?
+
+Ele tomou a mão dela, entre as suas, e falou cheio de respeito e gratidão...
+
+- Na verdade hoje eu vim só para me despedir. Fui transferido para uma filial em outra cidade... Não poderia viajar sem falar com você.
+
+Retirou do bolso um cartão contendo o novo endereço e o telefone, abraçou-a com força e atravessou a rua para tomar o ônibus de volta para casa.
+
+Com uma estranha sensação de vazio dentro do peito - uma espécie de saudade do amigo anônimo – ela olhou o cartão que acabara de receber e deu-se conta do tamanho do afeto que nutria por ele.
+
+Assim é a vida... Pessoas entram e saem constantemente em nosso caminho, sempre nos acrescentando alguma coisa ou deixando alguma recordação. Sempre existirão os passageiros do acaso.
+
+Na manhã seguinte, quando ela pegou o ônibus para o trabalho, o vendedor de enciclopédias ofereceu-lhe o assento e começou a lhe mostrar uma nova coleção de dicionários ilustrados, de última geração, por um preço imperdível e uma forma de pagamento sem igual..."
+
+*Socorro Capiberibe 
+
+Do livro da autora: A ARTE DE CONTAR HISTÓRIAS - 50 MELHORES CONTOS & CRÔNICAS // À venda na  AMPARE - Rua Oswaldo Cruz, 393 / Anexo - Boa Vista, Recife/PE. 
+81-3104.7617 e 9.9504.0782 
+
+YouTube: 
+Socorro Capiberibe
+
+Site literário:
+socorrocapiberibe.com.br`
+  },
+  {
+
     titulo:"SALA DE LEITURA  / COM SOCORRO CAPIBERIBE",
     tipo:"Conto",
     trecho:"Os sonhos são livres, são jovens, são belos! São vôos diretos em busca de Paz. Alimentam esperanças, desejos secretos... Os sonhos são eternos... Não morrem jamais.",
