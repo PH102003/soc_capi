@@ -160,8 +160,328 @@ const livros = [
    - "trecho": primeiras linhas que aparecem no card
    - "texto": texto completo (aparece ao clicar "Ler mais")
      Use \n\n para separar parágrafos.
+   titulo:"",
+   tipo:"",
+   trecho:"",
+   imagens:[],
+   texto:``
 ------------------------------------------------------- */
 const contos = [
+  {
+   titulo:"SALA DE LEITURA COM SOCORRO CAPIBERIBE / DEIXANDO UM POUQUINHO DE MIM...",
+   tipo:"Conto",
+   trecho:"Se chorei ou se sorri, o importante é que emoções eu vivi. (Roberto Carlos)",
+   imagens:["imagens/1000140256.jpg"],
+   texto:`
+O RETRATO DE MARIA TERESA OU DE DEGRAU EM DEGRAU SE SOBE UMA ESCADA... 
+*Socorro Capiberibe 
+
+"Se chorei ou se sorri, o importante é que emoções eu vivi." (Roberto Carlos)
+
+E, lá estava ele...
+Junto aos demais retratos expostos na parede principal da biblioteca. Era o quinto da fila de ex-diretores do antigo colégio, que completava naquele dia 80 anos da sua fundação. Estavam em ordem cronológica, indicando o período de regência de cada um, embaixo de cada foto.
+
+Teresa olhou fixamente o seu retrato e sentiu o peso dos anos pousarem sobre seus ombros. Fazia tanto tempo... Ela ainda era tão jovem... - quando foi que envelheceu? O tempo passou e ela não percebeu. Uma estranha emoção invadiu-lhe o peito e sem que ela pudesse conter, as lágrimas desceram livres pela sua face envelhecida.
+
+Naquele colégio, tinha vivido os momentos mais difíceis e também os mais felizes de sua vida. Teresa conhecia cada palmo daquele chão; cada corredor; cada sala de aula... Cada recanto.
+
+Acompanhara de perto o crescimento de cada árvore do jardim e viu muitas turmas se formarem. Muitos dos alunos que chegaram ali crianças e que ela ajudou a formar eram hoje adultos, casados, com filhos, com uma profissão. Isso era maravilhoso. Era a certeza do dever cumprido.
+
+Teresa caminhou lentamente até o birô, passou a mão de leve sobre a cadeira, olhou o porta-retratos sobre a mesa, por fim sentou-se.
+
+Chegara antes do horário marcado para o início da comemoração. Nenhum outro ex-diretor havia chegado; nem mesmo a diretora atual. Foi recebida pela secretária, que gentilmente a acomodou na biblioteca e desculpando-se, retirou-se para o galpão, afim de ajudar aos professores e demais funcionários, nos últimos preparativos da festa.
+
+Teresa olhou em volta a biblioteca vazia e por alguns instantes tentou buscar na memória imagens antigas, daquele espaço repleto de alunos... Mergulhou tão fundo nas lembranças, que se fechasse os olhos, seus ouvidos poderiam escutar o barulho gostoso da garotada, tão habituados eram eles com esse maravilhoso som, que durante anos esteve presente em sua vida.
+
+Era uma longa caminhada. Trinta anos de trabalho dedicados a um mesmo lugar. Aquelas paredes abrigavam toda uma vida de luta e glória. Dentro daquele colégio Teresa escrevera sua história.
+
+E a história de Teresa não era uma história comum. Não era igual a tantas outras, que acontecem todos os dias, com tantas pessoas, em todos os lugares. Era uma história especial, de alguém especial, que lutou e sofreu, chorou e sorriu, acreditou e conseguiu. Alguém, que galgou degrau por degrau, com muito suor... E fez por merecer chegar aonde chegou.
+
+A história de Teresa não poderia ser esquecida. E, muito mais até...
+Era uma história que deveria ser lembrada. Era uma lição de vida.
+
+Chegou ali mocinha... Muito jovem ainda... Era o seu primeiro emprego. Em que ano foi isso? Mil, Novecentos e quanto? Já nem se lembrava mais. Precisava fazer as contas, mas resolveu deixar pra lá... Não tinha tanta importância assim... Depois lembraria. Seus setenta anos já lhe permitiam tais esquecimentos.
+
+Começou do batente mais baixo; do primeiro degrau; começou como servente.
+
+Morava num quarto sublocado da casa de uma parenta. Acordava muito cedo, saía junto com o Sol, marmita do dia na mão, pegava o primeiro ônibus... ‘As sete, tinha que estar no colégio.
+
+- Seu serviço? Abrir o portão para os alunos, preparar cafezinho para os professores, ajudar na merenda das crianças, varrer o pátio, os corredores, as salas de aulas, limpar os banheiros.
+
+-Tinha mais? Claro, que tinha. Esperta que era, esforçada bastante, trabalhadora exemplar... Não tardou em conquistar a admiração da diretora e o carinho dos professores, que não hesitaram em lapidar aquela pedra bruta. E, em pouco tempo, Teresa já executava algumas tarefas administrativas...
+Rodava as provas dos alunos no mimeógrafo, para ajudar aos professores; arrumava os livros na biblioteca para auxiliar a bibliotecária; ajudava na disciplina, recolocando os alunos nas salas de aulas, quando estes fugiam; chegava a aplicar provas com as turmas, quando o professor precisava se ausentar. Teresa era uma funcionária dedicada. Tinha tempo para tudo. Só não tivera chance de estudar.
+
+Largou os estudos para trabalhar. Não tinha sequer concluído o Ginasial, que corresponde hoje ao primeiro grau. Cursou até o segundo ano e partiu em busca de um trabalho; tinha que batalhar pelo "pão nosso de cada dia".
+
+Mas, Teresa não permaneceu parada, não estacionou no tempo, não se acomodou no primeiro batente. Era esperta, dinâmica, inteligente... E sem orgulho aceitou a ajuda de quem se dispôs a ajudá-la.
+
+Havia na época um curso especial chamado "Madureza", que preparava os alunos num tempo reduzido e correspondia ao curso Ginasial. Teresa, orientada pelos professores, retomou os estudos e com muito sacrifício concluiu o "Madureza", hoje o primeiro grau.
+
+Cursou depois o "Artigo 99" - outro curso especial também em tempo reduzido, que correspondia ao "Científico"... E Teresa concluiu também o "Segundo grau". Já era uma grande vitória. Conseguira galgar mais alguns degraus. Nessa época ela já utilizava a máquina de Datilografia com facilidade e também já sabia redigir qualquer documento da Secretaria. Providenciava com precisão: Transferências, históricos, requerimentos... Enfim, começava a dominar o serviço burocrático do colégio.
+
+Seu passo mais largo foi o "Vestibular"... E, esse, ela também conseguiu. Custou-lhe muitas noites em claro, muitas saídas tarde da noite do colégio, onde ficava depois do expediente, queimando as pestanas, às voltas com todos os livros, atenta a todas as informações... Muitas privações. Mas era por uma boa causa e Teresa não mediu esforços.
+
+Muitas foram as vezes, em que ali mesmo naquela biblioteca, ela adormecera sobre os livros, vencida pelo cansaço e fora acordada pela bibliotecária, na hora de encerrar as atividades daquele dia. Fechava o colégio, voltava pela rua deserta, apanhava o ônibus, chegava em casa exausta.
+
+E, durante o período da faculdade não foi diferente. As privações não foram menores. O trabalho não foi menos exaustivo. Mas tinha boas amizades, fez um bom relacionamento e teve a colaboração de muitos colegas. Chegara a participar de trabalhos em grupo apenas com o nome, sem ter mesmo colaborado com uma única pesquisa... Todos entendiam. Todos conheciam a sua história. Todos se empenharam em ajudar a colega.
+
+Colou grau junto com a turma. Foi o dia mais feliz da sua vida. A emoção que sentiu foi indescritível. Não era qualquer pessoa que tinha pulso para transpor tantos obstáculos. Escolheu por madrinha a bibliotecária amiga, a professora mais antiga daquele colégio, que tanto a ajudou, incentivou e confortou, durante aqueles longos anos. Acompanhou com ela tantos diretores e conviveu de perto, o mais de perto, com a Teresa servente; a Teresa secretária; a Teresa aluna e por fim, a Teresa professora.
+
+Continuaram juntas por muito tempo ainda...
+Aposentaram-se no mesmo ano. Foi uma amizade bonita, forte, verdadeira... Que só foi interrompida há um ano atrás, com o falecimento da bibliotecária.
+
+Após a sua formatura em Pedagogia, Teresa exerceu no colégio as funções de: Professora de Artes, Coordenadora e finalmente Diretora.
+Dirigiu o Colégio durante vinte anos consecutivos.
+Aposentou-se após trinta e cinco anos de serviços bem prestados e gozava de uma aposentadoria não tão farta, mas tranqüila.
+Tinha seu próprio apartamento, pequeno, mas confortável; tinha um carrinho antigo, que a levava onde queria.
+Não casou, nem teve filhos. Mas, tinha bons amigos e não deixara faltar nada aos três sobrinhos. Todos estudaram e cursaram Faculdade. Aquela tinha sido a sua forma de retribuir, um pouco do muito que recebera dos outros.
+
+Se, no início de sua carreira lhe tivessem dito, que chegaria aonde chegou... Provavelmente não teria acreditado. Diria que era utopia. Jamais pensou, que pudesse um dia, ser "Diretora" do colégio, onde muitas vezes esfregara o chão.
+
+Teresa olhou mais uma vez o seu retrato na parede... Ele continuava lá, junto aos demais... Não tinha sido um sonho. Leu a inscrição embaixo da sua foto: "Maria Teresa... 1964 a 1984".
+
+Teresa sorriu para o próprio retrato e lembrou o que estava esquecido na sua memória: o ano em que chegara ali naquele colégio. Após calcular mentalmente, veio a lembrança... Tinha sido o ano de "1949"... Ela tinha apenas 20 anos de idade.
+
+Naquele instante a secretária voltou para buscá-la... A festa iria começar. No pátio, os alunos perfilados aguardavam o momento de começar a cantar o Hino do Colégio. A atual Diretora autorizou a Banda a começar a tocar, dando inicio às festividades.
+
+Somente dois ex-Diretores estiveram presentes à Solenidade:
+Professor Augusto, antecessor de Teresa e ela, Maria Teresa, a penúltima diretora, o quinto retrato da galeria.
+
+"De degrau em degrau é que se sobe uma escada” foi o tema do discurso de um professor, ex-aluno do colégio, numa homenagem prestada à Professora Teresa."" 
+
+*Socorro Capiberibe
+ 
+DO LIVRO DA AUTORA: "A ARTE DE CONTAR HISTÓRIAS" - 50 MELHORES CONTOS & CRÔNICAS // À VENDA NA AMPARE. 
+
+Fone: 81- 3104.7617 
+
+Visite o site da autora:
+socorrocapiberibe.com.br
+
+Instagram:
+@msocorrocapiberibemaia 
+
+YOUTUBE:
+SOCORRO CAPIBERIBE`
+  },
+  {
+titulo:"PARA OS AMANTES DA POESIA -CANTINHO DO POETA // SOCORRO CAPIBERIBE",
+   tipo:"Poesia",
+   trecho:"A vida? Uma eterna alegria...",
+   imagens:["imagens/1000140258.jpg"],
+   texto:`
+
+""QUE DOCE ILUSÃO!""
+
+Um dia eu também fui criança
+E como toda criança eu cresci
+Mas ainda conservo a lembrança... 
+Da infância que um dia vivi.
+Nesse tempo eu acreditava...
+Que a felicidade era um presente
+E assim a gente poderia guardá-la
+E dar a todo mundo simplesmente.
+
+Mas, que doce ilusão, a minha!
+A felicidade não é presente
+Nem dura a vida inteira...
+Não é como uma bonequinha
+Que se guarda depois da brincadeira.
+
+Eu era uma criança apenas
+Igual a toda criança
+Uma cabecinha ingênua
+Um peito cheio de esperança.
+Tomava banhos de chuva
+Soltava barcos de papel
+Gostava de ouvir estórias
+Sonhava com o Papai Noel.
+
+Mas, que doce ilusão a minha!
+Papai Noel não existe!
+Era apenas uma historinha...
+Quando descobri, fiquei triste.
+
+E os meus castelos de areia?
+Os cozinhados no quintal?
+O medo do escuro... Das bruxas feias...
+Do bicho papão e do lobo mau?
+
+Foi tudo desaparecendo aos poucos...
+E era outra a realidade.
+Dos doces sonhos da infância
+Restou apenas uma grande saudade.
+
+Um dia eu também fui criança
+E como toda criança eu cresci
+Mas ainda conservo a lembrança... 
+Da infância que um dia vivi.
+Eu era uma criança apenas
+Igual a qualquer criança
+Uma cabecinha ingênua
+Um peito cheio de esperança.
+
+A vida? Uma eterna alegria...
+De Deus o melhor presente.
+Por que é que se cresce um dia?
+Gente grande vê tudo diferente.
+
+Mas, que doce ilusão, a minha!
+Não se pode ser sempre criança.
+Pode-se conservar simplesmente
+Os sentimentos mais puros da infância.
+E pode-se ainda tentar...
+Enxergar com os olhos das crianças.
+Ser bons, sinceros como elas...
+Conservar o peito cheio de esperança.
+
+(Autora: Socorro Capiberibe - poema integrante do livro: POETAS BRASILEIROS DE HOJE – Rio de Janeiro, Shogun Editora e Arte Ltda, 1986.)
+
+*Os livros de Socorro Capiberibe encontram-se à venda na AMPARE: 81-3222.6252 e 9.9504.0782`
+  },
+  {
+titulo: "DEIXANDO UM POUQINHO DE MIM... //SALA DE LEITURA // SOCORRO CAPIBERIBE ",
+   tipo:"Conto",
+   trecho:"Domingo de sol claro, nuvens brancas desenhando diferentes formas no céu azul, vento brando do mês de maio entrando de mansinho pela janela de Sarah, fazendo um interessante balé na parede do quarto da jovem, junto com os raios de sol e o movimento harmonioso das folhas de uma viçosa pitangueira.",
+   imagens:["imagens/1000140261.jpg"],
+   texto:`
+"UM DIA NA VIDA DE SARAH"
+
+Domingo de sol claro, nuvens brancas desenhando diferentes formas no céu azul, vento brando do mês de maio entrando de mansinho pela janela de Sarah, fazendo um interessante balé na parede do quarto da jovem, junto com os raios de sol e o movimento harmonioso das folhas de uma viçosa pitangueira.
+
+Sarah foi até a janela, abriu bem as cortinas deixando que o sol entrasse por inteiro, respirou o ar fresco da manhã, espreguiçou-se e saudou com um sorriso o dia que se iniciava. Fitou por um instante o céu azul e seus olhos viram uma enorme garça branca num aglomerado de nuvens. Olhou em outra direção e achou que naquele ponto as nuvens formavam um urso. Mais adiante podia ver um rebanho de carneirinhos - sorriu - dias atrás tinha visualizado uma foca com bola no nariz e tudo... “ É interessante a percepção da gente..." - pensou a moça. Ela sempre podia enxergar figuras de animais, objetos ou mesmo pessoas nos desenhos das nuvens.
+
+Ali embaixo da janela, num galho da pitangueira, cantou um sabiá. Sarah desviou os olhos dos desenhos das nuvens e pôs-se a assobiar para o passarinho, sentindo uma paz tão grande, como se estivesse em comunhão com a natureza.
+Naquele instante o jornaleiro chegou ao portão, jogou o jornal no terraço e desviou a atenção da jovem. Sarah suspirou como se despertasse de um sonho fantástico e voltou-se para os seus afazeres habituais. Era Domingo, o segundo do mês de maio, dia das mães.
+
+“... Houve um tempo em que bravos guerreiros e sanguinários bandidos, sentiram medo do escuro, do boi da cara preta, do bicho papão... e choraram. Nesse dia... uma atenta, meiga e materna presença, afagou-lhes os cabelos e dissipou-lhes o medo... Adormeceram. E homens acordaram..."
+
+Sarah leu e releu esse artigo publicado no jornal, homenageando as mães, e ficou pensativa... "Quem inventou o dia das mães? Por que apenas um dia no ano para serem lembradas, se elas dedicam todos os dias de suas vidas aos seus filhos? Dia das mães são todos os dias. Isso é invenção do comércio..." - pensava a jovem, olhando distraída a fumaça que saia da sua xícara de café com leite...
+Sarah continuou lendo o jornal. Havia mais homenagens para as mães: cartas, poemas, desenhos, beijos, abraços e toda sorte de promoção de presentes oferecidos pelas lojas e outra infinidade de ofertas dos mais deliciosos pratos, oferecidas pelos restaurantes. Esse era o lado bom das notícias... O lado das homenagens bonitas... O lado que falava das mães felizes, amadas e lembradas por seus filhos.
+
+Mas, tinha também o lado triste da notícia. O lado das mães esquecidas, que experimentavam o gosto amargo da solidão no abandono dos asilos e que nunca eram visitadas pela família. As mães que não ganhavam presentes no seu dia, não almoçavam com os filhos nos restaurantes bonitos, nem recebiam mensagens especiais no jornal. Mães que só tinham lembranças, retratos, saudades e pessoas estranhas por companhia. E uma dessas mães, sozinha e triste, esquecida e abandonada, tocou o coração de Sarah.
+
+Estava lá o seu retrato no jornal, junto com a sua solitária e amarga história. Era uma história comum, igual a tantas outras. Chamava-se Clarice, tinha setenta anos de idade e há dez anos vivia sozinha num asilo, distante do convívio feliz da família, sem a visita dos filhos, sem um afago de um neto, perdida nas recordações do passado.
+
+Sarah leu a reportagem completa. Sentiu-se triste de repente. A história de dona Clarice mexeu com seus sentimentos. Não conseguia entender como existiam filhos assim, capazes de abandonar sua mãe no mais completo esquecimento. E pensar que tinha tanta gente que daria tudo na vida para ter sua mãe perto de si, ouvir uma palavra sua, ganhar um abraço seu... "A vida tem desses contrastes...” - pensou Sarah - ali naquele jornal estava um desses exemplos... Numa página, mães sorridentes abraçando os filhos, desenhos bonitos, mensagens as mais belas. Na outra página, reportagens como a de Dona Clarice... Não dava para entender. A Humanidade estava ficando desumana. Sem saber porque, sentiu uma grande vontade de conhecer aquela senhora, de dar-lhe um abraço e oferecer-lhe um presente. E movida por uma força maior, por uma profunda ternura, teve um gesto solidário de imensa bondade... Anotou o endereço do abrigo, vestiu-se e foi ao encontro daquela mãe solitária, que ansiava tanto pelo abraço de um filho. Não poderia substituir a sua família, mas poderia oferecer-lhe a sua amizade.
+
+- Desça já daí, Firmino! Desse jeito não vai sobrar uma única carambola no pé. O que os passarinhos vão comer?
+- São para fazer o suco do almoço, dona Clarice. Suco de carambola é bom para pressão... - argumentava o empregado.
+
+- Você já tirou suficiente. Agora chega! os passarinhos também precisam se alimentar. Deus criou as frutas mais para eles do que para os homens. A gente tem outros alimentos para comer... Eles só se alimentam do que a natureza tem para oferecer.
+
+- As pessoas precisam dos alimentos naturais também, dona Clarice... - insistia Firmino, enquanto colocava mais carambolas na cesta.
+
+- Desça daí, Firmino. Que rapaz mais teimoso! Onde já se viu deixar a árvore sem frutas? Deixe de ser ganancioso! É preciso saber repartir. Você gostaria que lhe tirassem toda a comida? Experimente ficar com fome e veja se é bom.
+
+O rapaz desceu da árvore, amuado. Pegou a cesta de carambolas e saiu resmungando. Dona Clarice deu um muxoxo e fingiu não escutar as reclamações de Firmino. Pegou outra vez o crochê e continuou seu trabalho. Naquele instante um passarinho pousou no galho da árvore e pôs-se a bicar a carambola, como se houvesse entendido o diálogo dos dois... A natureza é sábia.
+Sarah sorriu; assistiu a tudo em silêncio, a poucos metros dali. Achou tão bonita a lição que dona Clarice passou para o jovem, que ficou comovida. Aproximou-se com a caixa de biscoitos na mão, envolta num lindo papel de presente, com laço de fita e cartão e sentou-se ao lado da senhora.
+
+- Quem é você? É do Jornal? Eu não quero mais dar Entrevista...
+Disse Dona Clarice, afastando os olhos do crochê e olhando
+a moça por cima dos óculos...
+
+- Não se preocupe. Eu não sou do Jornal. Sou apenas uma amiga,
+que veio visitá-la.
+
+- Eu não tenho amigos. Há dez anos ninguém me visita.
+
+- Eu sei... - Sarah iria dizer que conhecia a história dela. Que estava ali pela reportagem do jornal... Mas a senhora interrompeu...
+
+- Sabe? O que você é minha? É minha neta? É minha sobrinha?
+E, buscava no rosto da jovem algum traço familiar, enquanto
+sua voz parecia embargada pela expectativa da resposta.
+
+Sarah sentiu um aperto no peito. Sabia que iria desapontá-la, afinal não era neta ou sobrinha e isso fazia muita diferença para quem esperava há dez anos ser visitada pela família.
+
+- Eu gostaria muito de ser sua neta ou alguém que a senhora espera rever a tanto tempo. Eu ficaria feliz se pudesse lhe dar essa alegria... Mas na realidade a única coisa que posso lhe oferecer é a minha amizade e essa simples lembrança pelo dia das mães... - e Sarah entregou-lhe a lata de biscoitos, com papel de presente e laço de fita.
+Dona Clarice permaneceu em silêncio por alguns instantes, fitando o rosto de Sarah, depois começou a abrir o presente e com voz tranqüila perguntou:
+
+- Por que você quis me conhecer? Como me encontrou aqui?
+
+Sarah lhe contou do jornal, de como a história dela tinha tocado seus sentimentos e do desejo de ser sua amiga. Dona Clarice ouviu em silêncio, agradeceu os biscoitos, aceitou a solidariedade da moça. Tentou disfarçar a emoção, mas Sarah pôde perceber lágrimas em seus olhos.
+
+As duas conversaram no banco do jardim, passearam entre as árvores, cumprimentaram outros velhinhos. Em poucos instantes, passado o constrangimento natural do primeiro encontro, sentiram-se amigas.
+Dona Clarice convidou Sarah para ficar para o almoço e levou-a também a conhecer seu quarto.
+
+O quarto simples e humilde do asilo abrigava toda uma vida, uma história, um passado de recordações e um presente de solidão. Continha uma cama, uma cadeira de balanço, uma cômoda e retratos em todas as paredes. Dona Clarice apresentou toda a família à Sarah, através dos retratos... O marido falecido, três filhos, uma filha, cinco netos. Falou de todos com carinho. Justificou a falta de tempo de cada um. Desculpou a ausência da família. Só não conseguiu conter o choro quando falou da saudade... Se seu velhinho fosse vivo, certamente ela não estaria ali... - disse ela enxugando o pranto.
+Sarah nada falava, tinha a voz presa pela emoção...
+"É incrível, como para as mães, não existem filhos maus. Todos são bons, até suas ingratidões são perdoadas..." - pensava a moça com tristeza.
+Após o almoço, Sarah se despediu. Abraçou forte a amiga, afagou-lhes os cabelos grisalhos e prometeu voltar. Aquele dia fora especial em sua vida, jamais iria esquecer. Seu gesto de imensa bondade fizera feliz uma mãe solitária. Ela própria ficara feliz.
+
+E Sarah não esqueceu a sua promessa...
+
+Voltou outras vezes a visitar o asilo. Adotou dona Clarice. Ganhou outros amigos. Sempre que podia aparecia para visitá-los e sua chegada era aguardada com alegria por todos. Levava bolo, biscoitos, doces e frutas. Era uma festa.
+Dona Clarice já não se sentia sozinha. Ganhara uma filha, uma neta, uma sobrinha, uma amiga. Naquele dia das mães, dona Clarice não ganhou só uma lata de biscoitos... Sarah representava uma família inteira.
+Certa tarde, Sarah chegou para sua visita costumeira... Dona Clarice tomou-lhe a mão e levou-a até seu quarto. Queria lhe fazer uma surpresa...
+Todos os retratos tinham saído das paredes. Estavam todos guardados dentro de uma gaveta. E, na parede principal,
+em frente a porta de entrada e junto à cama de Dona Clarice, apenas um quadro... Um retrato ampliado de Sarah.
+
+AUTORA: SOCORRO CAPIBERIBE - ( BASEADO EM FATO REAL ) - PARTE INTEGRANTE DO LIVRO: A VIDA ATRAVÉS DOS CONTOS. 
+
+*Todos os livros da autora encontram-se à venda na AMPARE: Rua Oswaldo Cruz, 393, Boa Vista, Recife/PE. 
+81-3222.6252 e 9.9504.0782`
+  },
+  {
+   titulo:"SALA DE LEITURA // HORA DO CONTO // SOCORRO CAPIBERIBE",
+   tipo:"Conto",
+   trecho:"Acode, minha Virge, dá juízo a meu fio... me alcança essa graça, faz ele estudá",
+   imagens:["imagens/1000140263-imageonline.co-merged.jpg"],
+   texto:`
+*8 DE DEZEMBRO // TEM FESTA NO MORRO*
+
+"Acode, minha Virge, dá juízo a meu fio... me alcança essa graça, faz ele estudá. Afasta dos  vício, das má cumpanhia, bota ele pra gente, faz dele dotô. Cuncede essa bênça Virge da Conceição... Prometo qui rezo, eu juro qui rezo, um terço todinho, jueio no chão... Te trago uma cabeça de cera, acendo uma vela, se vós me atendê... Escuta, minha mãe..."
+
+- "Vombora, minha nega, num aperreia a Santa... Isquece o Zezinho, ele vai miorá. É só um minino... Um dia ele cresce... Toma gosto na vida... Vombora Maria, óia a hora muié..."
+
+Maria, contrita, de terço na mão, os olhos na Santa, peito cheio de fé... Implora clemência, juízo pro filho, joelhos em terra, murmurando baixinho o nome da Virgem... Nem ouve o Mané. E, o homem, do lado, impaciente, preocupado, pensando na hora... Ainda vai trabalhar...
+
+- "Vombora, criatura... Acaba cum isso...  A Santa já uvío. A Santa já sabe. Ela vai atendê. Assussega, muié, nosso fio é criança... Um dia ele cansa; mais tarde ele aprende; o muleque dá pra gente; ele vai se acertá."
+
+Maria levanta, acende uma vela, dá o braço ao marido e ganha a ladeira... É hora da janta, Mané tem trabalho - é vigia do posto - já está atrasado. Sentado à mesa, ele apressa a mulher... E Maria, com gosto, esquenta a chaleira...  - Tem calma Mané.
+
+Zezinho emburaca... Chiclete na boca, chutando uma bola, batendo nas coisas, tirando a camisa, jogando no móvel, sentando na mesa, derrubando o talher, parece um trovão. Belisca a galinha servida no prato; retira o sapato e joga no chão...  
+
+"Minha Virge, minha mãe... Óia isso! Tem jeito de gente? Dá pra cunsertá?..."  - Maria suspira...  - "Tem calma, minino... Te benze primeiro... Vai lavar tua mão..."
+
+- "Oxente, maínha, isso tudo é besteira... Tô cuma fome danada... Dá logo esse pão. A turma me espera; o morro tá cheio; é dia de festa; vou descer a ladeira.  Imbaixo tem parque cum roda gigante e barraca de tudo... Mais tarde eu me lavo e guardo a chuteira."
+
+E Maria, coitada, procura o Mané... Mas Mané foi embora... Nem comeu a galinha, estava tão atrasado que só tomou o café. A mulher desolada, sem saber o que fazer, olha o filho e pergunta:
+
+- "Quando é que tu vai crescer?"
+
+O menino, tranqüilo, olhando a fumaça da caneca, enquanto tira o miolo do pão vai falando macio...
+
+- "Num se avexe, maínha... Me deixa vivê. Eu prometo estudá... A sinhora vai ver. Vou ser gente na vida... Quero ser um dotô... Inda sô um minino... Deixa disso, maínha. Num se avexe, muié."
+
+Sete horas da noite... A ladeira está cheia. 
+Zezinho escapole, a mãe guarda a ceia, Mané guarda o posto, a moçada passeia. O morro é uma festa... Está todo iluminado... Cheio de pontos de luz... Visto lá de baixo parece uma árvore de Natal...  E quem vai pela primeira vez, jura que nunca viu nada igual.
+  
+Barraca tem muita... Comida não falta pra todos os gostos...
+Tem milho, tem bolo, queijo assado, churrasco, amendoim confeitado, rolete de cana, cachorro quente e pastel. O cheiro recende, atiça a barriga, dá água na boca, convida a comer... Mas, nada é mais forte do que a fé das pessoas que sobem e descem, com um terço na mão...
+  
+Meu Deus, quanta gente subindo o morro... Rezando, chorando, pagando promessa, pedindo uma graça pra Virgem da Conceição! 
+
+Parece um mar... Uma onda humana... Subindo mansinho, rezando baixinho, pra Virgem escutar. São tantas pessoas, são tantos pedidos: "um emprego pro filho... um marido pra filha... conversão de um parente... paz pra família... passar nos estudos... saúde pra alguém... curar o marido... livrar da bebida... passar num concurso... trazer não sei quem... comprar uma casa... vender tal terreno... resolver um negócio... achar o que perdeu... passar no vestibular... fazer o time ganhar...  encontrar um amor... esquecer o fulano... dar juízo a sicrano... promover o beltrano... ganhar um dinheiro...  unir pai e filho... marido e mulher... sarar uma dor...
+
+E, ano após ano, a fé se renova... Os pedidos aumentam... Cresce a procissão... De joelhos, descalços, vestidos de anjo... Agradecendo ou pedindo... Rezando ou cantando... Chorando ou sorrindo...  Louvando, contritos, a Virgem da Conceição.
+
+É a fé, que sustenta e alimenta a esperança... Que segura as pessoas... Que ajuda a viver. Fé, que une os Cristãos... Dá sentido à vida... Remove montanhas... Fortalece o ser.
+
+E no ano seguinte, no morro da Virgem, no mês de dezembro, a festa é igual... O morro iluminado... Cheio de pontos de luz... Quem vê lá de baixo parece uma árvore de Natal... Enquanto lá em cima, a imagem da Santa acolhe em silêncio as preces dos fiéis...
+       
+- "Obrigada, minha Santa Virge da Conceição, o Zezinho passou... Vai pra oitava esse ano... Tá ajudando na missa... Tá cum pensamento de home... Agora obedece... Vem cedo pra casa... Faz logo a tarefa...  Inté a professora elugiô o muleque e a cumadre também. Obrigada, minha mãe! A Sinhora me uvíu... É milagre, minha Santa... Meu fio vai ser um home de bem..."
+
+E, Maria, ajoelha... Acende uma vela... Reza o terço todinho... Agradece à Santa e deposita aos seus pés uma cabeça de cera... (que simboliza a cabeça do filho). Paga a promessa e quando termina já tem outro pedido...
+       
+- "Acode, minha Virge, tô aflita de novo... Não é mais o Zezinho... Agora é Mané...  Pois num é qui largou do trabalho? Já viu disso, minha Santa? O home caiu na bebida, quer deixar a famía, enrabichou cuma dona, tá cum outra muié. Num é um fim de mundo, minha Santa? Me arresponde... Num é? Acode, minha Virge, traz de vorta o meu nego... Dá juízo pra ele, lhe arruma outro emprego, me cunserta o Mané."
+
+(Do Livro da autora: A VIDA ATRAVÉS DOS CONTOS - Socorro Capiberibe - Editora Universitária - UFPE, 2002)
+
+Obs. Todos os livros de Socorro Capiberibe encontram-se à venda na AMPARE
+81-3222.6252 e 9.9504.0782 (Whatsapp)
+`
+  },
   {
     titulo:"SALA DE LEITURA //LEMBRANÇAS DE UMA NOITE DE NATAL",
     tipo:"Conto",
