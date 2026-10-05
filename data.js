@@ -66,6 +66,7 @@ const curiosidades = [
        Se ainda não tiver foto, deixe fotos: []
 ------------------------------------------------------- */
 const livros = [
+
   {
     titulo: "Uma Lição de Amor ",
     descricao: "Um singelo romance que retrata a vida de um casal que em meio aos estresses do dia-a-dia busca a continuação do casamento e a preservação da família.",
@@ -167,6 +168,90 @@ const livros = [
    texto:``
 ------------------------------------------------------- */
 const contos = [
+  {
+   titulo:"SALA DE LEITURA // HORA DO CONTO // *SOCORRO CAPIBERIBE",
+   tipo:"Conto",
+   trecho:"Sentou-se à mesa, mas quase não tocou na comida...",
+   imagens:["imagens/combined-image(2).jpg"],
+    texto:` 
+PROFESSOR X ALUNO: UM APRENDIZADO EM VIA DE MÃO DUPLA OU "QUANDO O ALUNO É QUEM DÁ A LIÇÃO"! 
+
+Helena acordou antes da hora, mais cedo do que o de costume. Estava chateada, não dormira bem a noite, a mente estava cansada, o corpo reclamava pela cama, embora estivesse acabando de levantar. Era horrível quando acordava assim... sentia que teria um dia difícil pela frente... uma classe barulhenta com quarenta e cinco alunos a aguardava e a sua primeira vontade naquele dia era voltar para o seu quarto e faltar ao trabalho. A cabeça estava confusa. Não queria colaborar. Melhor não insistir e tentar arrumar as ideias...
+
+- O motivo de tudo isso?...  
+
+Problemas de saúde na família; falta de dinheiro; uma discussão com o marido; um aborrecimento com a empregada e finalmente uma mal criação da filha; tudo de uma só vez... e Helena não era de ferro.
+
+Sentou-se à mesa, mas quase não tocou na comida... estava enjoada e sentia muita dor de cabeça. Tomou um copo de leite, um comprimido e voltou a se deitar. Se melhorasse, iria à escola... ainda era cedo... daria tempo.
+
+A dor de cabeça melhorou, mas Helena não conseguiu dormir... Começou a pensar nos seus alunos... 
+
+"Não é justo; eles não tem culpa. Problemas, todos temos o tempo todo... e a vida não pára por isso. Eu tenho mais é que ir trabalhar... certamente vou me sentir melhor..." 
+
+Era o lado sensato de Helena cobrando uma atitude... Era a razão vencendo o coração... E lá se foi a professora para mais um dia de trabalho. Seus alunos conseguiriam confortá-la. Eles tinham o poder de fazê-la esquecer-se de seus próprios problemas.
+
+Helena era professora de Língua Portuguesa e trabalhava especialmente Redação e Leitura. Tinha mania de interpretação de textos, redação e leitura dos clássicos da Literatura Brasileira. Dizia sempre, que o aluno que lê com freqüência, expressa-se melhor, escreve melhor e pensa melhor. Naquele dia, por exemplo, dado o seu estado de angústia, nada melhor do que colocar os alunos para viajar na imaginação...  
+E Instituiu, naquele momento, um concurso de Redação. 
+
+Mostrou algumas gravuras - técnica bastante utilizada antigamente pelas professoras primárias - e pediu que cada aluno criasse a sua história. As Redações valeriam notas e seriam expostas num grande painel para apreciação dos colegas, sendo as cinco melhores, premiadas.
+
+Nem precisa dizer a empolgação da turma... Os alunos simplesmente amaram a idéia! 
+
+Tinham verdadeiro fascínio pela competição... 
+
+- "Valeria nota? Teria prêmio? Haveria vencedor?..."  
+
+Então, vamos à luta! Caneta e papel sobre a mesa, olhos nas gravuras, imaginação correndo solta... cada um dava o melhor de si. E a professora Helena, coração amargurado, olhos fixos nos alunos mas pensamento longe dali, esperava pacientemente em seu birô...
+
+"E a cirurgia de sua mãe? Ela tinha diabetes... Já não era tão jovem... Helena estava tão apreensiva... 
+
+- E a filha tão rebelde?... Tão mal criada... Tão sem limites?... 
+
+Sem pensar na irritação do marido, nas reclamações das despesas, nas cobranças da casa perfeita, no dinheiro curto... E se não bastasse tudo isso, ainda tinha os desacertos da empregada... Os atrasos, as faltas, o mau humor..."
+
+E Helena suspirava... Pressionava as têmporas, sentindo-as latejar... - Era a dor de cabeça ameaçando voltar... Mas os alunos permaneciam absortos nas suas redações e isso lhe trazia um certo alívio.  
+
+Mais um pouco, e lentamente um a um foi levantando e colocando sobre a mesa da professora o seu trabalho, até que todos terminaram.  
+
+Ela dispensou os alunos e pôs-se a corrigir as redações... Esse era um trabalho que ela fazia com prazer. 
+
+Os jovens tem idéias fantásticas... é só lhes dar um papel, e eles criam histórias incríveis.
+Foi o caso da aluna Carolina... a última aluna a entregar a redação... uma menina de doze anos, daquela sexta-série, de uma escola pública, de uma sensibilidade e criatividade extraordinárias... e que escrevera algo tão forte e tão profundo, capaz não só de comover a professora, como também de dar-lhe uma lição de vida naquele momento.
+
+Carolina passou um longo tempo olhando a gravura exposta no quadro à sua frente... Nela podia ser visto um vulto de homem, num fim de tarde, diante do mar num momento de reflexão... E a garota, inspirada nesta cena, criou uma história linda, uma mensagem de fé, uma lição de esperança e confiança no poder de Deus, algo que fugia à sua idade e cuja percepção era tão complexa, que podia impressionar um adulto e conduzi-lo à reflexão.
+
+Na história criada pela aluna, de maneira simples e num português incorreto, ela contava de uma grande tristeza que se apoderara dela, que lhe tirava o gosto pela vida e que lhe provocava o choro com a maior facilidade... e de um desejo súbito de se isolar e procurar por Deus... 
+Num desses momentos de profunda solidão, foi até a beira da praia para refletir sobre a sua vida tão angustiada naquele momento e nesse momento de reflexão, sentada ali diante do mar, teve a resposta do poder infinito de Deus.
+Olhando o mundo de águas em movimento à sua frente, percebeu que mesmo as ondas vindo e espalhando-se em espumas sobre a areia, elas a partir de determinado ponto começavam a voltar... permanecendo assim dentro de um limite imposto pela própria natureza... E de repente ela se perguntou: 
+
+"- E se Deus resolvesse abrir o ferrolho do mar?... 
+
+Seria uma catástrofe... A Terra se inundaria ... E todos morreríamos..."
+
+E para concluir o seu pensamento: Carolina, a adolescente de apenas doze anos de idade, aluna da sexta-série, de uma escola pública, encontrou a resposta para sua pergunta... 
+
+"Se Deus conseguia manter fechado o ferrolho do mar, se Ele tinha o poder de segurar todo aquele "mundão de água" dentro do seu limite... Quanto mais fazer desaparecer o seu sofrimento que era tão pequeno diante daquela imensidão de mar?... 
+
+"O poder de Deus é infinito... - Constatou Carolina... - E o seu sofrimento era apenas um grão de areia ou simplesmente uma gota d'água naquele oceano..."
+
+Helena, ainda com a redação na mão, sentiu-se como se fosse a aluna e Carolina, a mestra. 
+
+Sentiu-se tão recompensada com a mensagem da aluna, que toda sua amargura antes do tamanho de um oceano, não passava agora de uma pequenina gota...  
+
+Agradeceu a Deus não ter perdido aquela aula... Jamais esqueceria aquela lição. Não se pode subestimar a criança... Muitas vezes são elas quem ensinam aos adultos.
+
+Carolina ganhou um "Dez"... e conquistou o " primeiro lugar." Sua redação ficou exposta no Mural e foi aplaudida por toda turma.
+_____________________________
+
+O texto inspirado em fatos reais é parte integrante do livro da autora: A VIDA ATRAVÉS DOS CONTOS // Dedicado a todos os meus colegas Professores - representados no texto pela Professora HELENA - e a todos os alunos, em especial: "MARIA CAROLINA SILVA DE SANTANA" - a Carolina do texto - Ex-aluna da Escola Estadual Santa Paula Frassinetti - em Recife/PE, na Década de '90 - Onde atuei como Professora/ Coordenadora de Biblioteca, pelo período de fevereiro de 1989 a Fevereiro de 2016. 
+
+Todos os livros de Socorro Capiberibe encontram-se à venda na AMPARE - Pça Oswaldo Cruz, 393/Anexo, Boa Vista, Recife/Pe.
+
+81-3222.6252 e 9.9504.0782 
+
+YOUTUBE:
+SOCORRO CAPIBERIBE`
+  },
   {
    titulo:"SALA DE LEITURA COM SOCORRO CAPIBERIBE / DEIXANDO UM POUQUINHO DE MIM...",
    tipo:"Conto",
@@ -271,7 +356,7 @@ titulo:"PARA OS AMANTES DA POESIA -CANTINHO DO POETA // SOCORRO CAPIBERIBE",
    imagens:["imagens/1000140258.jpg"],
    texto:`
 
-""QUE DOCE ILUSÃO!""
+"QUE DOCE ILUSÃO!"
 
 Um dia eu também fui criança
 E como toda criança eu cresci
@@ -575,7 +660,7 @@ socorrocapiberibe.com.br`
     imagens:["imagens/combined-image(1).png"],
     texto:`
 
-""COMPANHEIROS DO ACASO""
+"COMPANHEIROS DO ACASO"
 
 "Ela sempre tomava o mesmo ônibus, na mesma hora, no mesmo ponto, cada manhã, durante anos... Sabia exatamente o horário que ele passaria e até os passageiros que frequentemente ele conduzia.
 
