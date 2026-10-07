@@ -169,6 +169,339 @@ const livros = [
 ------------------------------------------------------- */
 const contos = [
   {
+    titulo:"CANTINHO DO POETA/SOCORRO CAPIBERIBE (DEIXANDO UM POUQUINHO DE MIM...",
+   tipo:"",
+   trecho:"Leve a alegria e os sonhos da mocidade com você...",
+   imagens:["imagens/IMG-20261007-WA0009-imageonline.co-merged.jpg"],
+   texto:`
+*CAMINHOS DA VIDA*
+*Socorro Capiberibe
+
+"Minha Criança,
+Não tenha pressa em crescer...
+A infância é o tempo mais curto da vida...
+Passa num piscar de olhos...
+Passa num estalar de dedos...
+Dorme-se criança... 
+E acorda-se adulto.
+
+Meu jovem, 
+Não queira deter o tempo...
+A juventude é breve e fugaz...
+Passa num bater de asas...
+Passa num soprar dos ventos...
+Tal qual uma ave ligeira, Passa depressa demais.
+
+Guarde um pouco da ternura da infância na bagagem,
+Leve a alegria e os sonhos da mocidade com você...
+
+Precisa-se de tudo um pouco nessa viagem... 
+Não esqueça dos segredos e delícias de cada idade...
+Não se detenha nos planos... Atenha-se mais em viver!
+
+E quando o outono da vida chegar,
+Contemple esse entardecer
+Que a brisa desse outono traz
+E leva o espírito a vagar
+Pelas lembranças felizes da infância esquecida...
+Pelos sonhos mais belos da juventude vivida...
+Com a sabedoria que só a vida pode oferecer!"
+
+*Socorro Capiberibe
+
+Para meus netos: Marcos Roberto, João Victor e Maria Clara, com todo amor de Vovó Socorrinho ❤️
+`
+  },
+  {
+  titulo:"QUEM PRESTA O FAVOR, NÃO DEVE LEMBRAR... QUEM RECEBE O FAVOR, NÃO PODE ESQUECER!",
+   tipo:"Conto",
+   trecho:"Mas vamos voltar aquela citação inicial... Aquele ensinamento de minha mãe... ",
+   imagens:["imagens/IMG-20261007-WA0011.jpg"],
+   texto:`"QUEM PRESTA O FAVOR, NÃO DEVE LEMBRAR... QUEM RECEBE O FAVOR, NÃO PODE ESQUECER!"
+
+Certa vez ouvi isso de minha Mãe e jamais esqueci. "Dona Ruth" era muito sábia e me ensinou muita coisa... Eu sempre guardava seus ensinamentos, porque eu sentia que através deles eu poderia me tornar uma pessoa melhor. Entendi bem esse ensinamento anos depois. Eu conto para vocês... 
+
+Muitos devem ter conhecimento de que durante longos anos eu sofri com o Transtorno do Pânico... Eu mesma relatei isso num livro de minha autoria: "O FANTASMA DO PÂNICO OU O FUNDO DO POÇO: COMO ESQUECER?" Sim, eu convivi muito tempo com esse fantasma e senti de perto todos os medos que a mente humana é capaz de fabricar... Morri muitas vezes, um pouquinho em cada crise, mas, sobrevivi. E me tornei mais forte, mais feliz talvez, e certamente uma versão melhorada do que eu era. A gente sempre cresce com os golpes duros da vida. 
+
+Mas vamos voltar aquela citação inicial... Aquele ensinamento de minha mãe... 
+
+Já aposentada como Professora, após 27 anos de trabalho numa Escola da Rede Estadual, encontrei casualmente um antigo colega de trabalho, um professor poeta, que conversava sempre comigo à noite na biblioteca e que me apresentou à Editora Universitária de Pernambuco, para eu publicar o meu primeiro livro... 
+
+Pense num reencontro feliz! Pense na satisfação e no carinho daquela reaproximação após tantos anos... 
+
+Quando o vi de longe e chamei pelo seu nome, ele abriu um largo sorriso e perguntou: 
+
+- Você me reconheceu?
+
+Ele estava numa roda de amigos e eu me aproximei...
+
+Como eu não reconheceria? 
+
+E contei para ele um fato importante na minha vida, no qual ele tinha sido o meu "Anjo guardador"...
+
+Durante uma crise de Pânico que eu tivera na Escola - e que aliás devo confessar que não foram poucas que eu havia tido lá no trabalho... - Mas, enfim, durante esse referido ataque de Pânico em que eu fiquei bem mal e achando que ia morrer... Ele, o bom colega, Professor Luciano - mais conhecido pelos alunos por "LULU SEMENTE", e que lançou seu livro antes do meu... Ele mesmo, naquela noite da minha crise, foi o anjo que me socorreu. Ele conseguiu me conduzir até o meu carro e como eu não tinha a menor condição de dirigir, ele foi guiando até o meu prédio, estacionou na garagem, subiu no elevador me amparando e me deixou em casa, sã e salva, com meu marido e minhas filhas.
+
+Quando terminei de relatar o fato, ele me abraçou forte e apenas disse:
+
+- Eu não me lembrava mais que tinha feito isso... 
+
+Eu sorrindo respondi:
+
+"QUEM PRESTA O FAVOR, NÃO DEVE LEMBRAR... MAS, QUEM RECEBE O FAVOR, NÃO PODE ESQUECER"...
+
+Socorro Capiberibe
+
+Recife, 10 de Setembro de 2023
+
+Do livro da autora: SALA DE LEITURA COM SOCORRO CAPIBERIBE - Contos & Crônicas 
+
+*Todos os livros de Socorro Capiberibe encontram-se à venda na AMPARE: 81-3222.6252 e 9.9504.0782
+
+Visite o site literário da autora:
+socorrocapiberibe.com.br 
+
+YOUTUBE:
+SOCORRO CAPIBERIBE`  
+  },
+  {
+titulo:"SALA DE LEITURA // SOCORRO CAPIBERIBE/ AS DUAS CLARAS",
+   tipo:"Conto",
+   trecho:"A Clara, clara, de olhos claros, cabelos loiros, cheia de laços...",
+   imagens:["imagens/IMG-20261007-WA0007.jpg"],
+   texto:`
+"Somos todos da mesma cor pelo lado de dentro" (para refletir!)
+
+*AS DUAS CLARAS*
+
+Uma, era clara e chamava-se: Clara. A outra, era escura, mas também era Clara. E, na sala de aula, quando a professora chamava, as duas se levantavam e a classe inteira entoava: " 
+
+- Qual Clara, Professora? A Clara, escura... ou a Clara, clara?" - E o riso corria solto, mas as meninas não se embaraçavam. Era sempre assim.
+
+Cresceram, juntas, as duas Claras. Freqüentaram o mesmo colégio desde a infância. Estudaram na mesma sala, durante anos... Dividiram a mesma banca, todo o primário.
+
+A Clara, clara, de olhos claros, cabelos loiros, cheia de laços... Chegava de carro, com o motorista, farda bem arrumada, lanche caprichado. 
+
+A outra Clara, a Clara negra, olhos escuros, bem expressivos... cabelo enroladinho, bem arrumado... farda cerzida, mas bem engomada... lanche mais simples, porém bem gostoso... chegava a pé, com a mãe de lado.
+
+Eram amigas, as duas meninas... Boas colegas, grandes confidentes. Companheiras inseparáveis nos estudos e nas brincadeiras. Faziam juntas as tarefas e juntas se preparavam para as provas. Tiravam as melhores notas da sala... Até que um dia se estranharam. A amizade ruiu. As diferenças pesaram.
+
+Estavam concluindo o Curso Ginasial - 
+hoje chamado: "Fundamental" - quando o colégio promoveu um concurso de redação, sobre o tema: "BRASIL, PÁTRIA AMADA, BRASIL", para premiar os concluintes. E o Primeiro lugar ganharia uma viagem à Brasília, capital do país. 
+
+Todos os alunos se prepararam. Deram o melhor de si. Usaram seu melhor Português. Todos queriam a viagem. Dessa vez, as duas Claras não puderam se ajudar... Eram concorrentes.
+
+O prêmio veio para uma delas.
+
+Mal a Diretora anunciou o nome, as duas se levantaram... e como era de costume, a classe inteira perguntou: - "Qual Clara, Senhora Diretora? A Clara escura ou a Clara, clara?..." - Tal qual faziam com os professores, em sala de aula...
+
+Mas, esta, também, não se intimidou e carinhosamente respondeu: 
+
+- A Clara, de olhos negros e cabelos de cachinhos... Uma aluna de idéias brilhantes e sorriso de mel".
+
+ Todos aplaudiram.
+
+A outra Clara, sentou-se, decepcionada. Não era ela a vencedora. Não era ela, a Clara clara, de olhos claros, de cabelos loiros, lisos e sedosos, e de farda arrumada. Engoliu o choro. Segurou a lágrima. Sentiu-se injustiçada. 
+
+Era o preconceito falando mais alto. Nunca havia sentido tal sentimento antes. Também nunca tinham sido concorrentes. 
+
+Foram sempre colegas... Estudaram sempre juntas... Mas nunca disputaram o mesmo prêmio.
+
+Existe uma citação bíblica bem simples e muito profunda, que diz, em outras palavras...
+que, às vezes, basta tão pouco, para que duas pessoas que se amam... fiquem separadas. De repente, um tom mais áspero na voz, uma palavra mais forte num momento mais sensível, uma expressão dura no olhar ou um simples trejeito... e, dois irmãos, marido e mulher ou dois amigos muito unidos, desconhecem-se e transformam-se, de um momento para outro, em dois estranhos... e foi, justamente isso, o que separou aquelas duas amigas.
+
+A jovem, branca, que sentiu-se injustiçada, por perder o prêmio para a colega negra, deixou-se vencer por um sentimento pobre e mesquinho... e lançou contra a amiga palavras duras, carregadas de ressentimento, que revelavam um preconceito sórdido... estúpido... cruel:
+
+- Você não merecia ganhar esse prêmio... Foi "jogo" da direção para não parecer preconceituosa diante do colégio e se reeleger... mas, deveria haver uma lei que proibisse os negros de disputarem as mesmas vagas e os mesmos prêmios que os brancos...
+
+Impossível descrever a incredulidade da outra jovem e a força de tais palavras sobre seus sentimentos. Em apenas alguns minutos, uma amizade de longos anos caía pelo chão. As lágrimas desciam livres... de três, de quatro... pela face da amiga ofendida. Não conseguia acreditar no que estava ouvindo. De repente, teve a impressão de nunca ter visto aquela colega antes... Simplesmente não a conhecia... e foi com muito sofrimento, sentindo na pele a mais profunda humilhação, que a Clara escura dirigiu-se à Clara clara...
+
+- Isso foi a pior coisa que você já falou durante todos esses anos... Eu não a conheço... Você não é a minha amiga... mas eu vou perdoar porque você não sabe o que está dizendo...
+
+- Eu não preciso do seu perdão! E não retiro o que falei... Foi "arrumação" da Diretora... e, não é justo os negros terem direitos iguais aos brancos. 
+
+A aluna insultada, desconsolada, infeliz, indignada... ia se voltando para sair, quando esbarrou em alguém... A Diretora do colégio, tão indignada quanto ela, escutara tudo em silêncio, não perdera uma palavra sequer e podia ver nos olhos da moça, toda dor daquela humilhação... Apenas segurou-lhe o braço com carinho e num tom suave murmurou:
+
+- Venha comigo, filha... Não foi nada... ela não sabe o que diz.
+
+Levou-a até à Diretoria, convidou-a a sentar, ofereceu-lhe água. Depois pediu licença por um instante e saiu. Voltou em seguida, trazendo com ela a outra aluna...
+
+- Peça desculpa! - Ordenou.
+
+- Eu não tenho nada para falar.
+
+- Peça desculpa à sua colega... - insistiu a Diretora - foi muito grave o que você falou. As palavras também machucam... talvez até mais do que uma pancada, dependendo de quem diz e do que se diz...
+
+E, como não obteve resposta, a Diretora chamou a outra aluna, a Clara negra, a Clara humilhada... e disse:
+
+- Dê-me o seu braço, filha... 
+
+Depois pegou também o braço da outra Clara e juntou os dois.
+
+Estavam ali... juntos, colados, os braços das duas. Um braço, bem alvo, parecia um copo de leite. O outro, bem escuro, parecendo chocolate. Esfregou os dois, um no outro, bem esfregado... depois perguntou à jovem branca:
+
+- Sujou o seu braço?... 
+
+A jovem, muito alva, ficou vermelha de repente e tentou retirar o braço... mas a Diretora insistiu:
+
+- Vamos, responda, sujou o seu braço?  
+
+Não houve resposta e a Diretora concluiu:
+
+- Claro que não sujou. A cor da pele não larga tinta, não mancha. Não é sujeira.
+
+Também não precisa sair correndo para lavar, porque não pega... não é doença. E o sangue que corre em suas veias é tão vermelho quanto o dela. Sangue azul, minha filha, só existe em contos de fadas... E o sangue de um negro, salva a vida de um branco. Ninguém é melhor por causa da cor da pele, da religião, situação econômica ou classe social. Todos somos iguais aos olhos de Deus... Somos filhos de um mesmo Pai. Pense nisso! 
+
+Fez-se um grande silêncio. As alunas retiraram os braços e a Diretora suspirou, visivelmente aborrecida. Não houve pedido de desculpa... a Diretora não insistiu e as alunas foram dispensadas. A lição foi dada... Se foi aprendida, não se sabe. Mas se não foi... A vida, certamente, ensinaria.
+
+Alguns anos se passaram... As duas Claras não mais se viram... Mudaram de colégio, cursaram faculdade, casaram, tiveram sua vida. As feridas foram cicatrizadas, mas as lembranças não foram esquecidas.
+
+Tempos depois, numa Maternidade... Duas mães, duas situações, uma lição de amor... 
+
+Num andar, uma mãe recém-operada, não tinha leite para oferecer ao filho... O bebê tão pequenino, nascido alguns dias antes do prazo, tão frágil e indefeso, chorava faminto e necessitava de leite materno...
+
+Em outro andar, outra mãe dera a luz, a uma criança doentinha, que morreu horas depois do nascimento... e em cujo seio o leite era abundante... 
+
+As enfermeiras, constrangidas, sem saber a reação daquela mãe, que chorava a perda da filha... com muito jeito, com muito carinho, com muito tato, perguntaram se ela aceitaria amamentar o outro bebê, cuja mãe não tinha leite. 
+
+Apesar da profunda tristeza, aquela mulher atendeu ao pedido... 
+
+Tomou em seus braços o pequeno prematuro que chorava faminto, e pensando ter nos braços a filha que durante nove meses carregou no ventre, o amamentou. E fez isso durante os quatro dias que permaneceu no hospital.
+
+No dia da saída, a mãe do bebê amamentado, quis conhecer a outra mãe que teve aquele gesto desmedido de amor... 
+
+Foi até seu quarto, com o filho nos braços... mas ficou parada na porta, muda de emoção...
+
+Tinha diante dela, a amiga do passado... a colega de colégio que dividira com ela não só a banca da classe, mas também, a infância e a adolescência. A Clara escura, cor de chocolate, dos olhos negros e expressivos, dos cabelos enroladinhos cheios de fivelas coloridas, sorriso doce como mel e dentes muito alvos. A amiga negra, que ela, Clara, tanto humilhou.
+
+Quase não acreditou. Um nó apertou-lhe a garganta, impedindo-a de falar... O. coração parecia querer saltar-lhe do peito e as lágrimas começaram a cair...  
+
+A outra mulher, a mãe negra que perdera a filhinha... a Clara escura, que apesar da dor teve a dignidade de amamentar seu filho, expressão serena e sorriso doce, preparava-se para deixar o quarto... mas também ficou paralisada de espanto, com uma expressão indefinida no olhar. Não era ódio nem rancor... talvez susto ou então um enorme vazio provocado pela perda da filha... O marido, ao seu lado, segurava a malinha da criança, que não poderia voltar com eles para casa. 
+
+O bebê nos braços da mãe, começou a chorar pedindo o peito... A mulher negra permaneceu parada, silenciosa, apenas fitando os olhos de Clara. Teve ímpeto de pegar a criança, mas não o fez. Há coisas que dispensam as palavras... entende-se apenas com o olhar e Clara entendeu. Sentiu-se terrivelmente envergonhada. E num gesto de arrependimento e gratidão, pegou o filho e depositou nos braços da mãe escura... da outra Clara... que tomou a criança no colo e cheia de ternura ofereceu-lhe o seio.
+
+Aquela foi a cena mais bonita que Clara, clara, cabelos loiros e olhos claros, pôde assistir. Do seio negro da Clara escura, o leite bem branquinho jorrava em abundância e alimentava o seu filho. Dos olhos de Clara, jorravam lágrimas, enquanto seus ouvidos ainda podiam escutar... "A cor da pele não larga tinta... não mancha... porque não é sujeira. Também não pega, porque não é doença. O sangue de um negro pode salvar a vida de um branco..."
+A diretora tinha razão. Aquela lição ela aprendia agora.
+
+Lembrou-se do último encontro com a sua amiga... Jamais esquecera o tamanho dos olhos da colega, aumentados pelo espanto, bem como das lágrimas que deles desciam, provocadas por tanta decepção.
+
+Durante todos aqueles anos, tentou esquecer essa imagem... mas não conseguiu. Ela a perseguiu e continuou bem viva em sua memória. Naquele instante, sentada diante da amiga, aquela mulher negra tão humilhada e tão sua conhecida, que a vida acabava de lhe tirar um bem imenso e que ainda assim oferecia o peito para saciar a fome do seu filho... pensou envergonhada: "meu Deus, como pude ser tão cruel?" Tomou consciência, naquele momento, da grandeza das palavras da Diretora e em seu pensamento concluiu... "tão vermelho quanto o seu, era o sangue dela... e ele também podia salvar a vida de um branco... - dissera a Diretora... - e tão branco, quanto o de uma mãe branca, era o leite de uma mãe negra... e esse também podia alimentar uma criança branca, como estava alimentando agora o seu filho..." - constatou ela.
+
+A criança adormeceu tranqüila no peito da outra... barriguinha farta, fome saciada, leite escorrendo pela boca, numa expressão de paz tão própria das crianças... A mulher afagou-lhe a cabecinha e despediu-se... era a última vez que o amamentava. De alguma maneira, o contato que mantivera com aquele bebê, serviu-lhe de lenitivo na sua dor. E feito isso, devolveu a criança à sua mãe.
+
+Clara tentou falar... precisava agradecer... queria pedir perdão... mas as palavras estavam presas... as lágrimas não permitiam. E dessa vez, foi a outra quem entendeu... Conseguiu ler o seu silêncio e com o coração escutou as palavras que não foram ditas... E num gesto de quem aceitava o seu pedido de perdão, colocou levemente a mão nos lábios da amiga e concluiu:
+
+- Não faça isso, por favor... Não é necessário...
+
+- Mas eu preciso... balbuciou a outra... está preso aqui... - e bateu no peito... - Eu preciso que você me perdoe...
+
+- Foi a muito tempo... Eu já lhe perdoei.
+
+As duas Claras se despediram. Voltaram para suas casas, para suas vidas. As mágoas foram perdoadas. A lição foi bem aprendida. Mas, a amizade jamais voltaria a ser igual. Alguma coisa tinha quebrado... e por mais bem colado que fosse, ficaria sempre uma emenda."
+______________
+ (Do livro da autora: A VIDA ATRAVÉS DOS CONTOS)
+______________
+Todos os livros da autora encontram-se à venda na AMPARE: 81-3222.6252 e 9.9504.0782
+
+Rua Oswaldo Cruz, 393/Prédio anexo, Boa Vista, Recife, PE.`
+  },
+  {
+titulo:"FESTA DAS NEVES... FÁBRICA DE SONHOS OU NO TEMPO DA TERNURA...",
+   tipo:"Conto",
+   trecho:"Era sempre assim, exatamente assim, ano após ano...",
+   imagens:["imagens/IMG-20261007-WA0008.jpg"],
+   texto:`FESTA DAS NEVES... FÁBRICA DE SONHOS OU
+NO TEMPO DA TERNURA...
+(Por Socorro Capiberibe)
+
+Era Julho...
+Os caminhões começavam a chegar, carregados de brinquedos empilhados, para serem descarregados e armados ao longo do grande pátio da Catedral, no coração da cidade, para a festa da Padroeira.
+
+Era sempre assim, exatamente assim, ano após ano...
+
+Homens trabalhavam dia e noite, descarregando pilhas de cavalinhos coloridos, carrinhos, cadeiras, barcos, aviões, pesadas armações de ferro, blocos de madeira, trilhos, cordas, fios, ganchos e placas diversas... Em poucos dias, o pátio seria transformado num grande parque de diversões ou numa divertida “Fábrica de sonhos”, com os mais diversos brinquedos e atrações, que durante Dez dias fariam a alegria das pessoas do lugar: crianças, jovens, adultos, principalmente os namorados... A festa da Padroeira mudava a rotina da cidade.
+
+No vasto pátio, além da Catedral, existia também um tradicional Colégio, cujos alunos esperavam ansiosos por essa época do ano, para acompanharem de perto – passo a passo – e cheios de alvoroço, o trabalho incansável daqueles homens que com suas mãos mágicas transformavam aquele espaço num palco de emoções.
+
+A festa tinha inicio no dia 27 e permanecia até o dia 05 de Agosto, dia de Nossa Senhora das Neves. Nesse período, toda cidade se enchia de alegria e todos se encontravam a partir das 16:00h até o final da noite, para desfrutar da magia dos brinquedos.
+
+E eram tantos... Eram muitos... Eram todos...
+
+Rodas-Gigantes de todos os tamanhos, carrosséis de cavalinhos, Montanhas - russas, Trem-fantasma, carrinhos, aviões, barcos, Polvo, Tira-prosa e outros.
+
+Havia atrações do tipo: Casa dos horrores – que tinha a mulher barbada e o homem que virava macaco; Tenda da sorte - onde as moças entravam para conhecer o seu destino; Casa dos espelhos – onde as pessoas se viam de diferentes formas; Pescarias e tiro ao alvo.
+
+Tinha também as irresistíveis barracas de comidas típicas: Sarapatel, Churrasquinhos, queijo assado, tapiocas, crepes, pastéis, bolos e bebidas geladas... Porém, a grande sensação mesmo, eram as famosas e tradicionais barracas de cachorro-quente... Essas eram as mais concorridas, e seu cheiro espalhava-se no ar atiçando o apetite dos fregueses...
+
+Completando o “Passeio” e o paladar, surgiam os vendedores ambulantes com seus tabuleiros de amendoim confeitado, Castanha torrada, rolete de cana, algodão-doce, cocadas, doce - japonês, maçãs – do - amor, pipocas doces e salgadas, cavaco chinês e pirulitos de açúcar queimado.
+
+A tarde era repleta da garotada e o parque ficava cheio de bolas coloridas... Cada criança segurava a sua bola amarrada a uma linha e de vez em quando, ouvia-se um choro porque as bolas escapavam de suas mãos, subiam ao céu sob a pressão do gás e flutuavam no ar levadas pelo vento. O choro misturava-se com os risos das outras crianças em delírio nos carrosséis, carrinhos e aviões.
+
+À noite era a vez dos jovens e adultos. Casais passeavam de mãos dadas, rodavam nas montanhas-russas e rodas-gigantes, sentindo aquele friozinho gostoso na barriga... Ah, como era bom!
+
+Não dava para esquecer as músicas que ecoavam pelos alto-falantes - todas apaixonadas – muitas, oferecidas pelos namorados ‘a suas musas “com muito amor e carinho do Sicrano para Fulana...”
+
+E a voz de Roberto Carlos nos anos 60 enchia o ar e penetrava fundo nos ouvidos e nas emoções...
+
+“Quero me casar contigo / não me abandones tenha compaixão / a coisa que eu tenho mais medo na vida / é saber que um dia posso perder teu coração...”
+
+Depois, Jerry Adriany entoava...
+
+“Querida / quero lhe dizer / que toda a minha vida / entreguei a você / procure olvidar / o que lhe fiz / querida, perdoa / querida, não vá...”
+
+Agora era a vez de Nelson Gonçalves...
+
+“Cabocla teu olhar está me dizendo / que você está me querendo / que você gosta de mim... / Cabocla, não te dou meu coração / hoje você me quer muito / amanhã não quer mais não...”
+
+Aí entrava Moacyr Franco...
+
+“É tão calma a noite / a noite é de nós dois / ninguém amou assim / nem há de amar depois...”
+
+Não podia faltar Agnaldo Timóteo...
+
+“Quem será, quem será / o amor que imagino eu /Quem será, quem será / o amor para ser só meu / Eu só quero você / se você me quiser também / coração que eu ganhar eu não vou dividir com ninguém...”
+
+E, tinha o outro Agnaldo... O “Rayol...”
+
+“E, de repente o amor aconteceu / unindo para sempre você e eu / um beijo então calou a nossa voz / O amor falou por fim / falou por nós... “
+
+Núbia Lafayette também marcava presença...
+
+“Que será / da minha vida sem o teu amor / da minha boca sem os beijos teus / da minha alma sem o teu calor / Que será / da luz difusa do abajur lilás / se nunca mais vier a iluminar / outras noites iguais...”
+
+Quem podia esquecer Altemar Dutra?
+
+"Sentimental eu sou / eu sou demais / Eu sei que sou assim / porque assim ela me faz / as músicas que eu vivo a cantar / tem um sabor igual / por isso é que se diz / como ele é sentimental... "
+
+E, vinha Adilson Ramos...
+
+“Sonhar contigo / por toda vida / sonhar contigo / meu amor, minha querida / viver pensando em ti somente / viver te amando / ser só teu eternamente...”
+
+E as músicas seguiam, uma a uma, carregadas de ternura e paixão, e davam “seus recados aos namorados” e, eram retribuídas com os olhares intensos que arrebentavam corações e o aperto das mãos entrelaçadas, com promessas de amor eterno... Era o tempo do flerte, do namoro comportado, do encanto jovem e natural das festas de rua...
+
+Muitos namoros começavam na “FESTA DAS NEVES”...
+
+Alguns resistiam a muitas “FESTAS” e transformavam -se em casamentos. Outros duravam apenas os dez dias de magia e viravam amizades.
+
+Quando a festa terminava e os caminhões levavam de volta os brinquedos desarmados para outras cidades, ficavam as lembranças e os assuntos eram conversados por muitos dias ainda até serem substituídos por outras novidades.
+
+E, embora, passassem meses sem se ver ou se falar...
+Todos se conheciam e se reencontrariam no ano seguinte, no mês de Julho, no grande pátio da Catedral de João Pessoa.
+
+Do livro da autora: *A ARTE DE CONTAR* HISTÓRIAS (50 melhores contos e crônicas)
+
+À venda na AMPARE: Rua Oswaldo Cruz, 393/Anexo, Boa Vista, Recife, PE.
+81-3222.6252 e 9.9504.0782
+
+Site literário:
+socorrocapiberibe.com.br 
+
+instagram:
+@msocorrocapiberibemaia 
+
+YOUTUBE:
+Socorro Capiberibe`
+  },
+  {
    titulo:"SALA DE LEITURA // HORA DO CONTO // *SOCORRO CAPIBERIBE",
    tipo:"Conto",
    trecho:"Sentou-se à mesa, mas quase não tocou na comida...",
