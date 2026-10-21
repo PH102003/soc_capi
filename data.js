@@ -169,7 +169,251 @@ const livros = [
 ------------------------------------------------------- */
 const contos = [
   {
-    titulo:"CANTINHO DO POETA/SOCORRO CAPIBERIBE (DEIXANDO UM POUQUINHO DE MIM...",
+   titulo:"HOMENAGEM A LUIS FILIPE MARINHO CAPIBERIBE, MÉDICO, IRMÃO E 'BUBU'...",
+   tipo:"Crônica",
+   trecho:"Já dá para imaginar que esse era o momento mais esperado por mim... ",
+   imagens:["imagens/IMG-20261020-WA0005-imageonline.co-merged.jpg"],
+   especial: true,  
+   texto:`  
+
+*E SE TU NÃO EXISTISSES, DIZE-ME POR QUE EU EXISTIRIA?* 
+
+Escutei pela primeira vez num comercial de televisão, no horário nobre da novela das Oito... Era linda... Muito linda...Tocou minha alma profundamente e eu me apaixonei. 
+- Pelas sandálias ou pela música? 
+
+Ah, esqueci de dizer: *Era um Comercial de uma sandália nova chamada "FRANCESINHA"... Sim, mas como eu ia dizendo, foi "Amor à primeira vista ou à primeira escuta" - como o leitor preferir - porque o fato é que me apaixonei perdidamente pelas duas: A "música" e a "sandália", exatamente nessa ordem. 
+
+Esperei ansiosamente pelo dia seguinte, e no mesmo horário lá estava ele: O Comercial da música e da sandália apaixonantes... 
+
+Pronto. Agora tínhamos encontro marcado todos os dias: o comercial e eu. 
+
+Já dá para imaginar que esse era o momento mais esperado por mim... 
+
+Devo dizer que tenho paixão por música e um coração loucamente romântico... E embora nunca tenha estudado Francês e não entendesse nada daquela letra, podia sentir que ela falava de um grande amor... Amo músicas e histórias que falam de um grande amor.
+
+Devo ainda dizer que também tenho paixão por sandálias, e aquelas *FRANCESINHAS* ficariam maravilhosas nos meus pés... 
+
+Bem, as sandálias não seriam problema, toda sapataria teria... Mas, e a música?
+
+Sem o nome e nem o cantor da música, ficava difícil procurar nas lojas de discos... Eu até tentei mas não consegui. 
+
+Chegaram as férias de Julho... Fomos com as crianças para o apartamento de meu irmão em João Pessoa, na praia de Tambaú... 
+
+Na primeira manhã da nossa estadia, meu marido levantou mais cedo, foi para a salinha de música e colocou um longplay na vitrola... 
+
+Ah, antes que você se pergunte que tempo era esse - de Longplays e Vitrolas - eu digo: era a década de '80... mas, incrível mesmo foi a primeira música que tocou... 
+
+Abri os olhos, concentrei os ouvidos e pulei da cama cheia de emoção... Era ela... A minha paixão do momento... a música apaixonante, da sandália apaixonante, do comercial apaixonante, que eu ansiosamente esperava todas as noites para assistir... 
+
+Essas férias foram inesquecíveis! Durante trinta dias eu ouvi a minha música preferida: 
+
+*"ET SI TU N'EXISTAIS PAS"* 
+
+- Se eu fiquei com o LP do meu irmão?
+
+ - Não. Eu não faria isso... Mas comprei outro exatamente igual. 
+
+Ah, e as sandálias "FRANCESINHAS" também!
+
+E foi assim que ela entrou em minha vida!
+
+*Férias de Julho de 1986 (Não foi em Paris, mas foi igualmente feliz!)*  
+
+**Crônica inspirada em fatos reais e dedicada ao meu querido irmão e compadre:*  
+
+*Luis Filipe Marinho Capiberibe*💝`
+  },
+  {
+    titulo: "SALA DE LEITURA // HORA DO CONTO // DEIXANDO UM POUQUINHO DE MIM...",
+    tipo:"Conto",
+    trecho:"Não que não gostasse do seu trabalho... Não era isso...",
+    imagens:["imagens/IMG-20261020-WA0005-imageonline.co-merged.jpg"],
+    texto:` 
+""A PROFESSORA QUE QUERIA SER PSICÓLOGA E TERMINOU SENDO BIBLIOTECÁRIA OU PROFESSORA SIM, COM MUITO ORGULHO!!""
+
+Fim de tarde... Quente, abafado, poeirento. Lá fora nenhuma folha mexia. Não fosse o ventilador de teto e a velha biblioteca seria insuportável. Os ponteiros do relógio se arrastavam preguiçosos e a tarde parecia não ter fim.
+A bibliotecária olhou a pilha de livros à sua frente e suspirou. Não que não gostasse do seu trabalho... Não era isso... Até que o seu trabalho era interessante. Importante. Gratificante... 
+
+Era aquele calor sufocante de dezembro... Aquele silêncio que incomoda, provocado pela ausência dos alunos, quase todos já passados, só uns poucos em recuperação. Era o cansaço mesmo do final de ano, quando todos, alunos e professores, e ela também, ansiavam por férias.
+
+Eram livros devolvidos pelos alunos, que precisavam voltar às prateleiras; livros novos, recém-chegados, já para o próximo ano letivo, que precisavam ser registrados, classificados e catalogados, antes de seguirem também para as estantes... E mais livros danificados, descolados, rasgados, esperando pelas mãos habilidosas e pacientes da bibliotecária, que carinhosa e indignada, com os maus tratos dos leitores, iria restaurá-los... Recuperar-lhes as capas, colar suas páginas, dar-lhes um aspecto decente e devolvê-los sãos e salvos aos seus lugares.
+
+Mas o trabalho de uma bibliotecária não era só ficar sentada atrás de uma mesa, consertando livros velhos, colando fichas atrás de suas capas, preenchendo mais fichas de leitores ou recebendo e emprestando livros, e exigindo do aluno o mais absoluto silêncio... 
+
+Era ir com o aluno à prateleira e ajudá-lo na escolha do livro certo, e até sentar-se ao lado do aluno para orientá-lo em sua pesquisa.
+Era tirar as suas dúvidas, ouvir suas estórias, entender os seus sentimentos, resolver os seus problemas, compartilhar das alegrias, consolar nas notas baixas, escutar, aconselhar, calar... E até saber que tipo de leitura, este ou aquele aluno prefere.
+
+E a bibliotecária, não era só bibliotecária, era Professora também. E muitas vezes era a Psicóloga, a amiga ou simplesmente colega. 
+
+Amava seus alunos. Sentia-se feliz ao lado deles. Sentia-se jovem como eles. E se aquela não era a profissão dos seus sonhos, passou a ser o seu ideal. Havia aprendido, com cada um deles, a amar sua profissão. 
+
+Conseguira transformar a biblioteca num lugar agradável, acolhedor, aconchegante. Ali, todos os dias, os alunos se reuniam para: fazer pesquisas, trabalhos, estudar para as provas, ler jornais, revistas, ouvir uma boa música ou assistir a algum programa educativo pela televisão.
+
+Havia ainda quem entrasse apenas em busca de um pouco de conversa, uma palavra amiga, uma orientação ou um conselho. Às vezes solicitavam temas, dos quais a biblioteca não tinha registro... Biografias de compositores clássicos: Bethoven, Mozart, Chopin... E a bibliotecária encarregava-se de providenciar, bem como gravar fitas musicais, atendendo a pedidos dos alunos, para serem escutadas na biblioteca.
+
+E assim, nesse clima amistoso, as tardes na biblioteca transcorriam tranqüilas, harmoniosas, alegres... Bem diferente daquela tarde quente e vazia de dezembro. Era exatamente isso o que estava faltando naquele momento: o movimento habitual, a presença amiga e a alegria contagiante dos alunos.
+
+A bibliotecária colocou uma fita de músicas clássicas baixinho, recolheu os cartazes e os trabalhos dos alunos expostos no Mural, guardou alguns livros nas prateleiras e sentou-se. Olhou novamente a pilha de livros à sua frente para serem registrados e sem disposição para iniciar aquela tarefa... Recostou na cadeira, fechou os olhos e começou a fazer um balanço dos bons e maus momentos que permearam todo aquele ano que terminava. E as lembranças foram vindo fáceis, lentamente, desfilando uma a uma em sua memória...
+
+Certa vez, no inicio do ano, quando criara o ESPAÇO DO ESTUDANTE, um lugar reservado aos alunos, onde deveriam ser expostos apenas trabalhos de sua autoria, foi procurada por uma aluna que lhe apresentou um poema dizendo ser seu, para expor no painel. A bibliotecária conhecia o poema...
+
+Tratava-se de uma mensagem religiosa e que ela, a bibliotecária, tinha escutado recentemente numa missa de 7º dia, tendo inclusive recebido a mensagem impressa num “santinho”. O poema não era, portanto, da autoria da aluna e não poderia ser exposto no ESPAÇO DO ESTUDANTE... Mas, como dizer isso à menina sem magoá-la... Tinha que ser habilidosa. Era preciso mostrar o erro sem ferir. Não podia permitir que a aluna se apropriasse indevidamente de um texto que não lhe pertencia... E a bibliotecária olhou a aluna nos olhos e disse:
+
+- O ESPAÇO DO ESTUDANTE é só para textos escritos pelos próprios alunos. 
+
+- Mas este é meu poema, professora... Fui eu que escrevi.
+
+A bibliotecária ia dizer que não. Que conhecia aquele poema. Que o tinha em sua casa... Mas a menina insistiu...
+
+- O que foi? A senhora não gostou?
+
+E, como houvesse outros alunos presentes, a bibliotecária achou que aquele não era o momento apropriado para a conversa. Não queria constranger a aluna... Apenas pegou o poema, disse que era muito bonito, que o colocaria depois no painel e o guardou. A menina saiu... Disse que voltaria depois. 
+
+Sozinha, a bibliotecária pensou em como poderia fazer para resolver o assunto do poema e chegou a uma conclusão: 
+
+não iria expor o poema no espaço do estudante. Iria colocá-lo no ESPAÇO CULTURAL, um outro painel maior destinado a autores diversos, outros trabalhos comemorativos e avisos da biblioteca... A aluna certamente viria procurá-la e haveria de querer uma explicação, e então ela conversaria com a menina. 
+
+A bibliotecária estava certa: aconteceu exatamente como ela previra. No dia seguinte, a menina entrou na biblioteca e foi direto à procura do seu poema. Não o encontrou. Ficou indignada...
+
+- Professora, a senhora não colocou o meu texto...
+
+- Coloquei... – disse a bibliotecária tranquila, mostrando o poema exposto no outro painel. Olhe ali.
+A mocinha olhou incrédula e tentou insistir na mentira...
+
+- Mas não era para colocar ali... Deveria estar no Espaço Do Estudante junto aos dos meus colegas...
+
+Estavam sozinhas... Uma, diante da outra. A bibliotecária colocou a mão no ombro da aluna e falou carinhosa, mas determinada:
+
+- Ouça, minha filha. Este poema não é seu. Ele existe. É de autor desconhecido. Alguém o escreveu e quis permanecer no anonimato. Mas não foi você. Eu tenho este poema em casa. Recebi numa missa de 7º dia. Posso trazer para lhe mostrar...
+
+- Não precisa... disse a adolescente envergonhada, com os olhos cheios d’água... Não precisa, Professora... e dirigiu-se para a porta...
+
+- Escute... Disse ainda a bibliotecária... – Você é capaz de escrever textos tão bonitos quanto este. Escreva seus próprios poemas e traga-os aqui para expor no seu espaço... Você é capaz! 
+
+A aluna não disse nada e saiu. Passou uns dias afastada, e uma tarde entrou na biblioteca alegre e sorridente...
+
+- Professora, consegui! Leia... Leia aqui... Este poema a senhora pode colocar sem medo, porque fui eu que escrevi. 
+
+A bibliotecária leu e sorriu. E abraçando à aluna disse:
+
+- Parabéns!... Eu sabia que você era capaz! 
+
+E colocou o poema da aluna na mesma hora, no painel. Até que provassem o contrário, o poema era dela. Este, a bibliotecária não conhecia...
+
+De outra vez, foi o caso da aluna espancada pela mãe, que veio buscar conforto na companhia da bibliotecária, a amiga que a escutava, que a aconselhava, que já tinha em sua gaveta o livro certo esperando por ela.
+
+De fato, todos os dias, a aluna chegava sorridente, saia bem curtinha, mini blusa, cheia de conversa, cheia de novidades, cheia de alegria, próprio dos seus 14 anos. Cada dia devolvia um livro e já levava outro. Tinha paixão por leitura... E a bibliotecária já sabia até o livro que escolheria para ela levar no dia seguinte.
+
+Naquele dia foi diferente. Ela chegou calada, de calça comprida, de blusa comprida, com cara de choro. Pegou um livro na estante e sentou-se sozinha numa mesa afastada.
+
+A bibliotecária apenas observou a menina de longe e respeitou o seu silêncio... E Continuou trabalhando nos seus livros e atendendo outros alunos. Somente quando todos saíram, ela foi conversar com a aluna. 
+
+Notou de imediato um hematoma na testa, próximo a sobrancelha, que o cabelo tentava encobrir, e um ferimento na boca. A menina continuou em silêncio de olhos baixos, fixos no livro que tinha nas mãos.
+
+- Quer conversar comigo?... – Perguntou a bibliotecária.
+
+- Ela não respondeu... Mas levantou as mangas da blusa e mostrou os braços cheios de arranhões e também a barriga estava cheia de marcas arroxeadas da surra... Enquanto de seus olhos, as lágrimas desciam de três, de quatro... Sem cerimônia. Nada falava... Mas o seu silêncio era carregado da mais profunda mágoa.
+
+- Quem fez isso com você?
+
+- Minha mãe... – Soluçou a menina – Ela me deu de cinturão e me chamou de: Vadia, Vagabunda e Ordinária. E a cada insulto, a menina contraía o rosto, como se ainda pudesse sentir a dor de cada pancada que sofrera...
+
+A bibliotecária ficou também em silencio. Estava com a voz presa. Jamais vira tamanha brutalidade.
+
+Era horrível ver uma jovem de 14 anos espancada daquela forma... 
+Era estúpido. Era grosseiro. Era covarde. Mas infelizmente, aquela era a realidade de muita gente.
+O mundo estava violento. O povo estava doente. A humanidade estava desumana.
+
+O que ela poderia dizer àquela menina, ferida no corpo e nos sentimentos?
+Falar de perdão em determinados momentos... Pedir compreensão para um gesto que nem ela mesma compreendia, às vezes pode soar como desrespeito à dor do próximo.
+
+Não dava para ignorar a agressão sofrida pela aluna. As marcas estavam ali diante de seus olhos. Mas, não poderia atiçar ódio, alimentar revolta ou semear discórdia. Só poderia ouvir, confortar, dizer que tudo iria passar... 
+
+Aconselhar para ela não enfrentar a mãe... Não desafiá-la... E mesmo contra a vontade, tentar perdoar. Dedicar-se aos estudos... Trabalhar... Tentar amenizar o sofrimento da mãe... Porque certamente, para ser capaz de um gesto daqueles, ela deveria estar doente e precisava de ajuda.
+
+A bibliotecária falou. A aluna ouviu. Se naquele instante a menina conseguiu entender as palavras da professora amiga, isso não se sabe. Mas ela ouviu e chorou e desabafou e muito mais que isso: Ela sentiu que não estava sozinha... Que alguém se preocupava com ela e a tratava com dignidade e não a via como uma vadia ou vagabunda ou ordinária... Apenas como gente. E a menina sentiu-se reconfortada, enxugou os olhos, segurou a mão da bibliotecária e disse: 
+
+- Eu queria ser sua filha.
+
+- Deixe de bobagem... – Disse a bibliotecária comovida... – Sua mãe ama você... Tente ajudá-la... Trate-a com carinho e ela também vai ser sua amiga.
+
+- A senhora nem me perguntou porque foi a surra... – Disse a menina...
+
+- E porque foi?... – Quis saber a bibliotecária.
+
+- Isso não tem importância... Ou tem?
+
+- Nenhuma. Não precisa contar se não quiser. Nada justifica a surra que você levou.
+
+- Qualquer dia eu lhe conto... Agora me dê o livro que a senhora guardou para mim, que eu preciso ir embora... Se eu chegar tarde em casa outra vez... – E a menina calou-se...
+
+- Já sei... Leva outra surra... – Disse a bibliotecária. Ambas sorriram. A menina beijou o rosto da professora e saiu.
+
+E, a bibliotecária, que não era Psicóloga nem Orientadora Educacional, sentiu-se feliz por emprestar os seus ouvidos e dar um pouco do seu tempo e dispensar a sua atenção e oferecer a sua amizade, para alguém que precisava de conforto e solidariedade.
+
+Mas, a bibliotecária também era professora e sentava à mesa com o aluno e o ajudava em suas atividades e até resolvia com ele os seus problemas de matemática...
+
+- Professora a senhora sabe “Regra de três? Juros? Porcentagem?”
+
+- Deixem ver se ainda me lembro... – E, lá se ia ela... Abria o livro... Olhava os exemplos... Puxava pela memória... E resolvia com aluno: a equação, a inequação, o valor de x ou y... e o que mais viesse...
+Às vezes não conseguia e ralhava com o aluno... 
+
+– Chega. Não sou professora de matemática. Presta mais atenção na aula que você aprende. Sou bibliotecária... Empresto o livro e você faz sua lição.
+
+- Professora, esse dicionário está incompleto...
+
+- Você está contestando o “AURÉLIO”?
+
+- Estou dizendo que não tem a palavra “Hipocondria”...
+
+- Em que letra você está procurando?...
+
+- Na letra “i” é claro... – disse o aluno cheio de esperteza...
+
+- Na letra “i” não tem mesmo. Procure na letra “h” que encontra... – E, a bibliotecária sorria para o aluno, que se sentia como um bobo naquele momento.
+
+Outras vezes, ela ficava da sua mesa observando em silencio, o grupo de estudantes reunido na biblioteca... Era tão interessante... Nem pareciam alunos do Segundo grau... Olhava cada um deles separadamente e não podia conter o sorriso... 
+
+“Um, colocava a ponta do lápis na boca, enquanto olhava pensativo o trabalho que fazia... O outro colocava o lápis na orelha... Outro ainda, batia com o lápis na mesa, seguindo o mesmo compasso de uma das “Quatro Estações”... de Vivaldi. Outro mais, coçava a cabeça impaciente... enquanto a menina fazia cachinhos no cabelo e a colega amassava bolinhas de papel...”
+
+Ela conseguira transformar a biblioteca num espaço aprazível e eles conseguiram despertar nela o amor pela sua profissão.
+
+Aquela biblioteca já foi: Galeria de Arte, para os trabalhos de um jovem desenhista, aluno da Escola, que expôs os seus desenhos e conseguiu algumas encomendas, entre os colegas e professoras... Promoveu “Chá de bebê” para uma aluna grávida... E até sessão de cinema com pipoca e guaraná.
+Bem, tinha sido um ano produtivo... - Constatou ela.
+Quando colocou tudo nos pratos da balança, percebeu que os momentos agradáveis e as satisfações pesaram mais que as desventuras. O saldo fora positivo. Ficou feliz.
+
+E a bibliotecária abriu os olhos... A musica há muito que terminara... Olhou pela porta, já estava escuro lá fora.
+Naquele momento o vigilante entrou, com um enorme pacote, com papel de presente e laço de fita...
+
+ – É para a senhora... Um aluno pediu que a entregasse...
+
+- Onde ele está?...
+
+- Não quis entrar... Pediu apenas para entregar.
+
+A bibliotecária abriu o embrulho e dentro havia um jarro rústico, de barro e corda, cheio de chocolates.
+
+- E eu que queria fazer dieta... Sorriu. Abriu o cartão: “Para minha grande amiga, Bibliotecária e Professora, os meus sinceros agradecimentos e os melhores votos de um Feliz Natal e um Ano Novo de saúde e Paz... Seu aluno...”
+
+Aquele era o seu melhor presente. O carinho dos alunos era sua recompensa.
+
+Desligou o som, apagou a luz, fechou a biblioteca: -“Até o próximo ano”... – pensou consigo - e saiu, levando seu presente.
+
+Mas, afinal... BIBLIOTECÁRIA, PSICÓLOGA OU PROFESSORA?...
+
+Esta pergunta ela nunca conseguiu responder... Porque na prática, ela era um pouquinho de cada uma delas. 
+
+*Socorro Capiberibe 
+www.socorrocapiberibe.com.br 
+
+Do livro da autora: "HISTÓRIAS QUE A VIDA ESCREVEU"
+(Inspirado em fatos reais, na Biblioteca da Escola Estadual Santa Paula Frassinetti, em Recife/ Pernambuco, onde trabalhei como Professora- Coordenadora de Biblioteca, pelo período de de 1989 a 2016)
+
+À venda na AMPARE (Pça Oswaldo Cruz, 393, Boa Vista, Recife/Pe) 
+81-3222.6252 e 9.9504.0782`
+  },
+  {
+   titulo:"CANTINHO DO POETA/SOCORRO CAPIBERIBE (DEIXANDO UM POUQUINHO DE MIM...",
    tipo:"",
    trecho:"Leve a alegria e os sonhos da mocidade com você...",
    imagens:["imagens/IMG-20261007-WA0009-imageonline.co-merged.jpg"],

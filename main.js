@@ -283,7 +283,35 @@ if (buscaInput) {
    O índice ("i") de cada conto é guardado no botão via data-index,
    para sabermos qual conto abrir no modal quando o usuário clicar.
 ============================================================ */
+// Corações flutuantes a partir do botão clicado
+function dispararCoracoes() {
+  const total = 24;
 
+  for (let i = 0; i < total; i++) {
+    setTimeout(() => {
+      const el = document.createElement('span');
+      el.className = 'coracao-flutuante';
+      el.textContent = i % 3 === 0 ? '🤍' : '❤️'; // varia entre branco e vermelho
+
+      // Posição horizontal aleatória ao longo de toda a largura da tela
+      const x = Math.random() * 100; // em vw
+      el.style.position = 'fixed';
+      el.style.left = x + 'vw';
+      el.style.top  = '-2rem'; // começa acima da tela
+
+      const tamanho = 1.2 + Math.random() * 1.2;
+      const duracao = 3 + Math.random() * 3; // entre 3s e 6s — queda lenta
+      el.style.fontSize = tamanho + 'rem';
+      el.style.animationDuration = duracao + 's';
+
+      // Leve rotação inicial aleatória
+      el.style.transform = `rotate(${Math.random() * 30 - 15}deg)`;
+
+      document.body.appendChild(el);
+      setTimeout(() => el.remove(), duracao * 1000);
+    }, i * 150); // cada coração aparece com 150ms de intervalo
+  }
+}
 function renderContos() {
   const container = document.getElementById('contos-lista');
   if (!container) return;
@@ -292,9 +320,9 @@ function renderContos() {
     const card = document.createElement('div');
     card.className = 'conto-card';
 
-    // data-index="${i}" salva o número de posição do conto no botão.
-    // Quando o usuário clicar, lemos esse número com dataset.index
-    // para saber qual item do array "contos" abrir no modal.
+    // Card especial recebe classe própria
+    if (conto.especial) card.classList.add('especial');
+
     card.innerHTML = `
       <h3>${conto.titulo}</h3>
       <div class="conto-meta">
@@ -303,22 +331,37 @@ function renderContos() {
       <p class="conto-trecho">${conto.trecho}</p>
       <button class="conto-ler-mais" data-index="${i}">Ler na íntegra →</button>
     `;
+
+    // Efeito de borda 2s após hover — só no card especial
+    if (conto.especial) {
+      let timerHover;
+      card.addEventListener('mouseenter', () => {
+        timerHover = setTimeout(() => {
+          card.classList.add('borda-ativa');
+        }, 0.1);
+      });
+      card.addEventListener('mouseleave', () => {
+        clearTimeout(timerHover);
+        card.classList.remove('borda-ativa');
+      });
+    }
+
     container.appendChild(card);
   });
 
-  // Event delegation: em vez de adicionar um listener em cada botão
-  // individualmente, colocamos UM único listener no elemento pai (container).
-  // Quando qualquer botão dentro dele é clicado, o evento "sobe" (bubble)
-  // até o container, que verifica se foi um botão "ler mais" e age.
-  // Vantagem: é mais eficiente e funciona mesmo para botões que forem
-  // adicionados dinamicamente depois que a página já carregou.
   container.addEventListener('click', e => {
     if (e.target.classList.contains('conto-ler-mais')) {
-
-      // parseInt converte a string "2" para o número inteiro 2,
-      // necessário para usar como índice de array.
       const idx = parseInt(e.target.dataset.index);
-      abrirModal(contos[idx]);
+      const conto = contos[idx];
+
+      // Corações flutuantes só no texto especial
+      if (conto.especial) {
+       dispararCoracoes();
+      }
+
+      // Abre o modal após 0.5s no especial, imediato nos outros
+      const delay = conto.especial ? 500 : 0;
+      setTimeout(() => abrirModal(conto), delay);
     }
   });
 }
